@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en-US" target-language="es-ES" datatype="plaintext" original="not.available">
+    <body>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1172901029">
+        <source>CrossPromo.button.boardgame</source>
+        <target xml:lang="es-ES">桌游</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1868587943">
+        <source>CrossPromo.button.comingsoon</source>
+        <target xml:lang="es-ES">即将推出</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1988584220">
+        <source>CrossPromo.button.learnmore</source>
+        <target xml:lang="es-ES">了解更多</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2041946097">
+        <source>CrossPromo.button.moregames</source>
+        <target xml:lang="es-ES">更多游戏</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="780632933">
+        <source>CrossPromo.button.playnow</source>
+        <target xml:lang="es-ES">立即游玩</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1368983527">
+        <source>CrossPromo.close</source>
+        <target xml:lang="es-ES">关闭</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1872027130">
+        <source>CrossPromo.ourothergamestitle</source>
+        <target xml:lang="es-ES">看看我们的其他游戏</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-268175122">
+        <source>CrossPromo.tab.board</source>
+        <target xml:lang="es-ES">桌游</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="378442332">
+        <source>CrossPromo.tab.family</source>
+        <target xml:lang="es-ES">家庭</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1827749158">
+        <source>CrossPromo.tab.featured</source>
+        <target xml:lang="es-ES">精选</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-263963448">
+        <source>CrossPromo.tab.gamer</source>
+        <target xml:lang="es-ES">进阶</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

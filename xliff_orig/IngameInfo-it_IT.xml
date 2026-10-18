@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en-US" target-language="it-IT" datatype="plaintext" original="not.available">
+    <body>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="127113866">
+        <source>IngameInfo.Rage</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Furia</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="861756388">
+        <source>IngameInfo.RageDescription</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Questa è la tua statistica di Furia, che indica quanta Furia avrai a disposizione nell'Era successiva.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1132379767">
+        <source>IngameInfo.Horns</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Corni</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2004122995">
+        <source>IngameInfo.HornsDescription</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Questa è la tua statistica di Corni, che indica quante miniature puoi schierare contemporaneamente sul tabellone.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2062725342">
+        <source>IngameInfo.Axes</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Asce</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-884740112">
+        <source>IngameInfo.AxesDescription</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Questa è la tua statistica di Asce, che indica quanta Gloria riceverai da ogni battaglia vinta.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1638717780">
+        <source>IngameInfo.Glory</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Gloria</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1294616706">
+        <source>IngameInfo.GloryDescription</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Questa è la tua Gloria attuale. Alla fine della partita, chi detiene il maggiore ammontare di Gloria è il vincitore.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-619142440">
+        <source>IngameInfo.AgePanel</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Pannello Ere</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1613850322">
+        <source>IngameInfo.AgePanelDescription</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Qui sono indicate le differenti fasi di ogni Era. Troverai anche il pulsante Passa, se vuoi terminare il tuo turno.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1522335138">
+        <source>IngameInfo.ValhallaPanel</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Pannello Valhalla</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-852533008">
+        <source>IngameInfo.ValhallaPanelDescription</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Questa schermata indica quante miniature sono in attesa nel Valhalla.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-74338313">
+        <source>IngameInfo.Playerframe</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Riquadro giocatore</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1384617431">
+        <source>IngameInfo.PlayerframeDescription</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Sei tu! Qui puoi trovare tutte le informazioni più importanti sul tuo clan, come l'attuale valore di Furia, le tre statistiche di clan e (al passaggio del mouse) puoi anche controllare i progressi sul relativo indicatore. È importante perché migliori sono le statistiche di clan, maggiore è il numero di Gloria extra che otterrai alla fine della partita.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="5135513">
+        <source>IngameInfo.Handcards</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Mano di carte</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1402022069">
+        <source>IngameInfo.HandcardsDescription</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Queste sono le carte della tua mano. Quelle che puoi giocare in ogni momento sono evidenziate.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2078654699">
+        <source>IngameInfo.Closeinfo</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Chiudi informazioni</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1266294933">
+        <source>IngameInfo.Playedcards</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Carte giocate</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1726501219">
+        <source>IngameInfo.PlayedcardsDescription</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Queste sono le carte miglioria che hai già giocato. Fai clic su una carta per scoprire ulteriori dettagli.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="750186238">
+        <source>IngameInfo.Opponent</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Informazioni sul clan dell'avversario</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1490587372">
+        <source>IngameInfo.OpponentDescription</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Qui puoi vedere tutte le informazioni riguardo i clan degli avversari.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

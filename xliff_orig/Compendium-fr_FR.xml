@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en-US" target-language="fr-FR" datatype="plaintext" original="not.available">
+    <body>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="876823822">
+        <source>Compendium.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Compendium</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1318841199">
+        <source>Compendium.Tabnavigation.Cards</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Cartes</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1469683901">
+        <source>Compendium.Tabnavigation.Rules</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Règles</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-486571707">
+        <source>Compendium.Tabnavigation.Tactics</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Stratégies</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-131242434">
+        <source>Compendium.Rules.Objective.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">But du jeu</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="156764168">
+        <source>Compendium.Rules.Objective.Content</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Le but du jeu est d'amasser un maximum de Gloire avant que le monde soit englouti dans les flammes. Vous obtenez de la Gloire en remportant des batailles, en pillant, en accomplissant des quêtes pour les dieux et en mourant vaillamment au combat. La partie passe par trois Âges alors que le Ragnarök détruit lentement le monde. Le joueur avec le plus de Gloire au terme de la partie est déclaré vainqueur.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-301386039">
+        <source>Compendium.Rules.BaseConcepts.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Concepts de base</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1887547015">
+        <source>Compendium.Rules.BaseConcepts.GameBoard.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Plateau de jeu</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1694132351">
+        <source>Compendium.Rules.BaseConcepts.GameBoard.Content</source>
+        <target xml:lang="fr-FR" state="needs-translation">Le plateau de jeu de Blood Rage est une carte des terres mythiques situées autour d'Yggdrasil, le grand arbre qui relie les neuf mondes entre eux. Les terres sont divisées en neuf provinces. Au centre se trouve la province d'Yggdrasil. Elle est entourée de huit provinces extérieures, divisées en trois régions : Mannheim, Alfheim et Jotunheim. Les provinces qui partagent une frontière sont considérées comme adjacentes (Yggdrasil est donc adjacente à toutes les autres provinces).
+Chacune des provinces contient trois à cinq villages. Chaque village ne peut contenir qu'une seule figurine, ce qui signifie que le nombre de figurines pouvant se trouver dans chaque province dépend du nombre de villages à l'intérieur de ses frontières. Yggdrasil n'abritant pas de village, elle n'a donc pas de limite de figurine. De plus, quatre fjords se trouvent à la frontière entre des provinces extérieures. Chaque fjord soutient les deux provinces auxquelles il est relié. Tous les effets qui affectent une province affectent également le fjord qui y est rattaché. Il n'y a pas de restriction quant au nombre de Navires pouvant se trouver dans un même fjord.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1375515412">
+        <source>Compendium.Rules.Glory.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Gloire</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="603095098">
+        <source>Compendium.Rules.Glory.Content</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Obtenir de la Gloire est la clé de la victoire dans Blood Rage !
+À la fin de la partie, le joueur avec le plus de Gloire gagne.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1900399408">
+        <source>Compendium.Rules.Rage.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Rage</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-350052746">
+        <source>Compendium.Rules.Rage.Content</source>
+        <target xml:lang="fr-FR" state="needs-translation">La Rage est votre monnaie. Effectuer des actions coûte généralement de la Rage.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1966188874">
+        <source>Compendium.Rules.ClanStats.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Caractéristiques des clans</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1103332416">
+        <source>Compendium.Rules.ClanStats.Content</source>
+        <target xml:lang="fr-FR" state="needs-translation">Le niveau de Rage indique la quantité de Rage à votre disposition au début de chaque tour. Plus vous avez de Rage, plus vous pouvez effectuer d'actions.
+Le niveau de Haches indique la quantité de Gloire que vous obtenez en remportant des batailles. Plus vous avez de Haches, plus vos victoires vous rapportent de Gloire et vous rapprochent de la victoire finale.
+Le niveau de Cornes indique le nombre de vos figurines qui peut se trouver sur le plateau. Plus le nombre est élevé, plus vous pouvez participer à des batailles, piller des terres et faire couler le sang.
+Au fil de la partie, vous aurez l'occasion d'augmenter chacune des caractéristiques de votre clan. Si vos caractéristiques atteignent un niveau légendaire avant la fin de la partie, vous recevrez des bonus de Gloire importants.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-983140160">
+        <source>Compendium.Rules.Figures.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Figurines</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="25047570">
+        <source>Compendium.Rules.Figures.Content</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Chacune de vos figurines (Chef, Navire, Guerriers et Monstres) a une valeur de force (FOR). Au début de la partie, ces valeurs sont indiquées sur votre barre de joueur. Les Chefs ont une FOR 3, les Navires une FOR 2 et les Guerriers une FOR 1. Plus vous avez de force sur le plateau, plus vous pourrez remporter de batailles et terminer de quêtes. De plus, les Chefs et les Navires commencent la partie avec des capacités spéciales que vous pouvez consulter en les survolant avec la souris. Au fil de la partie, vous pourrez améliorer vos figurines en posant des Cartes d'Amélioration dans les emplacements prévus de votre fiche de clan. Ces cartes vous indiqueront la nouvelle valeur de FOR de vos figurines ainsi que leurs capacités. Notez que les Chefs et les Navires conservent toujours les capacités indiquées dans la barre de joueur, même s'ils sont améliorés. Quand une figurine est détruite, que ce soit lors d'une bataille, à cause d'une capacité spéciale ou à cause du Ragnarök, elle rejoint le Valhalla et y reste jusqu'à l'Âge suivant.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-469649066">
+        <source>Compendium.Rules.Cards.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Cartes</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="609016160">
+        <source>Compendium.Rules.Cards.Content</source>
+        <target xml:lang="fr-FR" state="needs-translation">À chaque Âge, un paquet de cartes différent représente les Cadeaux des Dieux nordiques. Les joueurs sélectionnent ces cartes pendant la phase de Cadeau des Dieux. Ces cadeaux peuvent vous servir de différentes manières.
+
+Certaines cartes sont utilisées uniquement avec un certain nombre de joueurs. Ce nombre est indiqué sur la carte avec les symboles 3+, 4+ ou 5+ respectivement.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1535082612">
+        <source>Compendium.Rules.BattleCards.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Cartes de Bataille</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="428394270">
+        <source>Compendium.Rules.BattleCards.Content</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Les Cartes de Bataille (rouge) renforcent votre armée au combat.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2042701728">
+        <source>Compendium.Rules.QuestCards.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Cartes de Quête</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2099654650">
+        <source>Compendium.Rules.QuestCards.Content</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Les Cartes de Quête (vert) représentent les quêtes divines confiées à votre clan. Elles vous rapportent beaucoup de Gloire si vous les terminez.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-522805466">
+        <source>Compendium.Rules.UpgradeCards.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Cartes d'Amélioration</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1120814240">
+        <source>Compendium.Rules.UpgradeCards.Content</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Les Cartes d'Amélioration (noir) améliorent certains aspects de votre clan :
+• Les améliorations de troupes améliorent la force et/ou les capacités de vos Guerriers, de votre Chef ou de votre Navire.
+• Les améliorations de Monstres sont des créatures mythologiques uniques que vous pouvez recruter afin qu'elles se battent à vos côtés.
+• Les améliorations de clan sont des améliorations qui affectent votre clan dans sa globalité, avec des effets variés.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="760564453">
+        <source>Compendium.Rules.TheEnd.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">La fin est proche !</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-92387753">
+        <source>Compendium.Rules.TheEnd.Content</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">À la fin de chaque Âge, une province est détruite par le Ragnarök. En fonction du nombre de joueurs, certaines provinces peuvent être détruites dès le début de la partie.
+Dans une partie à 4 joueurs, 1 province est détruite.
+Dans une partie à 3 joueurs, 2 provinces sont détruites.
+Dans une partie à 2 joueurs, 3 provinces sont détruites.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-9594724">
+        <source>Compendium.Rules.Ragnarok.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Ragnarök</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1521563253">
+        <source>Compendium.Rules.Ragnarok.Content</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Les provinces détruites ne font pas partie du jeu. Vous ne pouvez pas vous y rendre ou les piller.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="956504088">
+        <source>Compendium.Rules.Doom.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Destruction</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-284238702">
+        <source>Compendium.Rules.Doom.Content</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">À chaque Âge, une province est "condamnée" à être détruite par le Ragnarök à la fin de l'Âge.
+Toutes les figurines présentes dans la province (et dans les fjords adjacents) sont éliminées et envoyées au Valhalla. En fonction de l'Âge, les joueurs qui les possèdent reçoivent de la Gloire pour chaque figurine détruite.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="546778639">
+        <source>Compendium.Rules.Phases.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Phases du jeu</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1768359477">
+        <source>Compendium.Rules.Phases.Content</source>
+        <target xml:lang="fr-FR">La partie est divisée en trois Âges, chacun avec les mêmes phases.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2036322678">
+        <source>Compendium.Rules.Phases.GodsGift.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Cadeau des Dieux</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-270951648">
+        <source>Compendium.Rules.Phases.GodsGift.Content</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Pendant cette phase, les joueurs sélectionnent des cartes. Ces dernières leur fournissent des améliorations pour leurs troupes et leur clan, des Monstres pour se battre à leurs côtés, des quêtes pour la Gloire, ainsi que de la force pure pour remporter des batailles. Pendant le deuxième ou le troisième Âge, si un joueur a des cartes d'un Âge précédent dans sa main, il peut choisir d'en garder une.
+Lors de chaque tour de la sélection (six au total), chaque joueur choisit une carte à garder dans sa main. Il passe ensuite les cartes restantes au joueur à sa gauche et ainsi de suite jusqu'à ce que chaque joueur ait sélectionné six cartes. Les cartes restantes sont éliminées de la partie.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-537411189">
+        <source>Compendium.Rules.Phases.Action.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Action</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1065961407">
+        <source>Compendium.Rules.Phases.Action.Content</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">L'étape principale du jeu où les joueurs peuvent se livrer à des invasions et des pillages, participer à des batailles et faire couler le sang. Tous les joueurs commencent la phase d'action avec la quantité de Rage indiquée par le niveau de Rage de leur fiche de clan. Pendant le premier Âge, chaque joueur commence avec 6 points de Rage. Pendant les Âges suivants, si vous avez augmenté le niveau de Rage de votre clan, vous commencez cette phase avec plus de Rage.
+Le Premier Joueur commence et les autres jouent leur tour dans le sens des aiguilles d'une montre. Lorsque c'est votre tour, vous devez choisir une action à effectuer. Si cette action a un coût en Rage (comme c'est souvent le cas), vous devez le payer avant de pouvoir l'effectuer. Si vous n'avez pas assez de Rage pour payer une action, vous ne pouvez pas l'effectuer. Une fois votre action terminée, votre tour prend fin. Le tour du joueur à votre gauche commence alors, et il peut effectuer une action et payer son coût en Rage. Les tours des joueurs s'enchaînent dans l'ordre.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1831766001">
+        <source>Compendium.Rules.Phases.TakingAction.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Effectuer des actions</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-179044473">
+        <source>Compendium.Rules.Phases.TakingAction.Content</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Un joueur qui n'a plus de Rage ne peut pas effectuer d'action pendant son tour, même si elle n'a pas de coût en Rage. Il doit donc se contenter de réagir aux actions des autres joueurs, comme participer à une bataille engagée par un autre joueur. Les joueurs ont le choix entre cinq options quand ils effectuent une action (comme indiqué en bas de la fiche de clan). Les joueurs peuvent effectuer la même action plusieurs fois au cours de la phase d'action, mais ils ne peuvent agir qu'une fois par tour.
+Si vous ne pouvez pas effectuer d'action ou que vous ne voulez pas le faire, vous pouvez passer votre tour. Dans ce cas, vous perdez toute votre Rage restante et vous ne pourrez pas effectuer d'autres actions. Fin de la phase d'action : la phase d'action prend fin immédiatement quand tous les joueurs sont à court de Rage ou quand toutes les provinces qui n'ont pas encore été détruites ont été pillées (même si les joueurs ont encore de la Rage).</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="995087302">
+        <source>Compendium.Rules.Phases.Invade.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Invasion</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2097411004">
+        <source>Compendium.Rules.Phases.Invade.Content</source>
+        <target xml:lang="fr-FR" state="needs-translation">Choisissez un village vide dans l'une des provinces extérieures, puis choisissez une figurine dans votre réserve. Vous devez payer l'équivalent en Rage de la FOR de la figurine.
+Si la figurine choisie est un Navire, vous devez le placer dans un fjord. Vous ne pouvez pas utiliser cette action pour poser une figurine directement à Yggdrasil. Pour cela, vous devez les y déplacer avec l'action Marche. Notez également qu'une invasion avec votre Chef ne coûte pas de Rage.
+Remarque : faites toujours attention à votre niveau de Cornes. Si le nombre de figurines sur le plateau est égal à votre niveau de Cornes, vous ne pouvez pas lancer d'invasion avec d'autres figurines (le Valhalla ne fait pas partie du plateau).</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1219643436">
+        <source>Compendium.Rules.Phases.March.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Marche</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="994775714">
+        <source>Compendium.Rules.Phases.March.Content</source>
+        <target xml:lang="fr-FR" state="needs-translation">Lorsque vous ordonnez à vos troupes d'effectuer une marche, vous devez payer 1 point de Rage. Choisissez une province (vous ne pouvez pas choisir de fjord) et déplacez autant de figurines de cette province que vous le souhaitez dans des villages vides d'une autre province. La province de destination ne doit pas forcément être adjacente, elle peut se trouver n'importe où sur le plateau. Vous ne pouvez pas déplacer de figurines de deux provinces différentes en une seule action, ou les envoyer dans deux provinces différentes. Vous pouvez uniquement les déplacer d'une province à une autre. Remarque : l'action Marche est souvent le seul moyen d'envoyer vos troupes à Yggdrasil (sauf en cas d'Appel au Combat). Il n'y a pas de village à Yggdrasil et donc pas de limite de figurines pouvant s'y trouver au même moment.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1467273268">
+        <source>Compendium.Rules.Phases.MarchExample.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Exemple de marche :</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1192276294">
+        <source>Compendium.Rules.Phases.MarchExample.Content</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">L'exemple ci-dessous indique cinq actions Marche autorisées et non autorisées :
+1 : Le joueur bleu peut déplacer ses 2 figurines, même si les provinces ne sont pas adjacentes. Il ne peut pas déplacer ses 3 figurines de Gimle car Elvagar n'a que 2 villages vides.
+2 : Le joueur jaune peut déplacer toutes les figurines qu'il veut d'Angerboda à Yggdrasil. Il n'y a pas de limite au nombre de figurines pouvant se trouver à Yggdrasil.
+3 : Le joueur marron ne peut pas déplacer ses figurines dans deux provinces différentes en une seule marche.
+4 : Le joueur rouge ne peut pas déplacer ses figurines depuis deux provinces différentes en un seul déplacement.
+5 : Les Navires ne peuvent pas être déplacés.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1723866263">
+        <source>Compendium.Rules.Phases.Upgrade.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Amélioration</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1082624751">
+        <source>Compendium.Rules.Phases.Upgrade.Content</source>
+        <target xml:lang="fr-FR" state="needs-translation">Chaque clan possède des emplacements pour accueillir jusqu'à huit améliorations : un pour les Guerriers, le Chef et le Navire respectivement, deux pour les Monstres, et trois pour le clan. Pour effectuer une amélioration, choisissez une Carte d'Amélioration dans votre main et payez un coût en Rage équivalent à la FOR de cette carte. Placez ensuite la carte dans l'emplacement correspondant de votre barre de joueur. S'il y a plus d'un emplacement possible, choisissez celui que vous voulez. S'il y a déjà une carte dans un emplacement, défaussez l'ancienne carte et remplacez-la par la nouvelle. Cette nouvelle Carte d'Amélioration devient alors un effet permanent qui vous accorde tous les avantages indiqués, de l'amélioration de la force de vos troupes à de nouvelles capacités spéciales. Si votre clan a deux améliorations dans des emplacements différents qui accordent le même type d'avantage, les deux sont actives indépendamment l'une de l'autre. Elles ne s'annulent pas mutuellement.
+Améliorations de troupes
+Quand vous jouez une amélioration de Chef, de Guerrier ou de Navire, si vous disposez de la figurine correspondante en réserve, vous pouvez immédiatement lancer une invasion avec sans dépenser de Rage supplémentaire (avant le tour du joueur suivant).
+Améliorations de Monstres
+Les Monstres sont des figurines uniques qui peuvent changer drastiquement le cours de la partie. Chacun d'eux dispose d'une capacité spéciale unique et puissante. Quand vous jouez une amélioration de Monstre, la créature vous appartient jusqu'à la fin de la partie et compte comme l'une de vos figurines. Vous pouvez immédiatement lancer une invasion avec sans dépenser de Rage supplémentaire. Votre Monstre peut mourir et être envoyé au Valhalla comme n'importe quelle figurine. Il retournera dans votre réserve lors de la prochaine phase de libération du Valhalla. Il peut vous faire gagner de la Gloire pendant la phase de Ragnarök comme n'importe quelle figurine. Vous ne pouvez avoir que 2 Monstres dans votre clan en même temps. Si vous retirez une carte de Monstre d'un emplacement pour la remplacer par une autre, la figurine de l'ancien Monstre est immédiatement retirée de la partie.
+</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-580980201">
+        <source>Compendium.Rules.Phases.Quest.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Quête</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1033038275">
+        <source>Compendium.Rules.Phases.Quest.Content</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Prenez une carte de quête dans votre main et prenez-y part en la plaçant face cachée sur votre fiche de clan, sur son symbole d'animal. Participer à une quête ne coûte pas de Rage. Il n'y a pas de limite au nombre de quêtes auxquelles vous pouvez participer à chaque Âge, et vous pouvez participer à deux quêtes du même type (chacune fournit une récompense). Vous pouvez consulter vos quêtes à tout moment. Pendant la phase d'action, vous devez essayer de remplir les critères des quêtes auxquelles vous participez pour récupérer les récompenses indiquées lors de la prochaine phase de quête. Toutefois, ne pas terminer une quête n'a pas de conséquence négative.
+Remarque : même si participer à une quête ne coûte pas de Rage, vous ne pouvez pas effectuer d'action si votre Rage est à zéro, même si elle ne coûte rien.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1226876331">
+        <source>Compendium.Rules.Phases.Pillage.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Pillage</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1064495065">
+        <source>Compendium.Rules.Phases.Pillage.Content</source>
+        <target xml:lang="fr-FR" state="needs-translation">Si vous parvenez à piller une province, vous gagnez une récompense sous forme d'amélioration d'une caractéristique de votre clan ou de Gloire supplémentaire. Mais d'abord, vous devez vaincre tous les autres clans qui occupent cette province. Pour lancer un pillage, choisissez une province dans laquelle se trouve au moins l'une de vos figurines (qui peut se trouver dans un fjord adjacent) et qui n'a pas encore été pillée pendant cette phase. Le pillage ne coûte pas de Rage, mais n'oubliez pas que vous ne pouvez pas effectuer d'action si vous n'avez plus de Rage. Un pillage se déroule en 3 étapes, dans l'ordre suivant :
+1. Appel au Combat : les joueurs peuvent déplacer des figurines adjacentes pour qu'elles rejoignent la bataille.
+2. Jouer des cartes : les joueurs participant à la bataille jouent des cartes qui ajoutent de la FOR et/ou qui ont des effets spéciaux.
+3. Résolution : la FOR la plus élevée détermine le vainqueur. Les perdants sont détruits et le vainqueur remporte la récompense.
+
+1. Appel au Combat
+Une fois que vous avez déclaré votre intention de piller une province, les autres joueurs ont une chance de se joindre à la bataille. Tous les joueurs (dont vous) en commençant par celui à votre gauche et en tournant dans le sens des aiguilles d'une montre peuvent, s'ils le souhaitent, déplacer l'une de leurs figurines d'une province adjacente dans un village vide de la province que vous pillez. Déplacer une figurine de cette manière ne coûte pas de Rage (mais les Navires ne peuvent pas être déplacés).
+Une fois que tous les villages de cette province sont occupés ou que plus personne ne souhaite participer, la bataille commence.
+Remarque : il n'y a pas de village à Yggdrasil, ce qui signifie qu'un nombre illimité de figurines peut se joindre à la bataille. S'il n'y a pas de figurine ennemie dans la province ou le fjord adjacent à ce moment-là, il n'y a pas de bataille. Vous pillez automatiquement la province, vous recevez sa récompense et vous retournez le jeton Pillage face "pillé". Notez que dans ce cas de figure, vous ne gagnez pas de Gloire pour les batailles remportées.
+Sinon, une bataille a lieu et toutes les figurines dans la province pillée ou le fjord adjacent doivent y participer.
+
+2. Jouer des cartes 
+Chaque joueur qui participe à une bataille doit choisir l'une des cartes dans sa main (sauf s'il n'a plus de carte dans sa main, auquel cas il n'a pas besoin de le faire). Toutes les cartes sont ensuite révélées en même temps. Si vous révélez une Carte de Bataille, son bonus de FOR s'ajoute au total de FOR de vos figurines au combat. Toutes les capacités spéciales indiquées sur la carte prennent effet à ce moment-là. Toutefois, si vous révélez une Carte d'Amélioration ou de Quête, elle n'ajoute rien à votre force au combat et n'a pas d'effet. Chaque clan additionne la force de chacune de ses figurines impliquées et ajoute le bonus de FOR apporté par la Carte de Bataille jouée (si c'est le cas). La somme indique la FOR totale du clan pendant cette bataille. Remarque : si l'effet spécial d'une carte fait perdre à un joueur toutes ses figurines au combat avant de comparer la FOR, cela ne signifie pas que le clan ne participe pas à la bataille. Les figurines ont été détruites au cours de la bataille et le clan peut encore remporter la victoire si la FOR de sa Carte de Bataille est suffisante.
+Certaines Cartes de Bataille spéciales peuvent être utilisées pour augmenter la force de vos troupes, même après que les autres joueurs ont révélé leurs cartes. Le bonus de FOR de ces cartes est affiché sur un cercle blanc, et le texte de la carte indique qu'elles peuvent être jouées après la révélation des cartes et avant de déterminer un vainqueur (elles peuvent également être jouées normalement). Le joueur qui a lancé le pillage est le premier à pouvoir ajouter de la force avec l'une de ces cartes spéciales, et le tour continue dans le sens des aiguilles d'une montre jusqu'à ce que plus personne ne veuille en jouer.
+
+3. Résolution
+Le joueur avec le total de FOR le plus élevé remporte la bataille. En cas d'égalité, tous les joueurs participants perdent la bataille. Le vainqueur (s'il y en a un) doit défausser toutes les cartes qu'il a jouées. Les perdants reprennent toutes les cartes qu'ils ont jouées.
+
+Les figurines de tous les joueurs perdants impliquées dans la bataille (dont celles en soutien dans les fjords) sont détruites et vont au Valhalla. Si le joueur qui a lancé le pillage remporte la bataille, il pille la province et reçoit la récompense indiquée sur le drapeau de pillage. Cette province ne peut plus être pillée avant le prochain Âge. Si l'initiateur du pillage ne remporte pas la bataille, la province n'est pas pillée et personne ne reçoit la récompense de pillage. Tous les joueurs (dont le pilleur) peuvent réessayer de piller la province plus tard dans la phase. Enfin, le vainqueur de la bataille reçoit de la Gloire, qu'il ait initié le pillage ou non. Le nombre de points de Gloire reçus est égal à la valeur de son niveau de Haches actuel, comme indiqué dans sa barre de joueur.
+
+Récompenses de pillage
+Lorsque vous parvenez à piller cette province, le niveau de Rage de votre clan augmente d'un rang. Vous ne gagnez pas de Rage supplémentaire pendant cette phase, mais vous commencerez l'Âge suivant avec plus de Rage. Lorsque vous parvenez à piller cette province, le niveau de Haches de votre clan augmente d'un rang. Le bonus de Gloire en cas de victoire au combat prend effet immédiatement et inclut cette bataille. Lorsque vous parvenez à piller cette province, le niveau de Cornes de votre clan augmente d'un rang. Lorsque vous parvenez à piller cette province, vous obtenez 5 points de Gloire. Lorsque vous parvenez à piller Yggdrasil, les trois caractéristiques de votre clan augmentent d'un rang.
+
+
+</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1896596771">
+        <source>Compendium.Rules.Phases.Discard.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Défausse</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1597813123">
+        <source>Compendium.Rules.Phases.Discard.Content</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Tous les joueurs doivent défausser toutes les cartes encore dans leur main. Ils ne peuvent conserver qu'une seule carte à utiliser à l'Âge suivant (s'il leur en reste). Au troisième Âge, les joueurs défaussent toutes leurs cartes.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2016595841">
+        <source>Compendium.Rules.Phases.QuestResolve.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Quête</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-204187607">
+        <source>Compendium.Rules.Phases.QuestResolve.Content</source>
+        <target xml:lang="fr-FR" state="needs-translation">Toutes les quêtes sont révélées pendant cette phase. Si vous avez rempli les conditions d'une quête, vous obtenez la quantité de Gloire indiquée sur la carte et vous pouvez également augmenter une caractéristique de votre clan d'un rang. Si vous n'avez pas terminé une quête, vous ne recevez rien, mais vous ne perdez également rien. Toutes les quêtes sont défaussées, qu'elles soient réussies ou non. La plupart des quêtes impliquent d'avoir le plus de force dans une province donnée. Ajoutez la FOR de chacune de vos figurines dans cette province (dont le fjord adjacent) et comparez votre total à celui de tous les autres clans dans la même province. Si votre total est plus élevé, la quête est réussie. En cas d'égalité avec un ennemi, vous échouez.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="32669426">
+        <source>Compendium.Rules.Phases.Ragnarok.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Ragnarök</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-222729784">
+        <source>Compendium.Rules.Phases.Ragnarok.Content</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">C'est maintenant l'heure du Ragnarök ! La province "condamnée" est détruite et disparaît de la partie. Il n'y a pas de mort plus glorieuse pour un Viking qu'au cœur du Ragnarök. Quand une province est détruite de cette manière, toutes les figurines présentes dans cette province et dans le fjord adjacent meurent et vont au Valhalla. Chacune de ces figurines fait gagner de la Gloire à son clan. La quantité de Gloire accordée est indiquée sur l'emplacement Ragnarök de la Piste des Âges. Pour chacune de leurs figurines détruite pendant le Ragnarök (Monstres inclus), les joueurs gagnent 2 points de Gloire pendant le premier Âge, 3 points de Gloire pendant le deuxième Âge et 4 points de Gloire pendant le troisième Âge. Placez ensuite le marqueur Destruction sur la province indiquée sur le jeton Ragnarök de l'Âge suivant.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-404128072">
+        <source>Compendium.Rules.Phases.Valhalla.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Libération du Valhalla</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-566656922">
+        <source>Compendium.Rules.Phases.Valhalla.Content</source>
+        <target xml:lang="fr-FR" state="needs-translation">À la fin de chaque Âge, les joueurs reçoivent un ultime Cadeau des Dieux : toutes les figurines au Valhalla reviennent à leur propriétaire. Toutes les figurines sur le plateau de jeu y demeurent.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1879043328">
+        <source>Compendium.Rules.Phases.EndOfAge.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Fin de l'Âge</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="883080658">
+        <source>Compendium.Rules.Phases.EndOfAge.Content</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Après chaque Âge, toutes les provinces pillées sont "réinitialisées" et peuvent de nouveau être pillées à l'Âge suivant.
+Le marqueur Premier Joueur est transmis au joueur placé à gauche de l'actuel.
+L'Âge suivant commence avec une nouvelle phase de Cadeau des Dieux. À chaque Âge, ces cadeaux gagnent en puissance, accordent plus de Gloire et rendent les batailles encore plus épiques, alors que la carte rétrécit à mesure que le Ragnarök détruit le monde.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-650977165">
+        <source>Compendium.Rules.EndOfGame.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Fin de la partie</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1810280855">
+        <source>Compendium.Rules.EndOfGame.Content</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">À la fin de la phase de libération du Valhalla du troisième Âge, le monde est détruit et la partie prend fin. Il est alors temps de découvrir quel clan a obtenu le plus de Gloire et a mérité sa place au Valhalla, à côté du trône d'Odin !
+
+Toutefois, il y a encore un bonus à prendre en compte. Les joueurs qui ont augmenté les caractéristiques de leur clan à un niveau légendaire reçoivent un bonus de Gloire. À la fin de la partie, pour chaque caractéristique de votre clan augmentée au rang 4 ou 5, vous gagnez 10 points de Gloire. Pour chaque caractéristique augmentée jusqu'au dernier rang, vous gagnez 20 points de Gloire.
+
+Le joueur dont le clan a le plus de Gloire est déclaré vainqueur.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2014985655">
+        <source>Compendium.CardsFilter.All</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Tous</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1791092904">
+        <source>Compendium.CardsFilter.AgeI</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Âge I</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-564283989">
+        <source>Compendium.CardsFilter.AgeII</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Âge II</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1258747074">
+        <source>Compendium.CardsFilter.AgeIII</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Âge III</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="10201492">
+        <source>Compendium.CardsFilter.Players</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Joueurs</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1996841525">
+        <source>Compendium.CardsFilter.Players2+</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">2+</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1996841526">
+        <source>Compendium.CardsFilter.Players3+</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">3+</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1996841531">
+        <source>Compendium.CardsFilter.Players4+</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">4+</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1996841532">
+        <source>Compendium.CardsFilter.Players5+</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">5+</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1625359167">
+        <source>Compendium.Tactics.AIOpponents.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Adversaires IA</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1345291569">
+        <source>Compendium.Tactics.AIOpponents.Content</source>
+        <target xml:lang="fr-FR" state="needs-translation">Les adversaires IA sont basés sur plusieurs "archétypes" qui reflètent la façon dont ils jouent et sélectionnent leurs cartes. Dans les niveaux de difficulté supérieurs, l'IA reste neutre jusqu'à la sélection des cartes, et ne choisit de stratégie (et donc d'archétype) qu'après avoir vu celles qui étaient disponibles. Dans les niveaux de difficulté plus faibles, les archétypes peuvent être prédéfinis et ne changeront pas pendant la sélection.
+Il est important pour les joueurs d'avoir au moins quelques notions de ce que l'IA peut vouloir faire, et quelles cartes elle va sélectionner pour cela. S'ils veulent faire une "contre-sélection", les joueurs doivent savoir quelles cartes l'IA va choisir en priorité.
+
+&lt;b&gt;&lt;indent=5%&gt;•&lt;indent=7%&gt;L'opportuniste :&lt;/b&gt; l'IA la plus polyvalente. Elle n'essaie pas de trop se spécialiser, et cherche à obtenir de la Gloire et des améliorations quand la chance se présente.
+&lt;indent=11%&gt;·&lt;indent=13%&gt;Cartes préférées : Grâce de Frigga, Marteau de Thor, Charme de Frigga
+&lt;indent=11%&gt;·&lt;indent=13%&gt;Préférence : tout
+&lt;b&gt;&lt;indent=5%&gt;•&lt;indent=7%&gt;Le chasseur de Gloire :&lt;/b&gt; cherche toujours à piller Yggdrasil et tente au moins de participer à toutes les batailles qui s'y déroulent.
+&lt;indent=11%&gt;·&lt;indent=13%&gt;Cartes préférées : Yggdrasil, Châtiment de Tyr, Destruction de Tyr
+&lt;indent=11%&gt;·&lt;indent=13%&gt;Préférence : Rage
+&lt;b&gt;&lt;indent=5%&gt;•&lt;indent=7%&gt;Le malicieux :&lt;/b&gt; cherche toujours à adopter la stratégie de Loki, en profitant de perdre des batailles pour gagner de la Gloire.
+&lt;indent=11%&gt;·&lt;indent=13%&gt;Cartes préférées : Domaine de Loki, Tromperie de Loki, Bénédiction de Loki, Mort glorieuse
+&lt;indent=11%&gt;·&lt;indent=13%&gt;Préférence : Cornes
+&lt;b&gt;&lt;indent=5%&gt;•&lt;indent=7%&gt;Le guerrier :&lt;/b&gt; favorise les Cartes de Bataille avec une valeur élevée et tente de remporter des batailles pour gagner de la Gloire.
+&lt;/b&gt;
+&lt;indent=11%&gt;·&lt;indent=13%&gt;Cartes préférées : Châtiment de Tyr, Destruction de Tyr, Vue d'Heimdall, Marteau de Thor, Gloire de Thor
+&lt;indent=11%&gt;·&lt;indent=13%&gt;Préférence : Haches
+&lt;b&gt;&lt;indent=5%&gt;•&lt;indent=7%&gt;Le seigneur de guerre :&lt;/b&gt; favorise presque toujours les améliorations de clan puissantes (Guerriers) et base sa stratégie dessus.
+&lt;indent=11%&gt;·&lt;indent=13%&gt;Cartes préférées : Frères d'armes, Nain, Marteau de Thor, Secours de Frigga
+&lt;indent=11%&gt;·&lt;indent=13%&gt;Préférence : Haches, Cornes
+&lt;b&gt;&lt;indent=5%&gt;•&lt;indent=7%&gt;Le héros :&lt;/b&gt; favorise presque toujours les améliorations de clan puissantes (Chef) et base sa stratégie dessus.
+&lt;indent=11%&gt;·&lt;indent=13%&gt;Cartes préférées : Seigneur des marteaux, Gloire de Thor, Châtiment de Tyr
+&lt;indent=11%&gt;·&lt;indent=13%&gt;Préférence : Rage, Haches
+&lt;b&gt;&lt;indent=5%&gt;•&lt;indent=7%&gt;Le chasseur de monstres :&lt;/b&gt; favorise les améliorations de Monstres et essaie de baser sa stratégie dessus.
+&lt;indent=11%&gt;·&lt;indent=13%&gt;Cartes préférées : Nain, Troll, Serpent de mer
+&lt;indent=11%&gt;·&lt;indent=13%&gt;Préférence : Rage
+&lt;b&gt;&lt;indent=5%&gt;•&lt;indent=7%&gt;L'armateur :&lt;/b&gt; se concentre généralement sur le serpent et le déploiement de son Navire, et adopte la stratégie "Dragons de Loki" si possible.
+&lt;indent=11%&gt;·&lt;indent=13%&gt;Cartes préférées : Serpent de mer, Dragons de Loki, toutes les quêtes dans les régions où le Navire et le serpent seront détruits (Ragnarök)
+&lt;indent=11%&gt;·&lt;indent=13%&gt;Préférence : Rage
+&lt;b&gt;&lt;indent=5%&gt;•&lt;indent=7%&gt;Le conquérant :&lt;/b&gt; se concentre sur les quêtes pour gagner de la Gloire et des améliorations.
+&lt;indent=11%&gt;·&lt;indent=13%&gt;Cartes préférées : Domaine de Tyr, Alfheim, Jotunheim, Mannheim
+&lt;indent=11%&gt;·&lt;indent=13%&gt;Préférence : tout
+</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1333556489">
+        <source>Compendium.Tactics.Yggdrasil.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Yggdrasil</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1108539347">
+        <source>Compendium.Tactics.Yggdrasil.Content</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Yggdrasil est l'arbre de vie, et tout comme dans la mythologie nordique, la province d'Yggdrasil joue un rôle central dans Blood Rage. Quand elle est pillée, cette province améliore les trois caractéristiques de votre clan. Si vous parvenez à la piller plusieurs fois, vous obtiendrez à coup sûr beaucoup de points bonus à la fin de la partie. Mais bien sûr, Yggdrasil n'est pas facile à piller. Des figurines de toutes les autres provinces peuvent répondre à l'Appel au Combat, et les autres joueurs ne la laisseront pas tomber entre vos mains sans se battre.
+Toutefois, si vous parvenez à remporter une bataille importante à Yggdrasil, vous pouvez énormément affaiblir les forces de vos ennemis et tous les envoyer au Valhalla, ce qui vous permettra de garder plus facilement le contrôle d'Yggdrasil et de piller de nouveau la région rapidement à l'Âge suivant, avant que vos adversaires ne se soient remis de leur défaite. Assurez-vous d'accumuler beaucoup de Cartes de Bataille et d'Améliorations puissantes pour vous aider au combat, et prenez garde aux cartes comme la Veille d'Heimdall qui pourraient contrecarrer vos plans.
+Le Défi de Tyr peut également se révéler être une amélioration très intéressante pour piller Yggdrasil. Repiller une province coûte cher, mais en améliorant vos trois caractéristiques à chaque fois, vous pourrez facilement dominer la partie et recevoir les 60 points de Gloire bonus à la fin de la partie pour les avoir améliorées au maximum.
+</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1648310259">
+        <source>Compendium.Tactics.LokiStrategy.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Stratégie de Loki</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1479667655">
+        <source>Compendium.Tactics.LokiStrategy.Content</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Une stratégie très puissante dans Blood Rage est appelée "stratégie de Loki". Il existe un certain nombre de cartes qui vous permettent d'obtenir des avantages en perdant des batailles (et n'oubliez pas que seul le vainqueur perd ses cartes, ce qui signifie que vous pouvez réutiliser les vôtres à l'infini). Vous pouvez ainsi gagner de la Rage, de la Gloire et même des cartes. Certaines Cartes d'Amélioration et de Quête vous permettent également de gagner des points en libérant vos figurines du Valhalla. En combinant certaines de ces cartes, vous pouvez gagner énormément de points. Dans Blood Rage, la stratégie de Loki n'est pas une curiosité mais bel et bien une stratégie redoutable.
+Cartes intéressantes du premier Âge :
+Tromperie de Loki
+Bénédiction de Loki
+Domaine de Loki
+Mort glorieuse
+</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1953856071">
+        <source>Compendium.Tactics.DragonTactics.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Stratégie du Dragon</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="649411517">
+        <source>Compendium.Tactics.DragonTactics.Content</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">À tous les Âges, il existe une carte qui vous permet d'obtenir de la Gloire supplémentaire quand l'un de vos Navires est détruit. Bien que les 4 points de Gloire du premier Âge ne représentent pas grand-chose, les 8 points du deuxième Âge et les 12 points du troisième Âge sont plus intéressants. Combiné au fait que vous pouvez lancer une invasion gratuitement avec votre Navire quand vous jouez cette amélioration, vous ne payez qu'un point de Rage pour obtenir 4/8/12 points de Gloire !
+Pour vous assurer que votre Navire soit détruit à la fin de l'Âge, placez-le dans un fjord adjacent à la province qui sera détruite pendant le Ragnarök.
+</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1686454077">
+        <source>Compendium.Tactics.SeaSerpent.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Serpent de mer</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1322226443">
+        <source>Compendium.Tactics.SeaSerpent.Content</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Si vous pouvez tirer le Serpent de mer en plus, les avantages des cartes Dragon sont encore plus intéressantes : comme le serpent compte comme un Navire, vos bonus sont doublés.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2067636078">
+        <source>Compendium.Tactics.FriggasDomain.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Domaine de Frigga</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-649966296">
+        <source>Compendium.Tactics.FriggasDomain.Content</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Le Domaine de Frigga est une carte du troisième Âge qui vous permet de lancer une deuxième invasion avec l'une de vos figurines au Valhalla. Imaginez donc que vous avez joué Dragons éternels avec ses 12 points de Gloire chaque fois qu'un Navire est détruit, et que vous parvenez à détruire votre Navire (ou votre serpent) plusieurs fois !
+Assurez-vous simplement de les placer uniquement dans des fjords où la défaite est assurée, et dans des provinces qui peuvent encore être pillées afin que des combats aient lieu.
+</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="43874628">
+        <source>Compendium.Tactics.FriggasChosen.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Élu de Frigga</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-507034726">
+        <source>Compendium.Tactics.FriggasChosen.Content</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Si vous parvenez à associer Domaine de Frigga à Élu de Frigga, vous pouvez sacrifier votre propre Navire (ou serpent) pour augmenter les caractéristiques de votre clan, obtenir de la Gloire, puis relancer une invasion depuis le Valhalla, encore et encore. Cette stratégie coûte toutefois beaucoup de Rage, et il est conseillé de ne l'utiliser que si vous avez besoin des améliorations de caractéristiques pour gagner un maximum de points.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1424551850">
+        <source>Compendium.Tactics.HateDrafting.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Contre-sélection</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="545762628">
+        <source>Compendium.Tactics.HateDrafting.Content</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Comme décrit dans la section sur les archétypes d'IA, dans Blood Rage, il est utile pour les joueurs d'envisager une contre-sélection. Le principe est de sélectionner une carte qui n'a pas forcément d'intérêt pour le joueur, mais qui pourrait se révéler très puissante si un adversaire l'avait en sa possession. Par exemple, si une IA utilise la stratégie de Loki ou de l'armateur (gagner des points en perdant des batailles et des figurines, particulièrement le Navire pour l'armateur) et qu'un joueur trouve la carte Dragons éternels pendant la sélection du troisième Âge, il peut être intéressant de choisir cette carte pour que l'adversaire ne puisse pas profiter de ses effets.
+Bien sûr, si un joueur abuse de la contre-sélection, il risque d'affaiblir sa propre main. Il est donc important de savoir reconnaître les cartes essentielles à certaines stratégies et de pouvoir déterminer s'il est intéressant de contre-sélectionner cette carte pour mettre des bâtons dans les roues de l'adversaire.
+</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1511387450">
+        <source>Compendium.Tabnavigation.GodsOfAsgard</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">Dieux d'Asgard</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-175138063">
+        <source>Compendium.GodsOfAsgard.Rule</source>
+        <target xml:lang="fr-FR">Règles</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="169395690">
+        <source>Compendium.GodsOfAsgard.Rule.Content</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Deux dieux seulement (choisis aléatoirement) sont utilisés à chaque partie.
+Les dieux ne prennent pas de place dans les villages et leurs provinces de départ sont également choisies aléatoirement.
+
+Chaque carte de dieu indique les effets de celui-ci sur la province qu'il occupe et modifie les règles en conséquence. Le pouvoir du dieu affecte seulement la province (et les fjords adjacents) sur laquelle il se trouve.
+
+Une fois qu'un joueur termine un pillage, qu'il soit réussi ou non, il peut déplacer le dieu sur une autre province qui :
+
+&lt;indent=5%&gt;•&lt;indent=7%&gt; ne contient aucun dieu
+&lt;indent=5%&gt;•&lt;indent=7%&gt; n'a pas été pillée
+&lt;indent=5%&gt;•&lt;indent=7%&gt;n'a pas déjà été détruite
+
+&lt;indent=0%&gt;Si aucune province correspondant à ces critères n'est disponible, le dieu ne peut pas se déplacer.
+
+Au début du deuxième et du troisième Âge, les deux dieux sont à nouveau placés dans des provinces choisies aléatoirement.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1242877015">
+        <source>Compendium.GodsOfAsgard.Odin</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">Odin</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1728336788">
+        <source>Compendium.GodsOfAsgard.Frigg</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">Frigga</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="611227954">
+        <source>Compendium.GodsOfAsgard.Thor</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">Thor</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="798249494">
+        <source>Compendium.GodsOfAsgard.Tyr</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">Tyr</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-309652134">
+        <source>Compendium.GodsOfAsgard.Loki</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">Loki</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-102427512">
+        <source>Compendium.GodsOfAsgard.Hel</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">Hel</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="402711203">
+        <source>Compendium.GodsOfAsgard.Heimdall</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">Heimdall</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="422666661">
+        <source>Compendium.Tabnavigation.MysticsOfMidgard</source>
+        <target xml:lang="fr-FR">Augures de Midgard</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-144620974">
+        <source>Compendium.MysticsOfMidgard.Rule</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">Règles</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1187853751">
+        <source>Compendium.MysticsOfMidgard.Content</source>
+        <target xml:lang="fr-FR">Chaque clan dispose de deux figurines Mystiques. Les joueurs n'y auront pas accès tant qu'ils n'auront pas développé les Amélioration de Clan requises. Les Améliorations de Clan Mystiques sont mélangées dans les cartes d’Amélioration.
+
+Quand un joueur utilise une Amélioration de Clan contenue dans cette extension, une de ses figurines Mystiques est ajoutée à sa réserve. Notez que contrairement à une amélioration de Monstre ou de Troupes, quand vous jouez une de ces Améliorations de Clan vous ne pouvez pas immédiatement lancer une invasion avec votre figurine Mystique. Elle est juste ajoutée à votre réserve. Lors d’un tour suivant, vous pourrez utiliser votre action pour lancer une invasion avec votre Mystique. Une invasion avec un Mystique ne coûte aucun point de Rage, et ces figurines ont une FOR de 2.
+
+Si vous ajoutez une deuxième Amélioration de Clan Mystic à votre clan, la deuxième figurine Mystique est ajoutée à votre réserve, et peut être utilisée plus tard pour une invasion sur le plateau de jeu. Si vous ajoutez une troisième Amélioration de Clan Mystique à votre clan, vous n’obtiendrez pas une troisième figurine Mystique, puisqu’il y a que deux figurines Mystique par clan. En revanche, vos deux figurines Mystiques bénéficieront des capacités en provenance de chacune des trois Améliorations de Clan.
+
+Chacune des Améliorations de Clan Mystiques possédée par votre clan donne à tous vos Mystiques les capacités indiquées. Si votre clan possède différents exemplaires de ces Améliorations de Clan, chacun de vos Mystiques gagne toutes les capacités listées sur ces cartes. Notez cependant que si vous avez deux copies de la même carte, leurs capacités de se cumulent pas.
+
+Si vous défaussez une de vos Améliorations de Clan Mystiques pour la remplacer par une autre carte, vous ne perdez pas la figurine Mystique : elle perd simplement la capacité spéciale associée.
+
+Pour toutes les autres règles, les Mystiques fonctionnent comme n’importe quelle autre figurine appartenant à votre clan, comme une Guerrier ou un Chef. Ils comptent dans votre limite de figurines définie par le niveau de Cornes, ils procurent de la FOR en bataille et pour compléter des Quêtes, ils procurent de la Gloire quand ils sont détruits durant le Ragnarök, et retournent dans votre réserve lorsqu’ils sont libérés du Valhalla.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

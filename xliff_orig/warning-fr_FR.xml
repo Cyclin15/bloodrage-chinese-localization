@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en-US" target-language="fr-FR" datatype="plaintext" original="not.available">
+    <body>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1113810033">
+        <source>warning.yes</source>
+        <target xml:lang="fr-FR" state="needs-translation">Confirmer</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1387119911">
+        <source>warning.no</source>
+        <target xml:lang="fr-FR" state="needs-translation">Annuler</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-963394075">
+        <source>warning.repillage</source>
+        <target xml:lang="fr-FR" state="needs-translation">Voulez-vous vraiment dépenser 2 points de Rage pour piller cette province à nouveau ?</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-832779736">
+        <source>warning.headline</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Attention</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-513687088">
+        <source>warning.outOfRage</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Voulez-vous vraiment continuer ? Vous ne pourrez plus effectuer d'actions si votre Rage atteint 0.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="48914527">
+        <source>hint.headline</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Astuce</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="764199671">
+        <source>hint.invadeFigurelimit</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Vous avez atteint la limite de figurines, vous ne pouvez plus en placer.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1042269895">
+        <source>warning.outOfHornsPlayUpgrade</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Voulez-vous vraiment jouer cette carte ? À cause de votre limite de figurines, vous ne pourrez pas utiliser cette figurine gratuitement pour envahir.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-413491802">
+        <source>warning.rageOutAfterInvade</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Remarque : si vous faites cela, votre Rage atteindra 0 et vous ne pourrez plus effectuer d'actions.
+Voulez-vous vraiment continuer ?</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2034409472">
+        <source>warning.lastVillage</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Voulez-vous vraiment continuer ? L'Âge prendra fin immédiatement et il vous reste des cartes à jouer.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1137352518">
+        <source>warning.outOfRageCardsLeft</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Voulez-vous vraiment continuer ? Vous ne pourrez plus effectuer d'actions si votre Rage atteint 0 et il vous reste des cartes à jouer.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1105571166">
+        <source>warning.pillage</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">Vous voulez piller cette région ?</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="747866384">
+        <source>warning.playCard</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">Vous voulez jouer cette carte ?</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="469815641">
+        <source>warning.confirmationHeadline</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">Attention !</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en-US" target-language="it-IT" datatype="plaintext" original="not.available">
+    <body>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="876823822">
+        <source>Compendium.Header</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Regolamento</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1318841199">
+        <source>Compendium.Tabnavigation.Cards</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Carte</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1469683901">
+        <source>Compendium.Tabnavigation.Rules</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Regole</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-486571707">
+        <source>Compendium.Tabnavigation.Tactics</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Tattiche</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-131242434">
+        <source>Compendium.Rules.Objective.Header</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Obiettivo</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="156764168">
+        <source>Compendium.Rules.Objective.Content</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">L'obiettivo del gioco è accumulare la maggior quantità di Gloria prima che il mondo sia consumato dalle fiamme. È possibile accumulare Gloria attraverso le vittorie in battaglia, i saccheggi, portando a termine le imprese in nome degli dei e morendo valorosamente sul campo di battaglia. Il gioco si sviluppa attraverso tre ere, man mano che il Ragnarök divora lentamente il mondo. Alla fine della partita, chi detiene il maggiore ammontare di Gloria è il vincitore.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-301386039">
+        <source>Compendium.Rules.BaseConcepts.Header</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Concetti base</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1887547015">
+        <source>Compendium.Rules.BaseConcepts.GameBoard.Header</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Tabellone di gioco</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1694132351">
+        <source>Compendium.Rules.BaseConcepts.GameBoard.Content</source>
+        <target xml:lang="it-IT" state="needs-translation">Il tabellone di gioco di Blood Rage è una mappa del territorio mitologico che circonda Yggdrasil, il grande albero che unisce i nove mondi. La terra è ripartita in nove province. La provincia centrale è Yggdrasil, mentre le otto province esterne disposte intorno a essa sono suddivise in tre regioni: Manheim, Alfheim e Jotunheim. Le province che condividono un confine sono considerate adiacenti tra loro (Yggdrasil è adiacente a tutte le altre province).
+Ogni provincia contiene da tre a cinque villaggi. Ogni villaggio può ospitare una singola miniatura. Di conseguenza, ogni provincia può ospitare soltanto un numero massimo di miniature pari al numero dei suoi villaggi. Yggdrasil non contiene villaggi, quindi non c'è limite al numero di miniature che possono occuparla. Ci sono, inoltre, quattro fiordi situati tra le coppie di province esterne. Ogni fiordo è considerato di supporto alle due province a cui è collegato. Ogni effetto che influenza una provincia influenza anche il suo fiordo di supporto. Non c'è limite al numero di miniature Nave che possono occupare ogni fiordo.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1375515412">
+        <source>Compendium.Rules.Glory.Header</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Gloria</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="603095098">
+        <source>Compendium.Rules.Glory.Content</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Accumulare Gloria è il modo in cui si vince a Blood Rage!
+Alla fine della partita, chi detiene il maggiore ammontare di Gloria è il vincitore.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1900399408">
+        <source>Compendium.Rules.Rage.Header</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Furia</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-350052746">
+        <source>Compendium.Rules.Rage.Content</source>
+        <target xml:lang="it-IT" state="needs-translation">La Furia è la valuta del gioco. Quando effettui un'azione, ti costa una certa quantità di Furia.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1966188874">
+        <source>Compendium.Rules.ClanStats.Header</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Statistiche di clan</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1103332416">
+        <source>Compendium.Rules.ClanStats.Content</source>
+        <target xml:lang="it-IT" state="needs-translation">La statistica Furia indica quanta Furia hai a disposizione all'inizio di ogni round. Più Furia hai, più azioni puoi effettuare. 
+La statistica Asce indica quanta Gloria ottieni quando vinci una battaglia. Più Asce hai, più le vittorie in battaglia frutteranno Gloria e faranno avanzare velocemente il tuo clan sul sentiero della vittoria. 
+La statistica Corni indica quante miniature puoi avere simultaneamente sul tabellone. Un numero più elevato indica che puoi combattere più battaglie, saccheggiare più terre e spargere più sangue. 
+Man mano che la partita procede, avrai varie opportunità di incrementare ogni statistica del clan. Se riuscirai a incrementare le tue statistiche a un livello leggendario entro la fine della partita, potrai ottenere incredibili bonus in Gloria.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-983140160">
+        <source>Compendium.Rules.Figures.Header</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Miniature</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="25047570">
+        <source>Compendium.Rules.Figures.Content</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Ognuna delle tue miniature (Capo, Nave, Guerrieri e, in certe occasioni, Mostri) possiede un punteggio di Forza (FOR). All'inizio della partita, tutti questi punteggi sono indicati sulla barra del giocatore: i Capi hanno FOR 3, le Navi FOR 2 e i Guerrieri FOR 1. Avere forza in abbondanza sul tabellone sarà fondamentale per vincere le battaglie e portare a termine le imprese. Inoltre, i Capi e le Navi iniziano il gioco dotati di alcune capacità speciali, che puoi scoprire passandoci sopra con il puntatore del mouse. Man mano che la partita procede, puoi migliorare le miniature collocando le carte miglioria sugli spazi appropriati della scheda del clan. Queste carte indicheranno il nuovo punteggio di FOR e le nuove capacità delle miniature. È importante ricordare che i Capi e le Navi conservano comunque le capacità descritte sulla barra del giocatore, anche dopo avere ricevuto le migliorie. Ogni volta che una miniatura viene distrutta, nel corso di una battaglia, come vittima di una capacità speciale o a causa del destino ineluttabile del Ragnarök, viene collocata nel Valhalla. Da lì attenderà l'era successiva per unirsi di nuovo alla battaglia.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-469649066">
+        <source>Compendium.Rules.Cards.Header</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Carte</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="609016160">
+        <source>Compendium.Rules.Cards.Content</source>
+        <target xml:lang="it-IT" state="needs-translation">In ogni Era, un diverso mazzo di carte rappresenta i doni degli dei norreni. I giocatori ricevono le carte durante la fase dei Doni degli dei. Questi regali forniscono una grande varietà di aiuti.
+
+Alcune carte si usano soltanto con un determinato numero di giocatori, che viene indicato sulla carta stessa con un 3+, 4+ o 5+.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1535082612">
+        <source>Compendium.Rules.BattleCards.Header</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Carte battaglia</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="428394270">
+        <source>Compendium.Rules.BattleCards.Content</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Le carte battaglia (rosse) aumentano la Forza del tuo esercito in battaglia.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2042701728">
+        <source>Compendium.Rules.QuestCards.Header</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Carte impresa</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2099654650">
+        <source>Compendium.Rules.QuestCards.Content</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Le carte impresa (verdi) rappresentano delle imprese divine che il tuo clan è incaricato di compiere. Se portate a termine con successo, forniranno molta Gloria al tuo clan.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-522805466">
+        <source>Compendium.Rules.UpgradeCards.Header</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Carte miglioria</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1120814240">
+        <source>Compendium.Rules.UpgradeCards.Content</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Le carte miglioria (nere) possono migliorare vari aspetti del tuo clan: 
+• Le migliorie truppa incrementano la Forza e/o le capacità dei Guerrieri, del Capo o della Nave. 
+• Le migliorie mostro sono creature mitologiche speciali che puoi reclutare affinché combattano al tuo fianco in battaglia. 
+• Le migliore clan si applicano al clan nella sua interezza e forniscono una vasta gamma di effetti diversi.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="760564453">
+        <source>Compendium.Rules.TheEnd.Header</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">La fine è vicina!</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-92387753">
+        <source>Compendium.Rules.TheEnd.Content</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Alla fine di ogni Era, una provincia viene distrutta dal Ragnarök. In base al numero dei giocatori, alcune province possono essere distrutte sin dall'inizio della partita. 
+In una partita a 4 giocatori, 1 provincia è distrutta. 
+In una partita a 3 giocatori, 2 province sono distrutte. 
+In una partita a 2 giocatori, 3 province sono distrutte.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-9594724">
+        <source>Compendium.Rules.Ragnarok.Header</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Ragnarök</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1521563253">
+        <source>Compendium.Rules.Ragnarok.Content</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Le province distrutte sono considerate escluse dal gioco. Non possono essere oggetto né di movimenti né di saccheggi.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="956504088">
+        <source>Compendium.Rules.Doom.Header</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Destino</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-284238702">
+        <source>Compendium.Rules.Doom.Content</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">In ogni Era, una provincia è destinata a essere distrutta dal Ragnarök alla fine dell'Era stessa.
+Tutte le miniature presenti in quella provincia (e nei fiordi adiacenti) vengono distrutte e collocate nel Valhalla. Ogni Era permette ai giocatori di guadagnare un ammontare di Gloria per ogni miniatura distrutta.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="546778639">
+        <source>Compendium.Rules.Phases.Header</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Fasi di gioco</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1768359477">
+        <source>Compendium.Rules.Phases.Content</source>
+        <target xml:lang="it-IT">Il gioco è suddiviso in tre Ere, ognuna delle quali è costituita dalle stesse fasi.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2036322678">
+        <source>Compendium.Rules.Phases.GodsGift.Header</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Fase dei Doni degli dei</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-270951648">
+        <source>Compendium.Rules.Phases.GodsGift.Content</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Durante questa fase, i giocatori selezionano le carte attraverso un processo chiamato "draft". Queste carte forniranno ai giocatori delle migliorie per le truppe e il clan, dei mostri che si uniranno a loro in combattimento, delle imprese da compiere per guadagnare Gloria e potenza bruta con cui vincere le battaglie. Nella seconda e nella terza Era, se a un giocatore è rimasta in mano una carta di un'Era precedente, può scegliere di tenerne una.
+In ogni turno di draft (ce ne sono sei), ogni giocatore selezionerà una carta da aggiungere alla propria mano. Le altre carte vengono passate al giocatore sulla sinistra e così via, finché ognuno avrà scelto sei carte. Quelle che restano sono escluse dal gioco.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-537411189">
+        <source>Compendium.Rules.Phases.Action.Header</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Fase di Azione</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1065961407">
+        <source>Compendium.Rules.Phases.Action.Content</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Questa è la parte principale del gioco, in cui si svolgono le invasioni e i saccheggi, si scende in battaglia e il sangue viene versato a fiumi. Tutti i giocatori iniziano la fase di Azione con l'ammontare di Furia indicato dalla statistica Furia sulla loro scheda del clan. Nella prima Era, ogni giocatore inizia con Furia 6. Nelle Ere successive, se hai migliorato la statistica Furia del tuo clan, inizierai la fase di Azione con un ammontare di Furia superiore.
+Il primo giocatore inizia la fase, poi il gioco prosegue in senso orario. Nel tuo turno devi scegliere una singola azione da effettuare: se quell'azione prevede un costo in Furia (di solito è così), devi pagare quel costo prima di procedere. Se non hai abbastanza Furia per pagare interamente una determinata azione, non puoi effettuarla. Una volta completata l'azione, il tuo turno termina. Il giocatore alla tua sinistra svolge il suo turno, effettuando una singola azione pagandone l'eventuale costo in Furia. I giocatori continuano a svolgere i loro turni in ordine di gioco.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1831766001">
+        <source>Compendium.Rules.Phases.TakingAction.Header</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Effettuare le azioni</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-179044473">
+        <source>Compendium.Rules.Phases.TakingAction.Content</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Un giocatore con zero Furia non può effettuare nessuna azione nel suo turno, nemmeno una che non costi Furia. Tutto ciò che può fare è reagire alle azioni degli altri giocatori, come per esempio partecipare a una battaglia iniziata da un altro giocatore. I giocatori possono scegliere tra cinque opzioni quando effettuano un'azione (come indicato nella parte bassa della scheda del clan). I giocatori possono effettuare la stessa azione più volte nel corso di una fase di Azione, ma sempre una singola azione per turno.
+Se non puoi effettuare un'azione o non desideri farlo, puoi scegliere di passare la mano. Tuttavia, quando passi perdi tutta la Furia che ti rimane e non puoi più effettuare ulteriori azioni. Fine della Fase di Azione: la fase di Azione termina immediatamente quando tutti i giocatori hanno zero Furia oppure quando tutte le province non ancora distrutte sono state saccheggiate con successo (anche se ai giocatori rimane della Furia a disposizione).</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="995087302">
+        <source>Compendium.Rules.Phases.Invade.Header</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Invasione</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2097411004">
+        <source>Compendium.Rules.Phases.Invade.Content</source>
+        <target xml:lang="it-IT" state="needs-translation">Scegli un villaggio vuoto di una qualsiasi provincia esterna e poi una miniatura dalla tua riserva, pagando un costo in Furia pari alla FOR di quella miniatura.
+Se la miniatura scelta è una Nave, deve essere collocata in un fiordo. Non puoi usare questa azione per collocare una miniatura direttamente su Yggdrasil; per avere delle truppe su Yggdrasil è necessario condurle tramite l'azione di Marcia. Ricorda anche che invadere con il tuo Capo non prevede alcun costo in Furia.
+Nota: tieni sempre d'occhio la tua statistica Corni. Se il numero delle tue miniature presenti sul tabellone è pari al valore di tale statistica, non puoi più effettuare Invasioni con ulteriori miniature (il Valhalla non è parte del tabellone).</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1219643436">
+        <source>Compendium.Rules.Phases.March.Header</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Marcia</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="994775714">
+        <source>Compendium.Rules.Phases.March.Content</source>
+        <target xml:lang="it-IT" state="needs-translation">Quando ordini alle tue truppe di marciare, devi pagare 1 Furia. Poi scegli una provincia (non un fiordo) e muovi un qualsiasi numero di miniature da quella provincia ai villaggi vuoti di un'altra singola provincia. La provincia di destinazione non deve necessariamente essere adiacente, può trovarsi in un qualsiasi punto del tabellone. Non puoi muovere miniature da due province diverse nella stessa azione, e non puoi nemmeno muovere le miniature verso due province diverse. È consentito effettuare una Marcia soltanto da una singola provincia a una qualsiasi altra. Nota: usare l'azione di Marcia è generalmente l'unico modo per condurre le miniature su Yggdrasil (oltre a Chiamata alle armi). Non ci sono villaggi su Yggdrasil, quindi non c'è limite al numero di miniature che è possibile spostare nella provincia.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1467273268">
+        <source>Compendium.Rules.Phases.MarchExample.Header</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Esempi di Marcia:</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1192276294">
+        <source>Compendium.Rules.Phases.MarchExample.Content</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">l'esempio seguente mostra cinque azioni di Marcia diverse, consentite o meno: 
+1: Il giocatore blu può muovere le sue 2 miniature, anche se le province non sono adiacenti. Non può muovere tutte e 3 le sue miniature da Gimle in quanto a Elvagar ci sono solo 2 villaggi vuoti. 
+2: Il giocatore giallo può muovere tutte le miniature che vuole da Angerboda a Yggdrasil. Non c'è limite al numero di miniature che possono occupare Yggdrasil. 
+3: Il giocatore marrone non può muovere le sue miniature verso due province diverse con una singola azione di Marcia. 
+4: Il giocatore rosso non può muovere le sue miniature provenienti da due province diverse con una singola azione di Marcia. 
+5: Le Navi non possono mai essere mosse.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1723866263">
+        <source>Compendium.Rules.Phases.Upgrade.Header</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Miglioria</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1082624751">
+        <source>Compendium.Rules.Phases.Upgrade.Content</source>
+        <target xml:lang="it-IT" state="needs-translation">Ogni scheda del clan è dotata di spazi per un massimo di otto migliorie: una a testa per ognuno dei Guerrieri, del Capo e della Nave, due per i Mostri e tre per il clan. Quando effettui un'azione di Miglioria, devi scegliere una carta miglioria dalla tua mano e pagare un costo in Furia pari alla FOR di quella carta. Colloca poi la carta nello spazio appropriato della barra del giocatore. Se ci sono più spazi a disposizione, puoi scegliere quale usare. Se in quello spazio è già presente una carta, quest'ultima viene scartata e rimpiazzata dalla nuova. Questa nuova carta miglioria ha ora effetto permanente e ti conferisce i benefici indicati su di essa, che possono variare da una Forza maggiore per le truppe a capacità speciali. Se il tuo clan possiede due migliorie in spazi diversi che forniscono lo stesso tipo di beneficio, entrambe le carte hanno effetto indipendentemente: l'una non annulla l'altra.
+Migliorie truppa 
+Quando giochi una miglioria Capo, Guerriero o Nave, se possiedi la miniatura corrispondente nella riserva puoi usarla immediatamente per effettuare un'Invasione (prima del turno del giocatore successivo) senza nessun costo extra in Furia. 
+Migliorie mostro 
+I Mostri sono miniature uniche che possono alterare drasticamente l'andamento della partita. Ognuno è dotato di una capacità speciale caratteristica e molto potente. Quando giochi una miglioria Mostro quella miniatura diventa tua per il resto della partita. Puoi usarla immediatamente per effettuare un'Invasione senza nessun costo extra in Furia. Un Mostro può morire ed essere inviato nel Valhalla come qualsiasi altra miniatura: tornerà nella tua riserva nella successiva fase di Ritorno dal Valhalla. Può ottenere Gloria per conto tuo durante la fase del Ragnarök proprio come ogni altra miniatura. Puoi ospitare soltanto 2 Mostri contemporaneamente nel clan. Se scarti la carta di un Mostro al fine di collocare uno nuovo nello spazio miglioria, la miniatura del vecchio Mostro viene immediatamente rimossa dal gioco.
+</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-580980201">
+        <source>Compendium.Rules.Phases.Quest.Header</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Impresa</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1033038275">
+        <source>Compendium.Rules.Phases.Quest.Content</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Prendi una carta impresa dalla tua mano e dedicati a essa collocandola a faccia in giù sulla scheda del clan, sopra il simbolo dell'animale del tuo clan. Dedicarsi a un'impresa non richiede nessun costo in Furia. Non c'è limite al numero di imprese a cui dedicarsi durante ogni Era, e puoi anche dedicarti a più imprese dello stesso tipo (ognuna fornirà la sua ricompensa indipendentemente). Puoi esaminare le tue imprese in qualsiasi momento. Durante la fase di Azione, devi cercare di soddisfare i requisiti delle imprese a cui ti stai dedicando, al fine di riscuotere le ricompense elencate su di esse durante la successiva fase di Impresa. Tuttavia, non è prevista nessuna penalità per un'impresa fallita. 
+Nota: anche se non è previsto nessun costo in Furia per dedicarsi a un'impresa, è importante ricordare che non puoi effettuare nessuna azione se hai zero Furia, nemmeno se gratuita.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1226876331">
+        <source>Compendium.Rules.Phases.Pillage.Header</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Saccheggio</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1064495065">
+        <source>Compendium.Rules.Phases.Pillage.Content</source>
+        <target xml:lang="it-IT" state="needs-translation">Se effettui con successo un'azione di Saccheggio in una provincia, ottieni una ricompensa a scelta tra il potenziamento di una statistica di clan o un incremento di Gloria. Prima, tuttavia, devi sconfiggere in battaglia gli altri eventuali clan che occupano quella provincia. Per compiere un Saccheggio, scegli una provincia (o un fiordo di supporto) in cui sia presente almeno una miniatura e che non sia ancora stata saccheggiata in questa fase. Saccheggiare non richiede nessun costo in Furia, ma ricorda che non puoi effettuare nessuna azione se disponi di zero Furia. Un'azione di Saccheggio va risolta seguendo i 3 passi sottostanti nell'ordine indicato:
+1. Chiamata alle armi: i giocatori possono muovere le miniature adiacenti per unirsi alla battaglia. 
+2. Giocare le Carte: i giocatori in battaglia rivelano carte per aggiungere FOR e/o effetti speciali. 
+3. Risoluzione: la FOR più alta determina il vincitore. Gli sconfitti vengono distrutti, il vincitore riceve le ricompense.
+
+1. Chiamata alle armi
+Una volta che hai dichiarato l'intenzione di saccheggiare una provincia, gli altri giocatori hanno l'opportunità di unirsi alla battaglia. A partire dal giocatore a sinistra e procedendo in senso orario, ogni giocatore (incluso te) può, se lo desidera, muovere una delle sue miniature da una provincia adiacente a un villaggio vuoto nella provincia oggetto del saccheggio. Muovere una miniatura in questo modo non prevede nessun costo in Furia (senza dimenticare che le Navi non possono essere mosse).
+Una volta che tutti i villaggi in quella provincia sono stati occupati, o quando nessun altro desidera unirsi, la battaglia comincia. 
+Nota: non ci sono villaggi su Yggdrasil, quindi può unirsi a una battaglia su di essa un numero illimitato di miniature. Se a questo punto non ci sono miniature nemiche nella provincia o nel fiordo di supporto, non si svolge nessuna battaglia e saccheggi automaticamente la provincia, ottenendone la ricompensa (maggiori dettagli in seguito) e girando il segnalino saccheggio sul lato "saccheggiato". Ricorda che in questo caso non ottieni nessuna ricompensa in Gloria per avere vinto una battaglia. 
+Altrimenti si svolge la battaglia, e tutte le miniature presenti nella provincia che viene saccheggiata e nel suo fiordo di supporto devono prendervi parte.
+
+2. Giocare le carte 
+Ogni giocatore che partecipa alla battaglia deve scegliere una carta dalla sua mano (a meno che non gli resti nessuna carta in mano; in quel caso non è obbligato a giocare una carta). Poi tutti rivelano simultaneamente le carte scelte. Se riveli una carta battaglia, il suo bonus di +FOR sarà aggiunto alla FOR totale delle tue miniature in battaglia. Inoltre, a questo punto hanno effetto le eventuali capacità speciali elencate sulla carta. Se riveli una carta miglioria o una carta impresa, tuttavia, essa non aggiunge nulla alla Forza in battaglia e non ha effetto. Ogni clan somma la FOR di ogni sua miniatura coinvolta e aggiunge a quel totale anche il bonus di +FOR fornito dalla carta battaglia che ha giocato (se l'ha fatto). Il risultato è la FOR totale del suo clan per quella battaglia. Nota: se l'effetto speciale di una carta priva un giocatore di tutte le miniature con cui partecipa a una battaglia prima di confrontare la FOR, questo non significa che quel clan sia escluso dalla battaglia. Le miniature sono state distrutte nel corso della battaglia e il clan può comunque uscirne vittorioso, se la carta battaglia che ha giocato gli fornisce FOR a sufficienza.
+Alcune carte battaglia speciali possono essere usate per incrementare ulteriormente la Forza delle truppe anche dopo aver rivelato le tue carte. Queste carte speciali mostrano il loro bonus di FOR su un cerchio bianco pieno e nel loro testo è indicato che possono essere giocate dopo essere state rivelate, ma prima di determinare un vincitore (possono anche essere giocate normalmente). Il saccheggiatore ha per primo l'opportunità di aggiungere Forza tramite una di queste carte speciali; dopo di lui si procede in senso orario, finché tutti decidono di non giocarne altre.
+
+3. Risoluzione 
+Il giocatore con la FOR totale più alta vince la battaglia! In caso di parità, tutti i giocatori partecipanti perdono la battaglia. Il vincitore della battaglia (se ce n'è uno) deve scartare tutte le carte che ha giocato. Chi ha perso la battaglia riprende invece in mano tutte le carte che ha giocato.
+
+Tutte le miniature dei giocatori sconfitti che hanno partecipato alla battaglia (incluse quelle che offrivano supporto dai fiordi) vengono distrutte e collocate nel Valhalla. Se il giocatore che ha effettuato l'azione di Saccheggio vince la battaglia, è riuscito a saccheggiare la provincia e ottiene la ricompensa di saccheggio indicata sullo stendardo Saccheggio (vedi sotto). Quella provincia non può più essere saccheggiata fino all'Era successiva. Se il saccheggiatore non vince la battaglia, la provincia non viene saccheggiata e nessuno ottiene la ricompensa di saccheggio. Qualsiasi giocatore (incluso il saccheggiatore) potrà ritentare di saccheggiare la provincia successivamente. Infine, il vincitore della battaglia ottiene Gloria per la battaglia, che si tratti o meno del saccheggiatore. L'ammontare di Gloria che ottiene è pari alla sua statistica Asce attuale, come indicato sulla barra del giocatore.
+
+Ricompense di Saccheggio 
+Quando saccheggi questa provincia con successo, incrementi di un grado la statistica Furia del tuo clan. Non ottieni Furia aggiuntiva durante questa fase, ma partirai con più Furia nell'Era successiva. Quando saccheggi questa provincia con successo, incrementi di un grado la statistica Asce del tuo clan. L'incremento di Gloria per la vittoria in battaglia ha effetto immediatamente e include questa battaglia. Quando saccheggi questa provincia con successo, incrementi di un grado la statistica Corni del tuo clan. Quando saccheggi questa provincia con successo, guadagni 5 punti Gloria. Quando saccheggi Yggdrasil con successo, incrementi di un grado tutte e tre le statistiche del tuo clan.
+
+
+</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1896596771">
+        <source>Compendium.Rules.Phases.Discard.Header</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Fase di Scarto</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1597813123">
+        <source>Compendium.Rules.Phases.Discard.Content</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Tutti i giocatori devono scartare eventuali carte rimaste nella propria mano. Possono tenere soltanto una singola carta (se gliene rimane una) da conservare per la prossima Era. Nella terza Era i giocatori devono scartare tutte le carte e svuotare completamente le loro mani.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2016595841">
+        <source>Compendium.Rules.Phases.QuestResolve.Header</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Fase delle Imprese</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-204187607">
+        <source>Compendium.Rules.Phases.QuestResolve.Content</source>
+        <target xml:lang="it-IT" state="needs-translation">In questa fase vengono svelate tutte le imprese. Se hai soddisfatto i requisiti di un'impresa, ottieni l'ammontare di Gloria indicato sulla carta e puoi anche incrementare di un grado una qualsiasi statistica del tuo clan. Se non hai portato a termine un'impresa con successo non ottieni niente, ma non perdi neanche niente. Tutte le imprese, terminate con successo o meno, vengono scartate. La maggior parte delle imprese richiede di avere la Forza più alta in una determinata provincia. Somma la FOR di ogni tua miniatura in quella provincia (incluse quelle nel fiordo di supporto) e confronta il totale con quello della FOR di ogni altro clan presente in quella stessa provincia. Se il tuo totale è superiore, l'impresa è stata portata a termine con successo. In caso di parità con un nemico, l'impresa è fallita.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="32669426">
+        <source>Compendium.Rules.Phases.Ragnarok.Header</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Ragnarök</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-222729784">
+        <source>Compendium.Rules.Phases.Ragnarok.Content</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">È arrivato il Ragnarök! L'attuale provincia destinata alla distruzione viene rimossa dal gioco. Per un vichingo non esiste morte più gloriosa che essere distrutto nel Ragnarök. Quando una provincia viene distrutta in questo modo, tutte le miniature di quella provincia e del suo fiordo di supporto vengono collocate nel Valhalla. Ognuna di queste miniature procura Gloria al suo clan. L'ammontare di Gloria concessa è indicata su ogni casella Ragnarök del calendario delle Ere. Per ognuna delle sue miniature distrutte nel Ragnarök (inclusi i Mostri), un giocatore ottiene 2 Gloria nella prima Era, 3 Gloria nella seconda Era e 4 Gloria nella terza Era. Collocate il segnalino destino sulla provincia indicata dal segnalino Ragnarök della prossima Era.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-404128072">
+        <source>Compendium.Rules.Phases.Valhalla.Header</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Ritorno dal Valhalla!</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-566656922">
+        <source>Compendium.Rules.Phases.Valhalla.Content</source>
+        <target xml:lang="it-IT" state="needs-translation">Alla fine di ogni Era, i giocatori ricevono un ultimo regalo dagli dei: tutte le miniature nel Valhalla vengono restituite ai loro rispettivi proprietari. Le eventuali miniature presenti sul tabellone rimangono dove si trovano.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1879043328">
+        <source>Compendium.Rules.Phases.EndOfAge.Header</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Fine di un'Era</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="883080658">
+        <source>Compendium.Rules.Phases.EndOfAge.Content</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Dopo ogni Era, tutte le province saccheggiate vengono ripristinate e possono essere saccheggiate di nuovo durante l'Era successiva.
+Il segnalino primo giocatore viene passato al giocatore alla sinistra di quello attuale.
+Ha inizio una nuova Era, con una nuova fase di Doni degli dei: a ogni nuova Era quei doni crescono in forza e in potenza, offrono maggiore Gloria e conducono a scontri più cruenti sul tabellone per contendersi i pochi territori rimanenti, che continuano a ridursi man mano che il Ragnarök distrugge la terra.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-650977165">
+        <source>Compendium.Rules.EndOfGame.Header</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Fine della partita</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1810280855">
+        <source>Compendium.Rules.EndOfGame.Content</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Quando la fase di Ritorno dal Valhalla della terza Era è stata completata, la fine del mondo è giunta, e con essa anche la fine della partita. Ora è il momento di scoprire quale clan ha ottenuto più Gloria e si è guadagnato un posto nel Valhalla accanto al trono di Odino!
+
+Tuttavia, rimane ancora un ultimo bonus da conteggiare: ogni giocatore ottiene ulteriore Gloria per avere incrementato ogni statistica del suo clan a livelli leggendari. Soltanto alla fine della partita, ottieni +10 Gloria per ogni statistica di clan che hai incrementato fino al 4° o 5° grado e +20 Gloria per ogni statistica incrementata fino all'ultimo grado.
+
+Il giocatore il cui clan ha accumulato più Gloria viene proclamato vincitore!</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2014985655">
+        <source>Compendium.CardsFilter.All</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Tutto</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1791092904">
+        <source>Compendium.CardsFilter.AgeI</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Era I</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-564283989">
+        <source>Compendium.CardsFilter.AgeII</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Era II</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1258747074">
+        <source>Compendium.CardsFilter.AgeIII</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Era III</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="10201492">
+        <source>Compendium.CardsFilter.Players</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Giocatori</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1996841525">
+        <source>Compendium.CardsFilter.Players2+</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">2+</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1996841526">
+        <source>Compendium.CardsFilter.Players3+</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">3+</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1996841531">
+        <source>Compendium.CardsFilter.Players4+</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">4+</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1996841532">
+        <source>Compendium.CardsFilter.Players5+</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">5+</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1625359167">
+        <source>Compendium.Tactics.AIOpponents.Header</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Avversari IA</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1345291569">
+        <source>Compendium.Tactics.AIOpponents.Content</source>
+        <target xml:lang="it-IT" state="needs-translation">Gli avversari IA usano alcuni "archetipi" che rappresentano il modo in cui giocano e scelgono le carte. A livelli di difficoltà più elevati, l'IA affronta il draft in maniera libera e formula una strategia (e sceglie, dunque, un archetipo) solo dopo aver visto le carte disponibili. A livelli di difficoltà inferiori, gli archetipi sono predefiniti e non cambiano durante il draft.
+È importante che i giocatori riconoscano almeno alcune delle logiche base che regolano la strategia dell'IA e quali carte potrebbe scegliere per conseguirla. In particolar modo, se i giocatori desiderano applicare una strategia di draft aggressivo (spiegata in seguito) devono sapere quali carte desiderano i giocatori governati dall'IA.
+
+&lt;b&gt;&lt;indent=5%&gt;•&lt;indent=7%&gt;L'opportunista:&lt;/b&gt; la tipologia di IA più versatile. Non cerca di specializzarsi troppo, ma di ottenere Gloria e migliorie ogni volta che se ne presenta l'occasione
+&lt;indent=11%&gt; &lt;indent=13%&gt;Carte preferite: Grazia di Frigga, Martello di Thor, Fascino di Frigga
+&lt;indent=11%&gt;·&lt;indent=13%&gt;Tipologia preferita: tutte
+&lt;b&gt;&lt;indent=5%&gt;•&lt;indent=7%&gt;Il cercatore di Gloria:&lt;/b&gt; cerca sempre di saccheggiare Yggdrasil e prova a concentrare i suoi sforzi nel partecipare a ogni battaglia disponibile
+&lt;indent=11%&gt;·&lt;indent=13%&gt;Carte preferite: Yggdrasil, Castigo di Tyr, Distruzione di Tyr
+&lt;indent=11%&gt;·&lt;indent=13%&gt;Tipologia preferita: Furia
+&lt;b&gt;&lt;indent=5%&gt;•&lt;indent=7%&gt;L'ingannatore:&lt;/b&gt; prova sempre a seguire la strategia di Loki, ovvero ottenere Gloria perdendo le battaglie e speculando sulle perdite
+&lt;indent=11%&gt;·&lt;indent=13%&gt;Carte preferite: Dominio di Loki, Inganno di Loki, Benedizione di Loki, Morte gloriosa
+&lt;indent=11%&gt;·&lt;indent=13%&gt;Tipologia preferita: Corni
+&lt;b&gt;&lt;indent=5%&gt;•&lt;indent=7%&gt;Il guerriero:&lt;/b&gt; cerca le carte combattimento più potenti e prova a vincere le battaglie per ottenere Gloria
+&lt;/b&gt;
+&lt;indent=11%&gt;·&lt;indent=13%&gt;Carte preferite: Castigo di Tyr, Distruzione di Tyr, Martello di Thor, Gloria di Thor
+&lt;indent=11%&gt;·&lt;indent=13%&gt;Tipologia preferita: Asce
+&lt;b&gt;&lt;indent=5%&gt;•&lt;indent=7%&gt;Il signore della guerra:&lt;/b&gt; cerca sempre di ottenere le migliorie clan più potenti (Guerrieri) e incentrare su di esse la strategia
+&lt;indent=11%&gt;·&lt;indent=13%&gt;Carte preferite: Fratelli di guerra, Nano, Martello di Thor, Aiuto di Frigga
+&lt;indent=11%&gt;·&lt;indent=13%&gt;Tipologia preferita: Asce e Corni
+&lt;b&gt;&lt;indent=5%&gt;•&lt;indent=7%&gt;L'eroe:&lt;/b&gt; cerca sempre di ottenere le migliorie clan più potenti (Capi) e incentrare su di esse la strategia
+&lt;indent=11%&gt;·&lt;indent=13%&gt;Carte preferite: Signore dei martelli, Gloria di Thor, Castigo di Tyr
+&lt;indent=11%&gt;·&lt;indent=13%&gt;Tipologia preferita: Furia, Asce
+&lt;b&gt;&lt;indent=5%&gt;•&lt;indent=7%&gt;Il cacciatore di mostri:&lt;/b&gt; andrà per lo più alla ricerca di migliorie mostro per incentrare su di esse la strategia
+&lt;indent=11%&gt;·&lt;indent=13%&gt;Carte preferite: Nano, Troll, Serpente marino
+&lt;indent=11%&gt;·&lt;indent=13%&gt;Tipologia preferita: Furia
+&lt;b&gt;&lt;indent=5%&gt;•&lt;indent=7%&gt;Il maestro d'ascia:&lt;/b&gt; si concentra di solito sul Serpente e sulle Navi, ma adotta anche la strategia Draghi di Loki, se possibile
+&lt;indent=11%&gt;·&lt;indent=13%&gt;Carte preferite: Serpente marino, Draghi di Loki, qualsiasi impresa nelle regioni dove vengono distrutte le Navi e il Serpente (Ragnarök)
+&lt;indent=11%&gt;·&lt;indent=13%&gt;Tipologia preferita: Furia
+&lt;b&gt;&lt;indent=5%&gt;•&lt;indent=7%&gt;Il conquistatore:&lt;/b&gt; prova a seguire una strategia focalizzata sul completamento di imprese per ottenere Gloria e migliorie
+&lt;indent=11%&gt;·&lt;indent=13%&gt;Carte preferite: Dominio di Tyr, Alfheim, Jotunheim, Manheim
+&lt;indent=11%&gt;·&lt;indent=13%&gt;Tipologia preferita: tutte
+</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1333556489">
+        <source>Compendium.Tactics.Yggdrasil.Header</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Yggdrasil</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1108539347">
+        <source>Compendium.Tactics.Yggdrasil.Content</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Yggdrasil è l'albero della vita, e proprio come avviene nella mitologia norrena, la provincia omonima svolge un ruolo fondamentale anche in Blood Rage. Quando viene saccheggiata, questa provincia incrementerà tutte e tre le statistiche di clan. Se riesci a portare a termine diversi saccheggi, potrai garantirti un'elevata quantità di punti bonus alla fine della partita. Ovviamente, però, saccheggiare Yggdrasil non è facile: visto che le miniature da ogni provincia possono partecipare alla Chiamata alle armi, gli altri giocatori non ti lasceranno strada senza combattere. 
+Tuttavia, se riesci a vincere una grande battaglia nella provincia di Yggdrasil, puoi ridurre significativamente le forze avversarie inviandole nel Valhalla. In questo modo sarà più semplice mantenere il controllo di Yggdrasil per saccheggiarla di nuovo all'inizio dell'Era successiva, prima che i tuoi avversari possano recuperare. Assicurati di accumulare potenti carte combattimento e miglioria che possano aiutarti in battaglia e fai attenzione a carte come Guardiano di Heimdall che potrebbero rovinare i tuoi piani.
+Una miglioria molto potente per provare a conquistare Yggdrasil può essere Sfida di Tyr: non è di certo economico saccheggiare più volte una provincia, ma se la ricompensa sono le tre statistiche, potrebbe rivelarsi una tattica vincente per farti ottenere in modo agevole il +60 Gloria per aver portato al massimo le tre statistiche. 
+</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1648310259">
+        <source>Compendium.Tactics.LokiStrategy.Header</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Strategia di Loki</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1479667655">
+        <source>Compendium.Tactics.LokiStrategy.Content</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Una strategia molto potente in Blood Rage è quella di Loki. Ci sono diverse carte che ti permettono di speculare sulle perdite in combattimento (e ricorda che solo chi vince una battaglia perde le sue carte, mentre se perdi puoi continuare a usare le stesse carte) ottenendo Furia o Gloria, oppure addirittura carte. Ci sono anche alcune migliorie o carte impresa che ti permettono di ottenere punti quando le tue miniatura ritornano dal Valhalla. Se riesci a mettere insieme alcune di queste carte potrai ottenere un'enorme quantità di punti. Per questo la strategia di Loki in Blood Rage non è solo un diversivo, ma è considerata davvero efficace.
+Le carte più importanti della prima Era:
+Inganno di Loki
+Benedizione di Loki
+Dominio di Loki
+Morte gloriosa
+</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1953856071">
+        <source>Compendium.Tactics.DragonTactics.Header</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Tattica del drago</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="649411517">
+        <source>Compendium.Tactics.DragonTactics.Content</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">In ogni Era, c'è una carta che ti permette di ottenere Gloria extra quando una delle tue Navi viene distrutta. Se 4 punti Gloria durante la prima Era possono non sembrare così interessanti, gli 8 della seconda Era e i 12 della terza non sono da sottovalutare. Se a questo aggiungi il fatto che puoi effettuare un'invasione senza costo quando giochi la miglioria, significa che puoi pagare un solo punto Furia per ottenere 4/8/12 punti Gloria!
+Per assicurarti che una delle tue Navi venga distrutta alla fine di un'Era, collocala in un fiordo adiacente a una provincia che verrà distrutta dal Ragnarök.
+</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1686454077">
+        <source>Compendium.Tactics.SeaSerpent.Header</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Serpente marino</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1322226443">
+        <source>Compendium.Tactics.SeaSerpent.Content</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Se riesci a scegliere il Serpente marino durante il draft, i vantaggi delle carte Drago diventano ancora superiori: il serpente conta come una Nave, per cui raddoppi i bonus ottenuti.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2067636078">
+        <source>Compendium.Tactics.FriggasDomain.Header</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Dominio di Frigga</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-649966296">
+        <source>Compendium.Tactics.FriggasDomain.Content</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Una carta della terza Era, Dominio di Frigga, ti consente di invadere con una delle tue miniature presenti nel Valhalla. Immagina di avere i Draghi eterni in gioco per ottenere 12 punti Gloria ogni volta che una Nave viene distrutta e che puoi continuare a distruggerne una (o il serpente) continuamente!
+Devi solo assicurarti di collocarla nei fiordi in cui hai la sicurezza di perdere ogni battaglia, e solo nelle province che possono essere ancora saccheggiate in modo da scatenare un combattimento. 
+</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="43874628">
+        <source>Compendium.Tactics.FriggasChosen.Header</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Prescelto di Frigga</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-507034726">
+        <source>Compendium.Tactics.FriggasChosen.Content</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Se riesci a combinare il Dominio di Frigga con il Prescelto di Frigga, puoi sacrificare una tua Nave (o Serpente) per ottenere un aumento delle statistiche di clan, Gloria e un'Invasione dal Valhalla, il tutto più volte. È una strategia che consuma molta Furia, per cui usala se hai davvero bisogno di incrementare le statistiche per ottenere il massimo dei punti.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1424551850">
+        <source>Compendium.Tactics.HateDrafting.Header</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Draft aggressivo</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="545762628">
+        <source>Compendium.Tactics.HateDrafting.Content</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Come descritto nel capitolo relativo agli archetipi dell'IA, in Blood Rage è una buona idea applicare una strategia di draft aggressivo. La locuzione descrive la pratica di scegliere, durante il draft, una carta che non è necessariamente utile per se stessi, ma che sarebbe molto potente se a disposizione di un avversario. Per esempio, se l'IA sta seguendo la strategia di Loki o del Maestro d'ascia (ottenere i punti perdendo le battaglie e le miniature, in particolar modo le Navi per il Maestro d'ascia) e il giocatore ha la possibilità di scegliere la carta Draghi eterni durante il draft della terza Era, può essere opportuno considerare di farlo per evitare che un avversario possa avvantaggiarsene.
+Ovviamente, applicando spesso questa strategia, i giocatori rischiano di indebolire la propria mano, per cui è importante imparare quali sono le carte più importanti di alcune strategie e scegliere accuratamente quando vale la pena contrastare in questo modo la strategia dell'avversario durante il draft.
+</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1511387450">
+        <source>Compendium.Tabnavigation.GodsOfAsgard</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">Dei di Asgard</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-175138063">
+        <source>Compendium.GodsOfAsgard.Rule</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">Regole</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="169395690">
+        <source>Compendium.GodsOfAsgard.Rule.Content</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">In ogni partita vengono usate solo due divinità (scelte a caso).
+Anche le province, in cui esse si trovano inizialmente, vengono determinate in modo casuale. Le divinità non occupano spazio nei villaggi.
+
+Ogni carta dio elenca quali effetti quella divinità ha sulla provincia che occupa, modificando le regole di conseguenza. Il potere della divinità ha effetto solo sulla provincia in cui si trova (e sui fiordi adiacenti).
+
+Dopo che un giocatore termina un saccheggio, a prescindere dal risultato ottenuto, può spostare la divinità in un'altra provincia che:
+
+&lt;indent=5%&gt;•&lt;indent=7%&gt; non ne ospita già una;
+&lt;indent=5%&gt;•&lt;indent=7%&gt; non è stata saccheggiata;
+&lt;indent=5%&gt;•&lt;indent=7%&gt; non è già stata distrutta.
+
+&lt;indent=0%&gt;Se nessuna provincia risponde a queste caratteristiche, la divinità non potrà essere mossa.
+
+All'inizio della seconda e della terza Era, entrambe le divinità verranno riposizionate in provincie scelte a caso.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1242877015">
+        <source>Compendium.GodsOfAsgard.Odin</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">Odino</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1728336788">
+        <source>Compendium.GodsOfAsgard.Frigg</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">Frigga</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="611227954">
+        <source>Compendium.GodsOfAsgard.Thor</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">Thor</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="798249494">
+        <source>Compendium.GodsOfAsgard.Tyr</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">Tyr</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-309652134">
+        <source>Compendium.GodsOfAsgard.Loki</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">Loki</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-102427512">
+        <source>Compendium.GodsOfAsgard.Hel</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">Hel</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="402711203">
+        <source>Compendium.GodsOfAsgard.Heimdall</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">Heimdall</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="422666661">
+        <source>Compendium.Tabnavigation.MysticsOfMidgard</source>
+        <target xml:lang="it-IT">Mistici di Midgard</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-144620974">
+        <source>Compendium.MysticsOfMidgard.Rule</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">Regole</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1187853751">
+        <source>Compendium.MysticsOfMidgard.Content</source>
+        <target xml:lang="it-IT">Ogni clan ha due miniature Mistico a propria disposizione. I giocatori non possono utilizzarle finché il proprio clan non ottiene le migliorie clan necessarie.
+Le migliorie clan Mistico sono mescolate tra le carte miglioria.
+
+Quando un giocatore utilizza una delle carte miglioria clan contenute in questo set, una delle sue miniature Mistico viene aggiunta alla riserva del clan. Ricorda che, a differenza di quando applichi una miglioria ai Mostri o a una truppa, quando giochi una miglioria clan non puoi effettuare immediatamente un'Invasione con la tua miniatura Mistico. Viene solo aggiunta alla tua riserva. 
+In un turno successivo potrai spendere una tua azione per effettuare un'Invasione con un Mistico. Invadere con un Mistico non costa Furia e ognuno di essi ha Forza 2. 
+
+Se aggiungi una seconda miglioria clan Mistico, la seconda miniatura Mistico del tuo clan viene aggiunta alla riserva e può essere utilizzata successivamente sulla mappa per un'Invasione.
+Se giochi una terza miglioria clan Mistico, non ottieni una terza miniatura, visto che ogni clan ne ha soltanto due a propria disposizione.
+Tuttavia, entrambi i Mistici beneficeranno delle capacità fornite dalle tre migliorie clan. Ogni carta miglioria clan Mistico in possesso del tuo clan dà a tutti i tuoi Mistici la capacità indicata su di essa. Nel caso in cui il tuo clan disponga di diverse di queste carte miglioria, ognuno dei Mistici ottiene tutte le capacità indicate da ogni carta. 
+
+Ricorda, tuttavia, che se hai due copie della stessa identica carta, le capacità non si sommano. Se, successivamente, scarti una delle carte miglioria clan per sostituirla con un'altra, non perdi la miniatura Mistico, ma rinunci solo alla capacità speciale.
+
+In tutti gli altri casi durante la partita, i Mistici funzionano come ogni altra miniatura del clan, come i Guerrieri o i Capi. Contano ai fini del limite di Corni, forniscono FOR in battaglia e per completare le imprese, ti fanno ottenere Gloria quando vengono distrutti nel Ragnarök e quando ritornano dal Valhalla sono nuovamente disponibili nella tua riserva.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

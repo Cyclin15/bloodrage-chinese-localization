@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en-US" target-language="fr-FR" datatype="plaintext" original="not.available">
+    <body>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-649132201">
+        <source>fenrir_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">芬里尔</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1495487142">
+        <source>fenrir_text</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">诸神黄昏将改为毁灭芬里尔所在的区域，而非原本注定毁灭的区域（若该区域为世界树则除外）。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-897056218">
+        <source>garm_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">加尔姆</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1103844873">
+        <source>garm_text</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">诸神黄昏将改为毁灭加尔姆所在的区域，而非原本注定毁灭的区域（若该区域为世界树则除外）。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-98426272">
+        <source>hildisvini_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">希尔德斯维尼</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2052923663">
+        <source>hildisvini_text</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">当此怪物入侵某区域时，它可以替换该处的一个单位，并将该单位移至你选择的一个相邻区域。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-540360818">
+        <source>mountain_giant_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">山岳巨人</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="998411103">
+        <source>mountain_giant_text</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">此怪物视为首领。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-833234853">
+        <source>mountain_giantess_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">山岳女巨人</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1245976010">
+        <source>mountain_giantess_text</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">此怪物视为首领。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1114628294">
+        <source>mystic_troll_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">神秘巨魔</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1484629843">
+        <source>mystic_troll_text</source>
+        <target xml:lang="fr-FR">你的单位免费入侵此怪物所在的区域。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1029880220">
+        <source>nidhoeggr_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">尼德霍格</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="914665025">
+        <source>nidhoeggr_text</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">当你借此怪物赢得一场战斗后，败方每有一个位于瓦尔哈拉的单位，你便获得1点荣耀。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="864492040">
+        <source>seer_troll_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">先知巨魔</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-581006679">
+        <source>seer_troll_text</source>
+        <target xml:lang="fr-FR">你的单位免费入侵此怪物所在的区域。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2042931691">
+        <source>wolfman_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">狼人</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1910450240">
+        <source>wolfman_text</source>
+        <target xml:lang="fr-FR">与此怪物战斗时，只有怪物的战力会被计入。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1265912985">
+        <source>wolfwoman_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">女狼人</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-112169022">
+        <source>wolfwoman_text</source>
+        <target xml:lang="fr-FR">与此怪物战斗时，只有怪物的战力会被计入。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-104065878">
+        <source>ymir_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">伊米尔</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2017298103">
+        <source>ymir_text</source>
+        <target xml:lang="fr-FR">*升级或入侵均不消耗怒气。战力 = 你位于瓦尔哈拉的单位数量×2。</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

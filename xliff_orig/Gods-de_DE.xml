@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en-US" target-language="de-DE" datatype="plaintext" original="not.available">
+    <body>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-306149280">
+        <source>ingame.moveGod</source>
+        <target xml:lang="de-DE">Wähle eine neue Provinz für den Gott aus.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1748910988">
+        <source>odin_name</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2">ODIN</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1625665045">
+        <source>odin_title</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2">Der Allvater</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1268319559">
+        <source>odin_ability</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2">Wenn du Odins Gebiet erfolgreich plünderst, erhältst du die Belohnung zweimal.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1877322225">
+        <source>thor_name</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2">THOR</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-806459546">
+        <source>thor_title</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2">Der Siegreiche</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-124862498">
+        <source>thor_ability</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2">Der Sieger einer Schlacht in Thors Gebiet erhält zusätzlich 2 Ruhm für jede getötete gegnerische Spielfigur.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1139907933">
+        <source>tyr_name</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2">TYR</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1168866564">
+        <source>tyr_title</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2">Der Herr der Schlacht</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="942687032">
+        <source>tyr_ability</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2">In Tyrs Gebiet haben alle Spielfiguren ST 0. In der Schlacht zählt nur die ST der Kampfkarten.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1123327024">
+        <source>frigga_name</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2">FRIGG</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1582593851">
+        <source>frigga_title</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2">Die Beschützerin</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-49164331">
+        <source>frigga_ability</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2">In Friggs Gebiet können während einer Schlacht unter keinen Umständen Spielfiguren getötet werden.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-30785703">
+        <source>loki_name</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2">LOKI</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1192322890">
+        <source>loki_title</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2">Der Betrüger</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1558252430">
+        <source>loki_ability</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2">In Lokis Gebiet erhalten die Verlierer einer Schlacht Ruhm, nicht der Sieger.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1553126054">
+        <source>heimdall_name</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2">HEIMDALL</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-102611953">
+        <source>heimdall_title</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2">Der Wächter der Götter</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="522993217">
+        <source>heimdall_ability</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2">In Heimdalls Gebiet werden die Kampfkarten reihum offen ausgespielt. Der Spieler links vom aktiven Spieler beginnt.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1616699401">
+        <source>hel_name</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2">HEL</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="950018086">
+        <source>hel_title</source>
+        <target xml:lang="de-DE">Der Hinterhältige</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="381460946">
+        <source>hel_ability</source>
+        <target xml:lang="de-DE">Hels Gebiet mit irgendeiner Figur zu invadieren kostet immer genau 1 Wut, ungeachtet aller anderen Modifikatoren.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2081941864">
+        <source>ingame.moveGodHeadline</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2">Götteraktion</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1159956721">
+        <source>ingame.moveGodOpponent</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2">Der plündernde Spieler bewegt den Gott in eine legale Provinz seiner Wahl.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1634279378">
+        <source>ingame.moveGodDescription</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2">Du kannst eine Götterfigur nur in eine Provinz bewegen, die:
+- keinen anderen Gott enthält
+- noch nicht geplündert wurde
+- nicht durch Ragnarök zerstört wurde
+Wenn es keine legale Provinz gibt, bewegt sich der Gott nicht.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-922584083">
+        <source>ingame.invadeHelProvince</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2">Hels Gebiet zu invadieren kostet dich 1 Wut. Weiter?</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-821269804">
+        <source>ingame.godsBattleResult.godGlory</source>
+        <target xml:lang="de-DE">Ruhm durch Götter-Fähigkeit</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en-US" target-language="fr-FR" datatype="plaintext" original="not.available">
+    <body>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="876823822">
+        <source>Compendium.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">百科</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1318841199">
+        <source>Compendium.Tabnavigation.Cards</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">卡牌</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1469683901">
+        <source>Compendium.Tabnavigation.Rules</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">规则</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-486571707">
+        <source>Compendium.Tabnavigation.Tactics</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">战术</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-131242434">
+        <source>Compendium.Rules.Objective.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">游戏目标</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="156764168">
+        <source>Compendium.Rules.Objective.Content</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">在世界最终走向烈焰终结之前，赢得尽可能多的荣耀，便是本游戏的目标。你可以通过赢下战斗、进行掠夺、为诸神完成任务，以及在战斗中光荣赴死来获取荣耀。随着诸神黄昏逐渐吞噬世界，游戏将历经三个时代。游戏结束时，荣耀最多的玩家获胜。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-301386039">
+        <source>Compendium.Rules.BaseConcepts.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">基础概念</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1887547015">
+        <source>Compendium.Rules.BaseConcepts.GameBoard.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">游戏棋盘</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1694132351">
+        <source>Compendium.Rules.BaseConcepts.GameBoard.Content</source>
+        <target xml:lang="fr-FR">《血怒》的棋盘是一幅围绕世界树的神话地形图，这棵参天巨树将九界连为一体。大地共分为九个区域，中央区域即世界树。其周围环绕着八个外围区域，分属三片地域：曼海姆、亚尔夫海姆和约顿海姆。共享边界的区域视为彼此相邻（世界树与其他所有区域均相邻）。
+每个区域拥有三到五个村庄。每个村庄只能容纳一个单位，因此每个区域内的单位数量不能超过其村庄数量。世界树没有村庄，因此占据世界树的单位数量没有限制。此外，外围区域两两之间共设有四处峡湾。每处峡湾被视为支撑与其相连的两个区域。任何作用于某区域的效果同样作用于支撑它的峡湾。每处峡湾可容纳的长船单位数量没有限制。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1375515412">
+        <source>Compendium.Rules.Glory.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">荣耀</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="603095098">
+        <source>Compendium.Rules.Glory.Content</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">在《血怒》中，收集荣耀便是玩家的取胜之道！
+游戏结束时，荣耀最多的玩家获胜。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1900399408">
+        <source>Compendium.Rules.Rage.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">怒气</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-350052746">
+        <source>Compendium.Rules.Rage.Content</source>
+        <target xml:lang="fr-FR">怒气是你的行动资源。当你执行行动时，通常需要消耗一定的怒气。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1966188874">
+        <source>Compendium.Rules.ClanStats.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">氏族属性</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1103332416">
+        <source>Compendium.Rules.ClanStats.Content</source>
+        <target xml:lang="fr-FR">怒气属性决定了你在每个回合开始时可支配的怒气量。怒气越多，你能执行的行动就越多。 
+斧头属性决定了你赢得战斗时能获得多少荣耀。斧头越多，你的战斗胜利就越荣耀，推动你的氏族在胜利之路上走得更远。 
+号角属性决定了你同一时间能在棋盘上拥有多少单位。兵力越雄厚，你就能迎战更多战斗、掠夺更多土地、抛洒更多热血。 
+随着游戏进行，你将有多次机会提升氏族的各项属性。如果能在游戏结束前将属性提升至传奇等级，你将获得丰厚的荣耀奖励。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-983140160">
+        <source>Compendium.Rules.Figures.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">单位</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="25047570">
+        <source>Compendium.Rules.Figures.Content</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">你的每个单位——首领、长船、战士，以及之后的怪物——都拥有一个战力值（STR）。游戏开始时，这些数值都显示在你的玩家栏上：首领战力为 3，长船战力为 2，战士战力为 1。在棋盘上保持充足的战力有助于你赢得战斗并完成任务。此外，首领和长船在游戏开始时便拥有特殊能力，你可以将鼠标悬停在其上查看。随着游戏进行，你可以将升级卡放到氏族面板上对应的槽位来升级你的单位。这些卡牌会标明你的单位新的战力值和能力。请注意，即使被升级，首领和长船也永远保留玩家栏上详细列出的能力。每当有单位被消灭——无论是在战斗中、因特殊能力而亡，还是难逃诸神黄昏的末日浩劫——它都会被置入瓦尔哈拉，在那里等待下一个时代重返战场。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-469649066">
+        <source>Compendium.Rules.Cards.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">卡牌</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="609016160">
+        <source>Compendium.Rules.Cards.Content</source>
+        <target xml:lang="fr-FR">在每个时代，都会有不同的牌库代表北欧诸神的馈赠。玩家将在诸神馈赠阶段轮抽这些卡牌。这些馈赠能以各种各样的方式为你提供帮助。
+
+部分卡牌仅在特定玩家人数时使用。卡牌上会以 3+、4+ 或 5+ 分别标明。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1535082612">
+        <source>Compendium.Rules.BattleCards.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">战斗卡</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="428394270">
+        <source>Compendium.Rules.BattleCards.Content</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">战斗卡（红色）可在战斗中增强你军队的战力。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2042701728">
+        <source>Compendium.Rules.QuestCards.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">任务卡</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2099654650">
+        <source>Compendium.Rules.QuestCards.Content</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">任务卡（绿色）代表赐予你氏族的神圣任务。若能达成，它们可以为你带来大量荣耀。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-522805466">
+        <source>Compendium.Rules.UpgradeCards.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">升级卡</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1120814240">
+        <source>Compendium.Rules.UpgradeCards.Content</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">升级卡（黑色）可提升你氏族的多个方面： 
+• 部队升级可提升你的战士、首领或长船的战力和/或能力。 
+• 怪物升级是独一无二的神话生物，你可以招募它们加入战斗。 
+• 氏族升级作用于你的氏族整体，提供各式各样的效果。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="760564453">
+        <source>Compendium.Rules.TheEnd.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">末日将至！</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-92387753">
+        <source>Compendium.Rules.TheEnd.Content</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">每个时代结束时，都会有一个区域被诸神黄昏摧毁。视玩家人数而定，部分区域可能在游戏开始时便已被摧毁。 
+四人游戏时，1 个区域被摧毁。 
+三人游戏时，2 个区域被摧毁。 
+双人游戏时，3 个区域被摧毁。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-9594724">
+        <source>Compendium.Rules.Ragnarok.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">诸神黄昏</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1521563253">
+        <source>Compendium.Rules.Ragnarok.Content</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">被摧毁的区域不再视为游戏的一部分。单位不能移入其中，它们也不能被掠夺。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="956504088">
+        <source>Compendium.Rules.Doom.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">末日</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-284238702">
+        <source>Compendium.Rules.Doom.Content</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">每个时代中，都有一个区域“注定”要在时代结束时被诸神黄昏摧毁。
+该区域内（以及相邻峡湾中）的所有单位都会被杀死并移入瓦尔哈拉。视时代不同，其拥有者将因每个被消灭的单位获得荣耀。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="546778639">
+        <source>Compendium.Rules.Phases.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">游戏阶段</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1768359477">
+        <source>Compendium.Rules.Phases.Content</source>
+        <target xml:lang="fr-FR">游戏共进行三个时代，每个时代都由相同的阶段组成。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2036322678">
+        <source>Compendium.Rules.Phases.GodsGift.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">诸神馈赠阶段</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-270951648">
+        <source>Compendium.Rules.Phases.GodsGift.Content</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">在此阶段，玩家将轮抽（选取）卡牌。这些卡牌将为他们提供部队与氏族的升级、加入战局的怪物、换取荣耀的任务，以及赢下战斗的强大力量。在第二和第三时代，如果玩家手中还留有上一个时代的卡牌，可以选择保留一张。
+在每轮轮抽中（共六轮），每位玩家选取一张卡牌加入手牌。其余卡牌传给下一位（最左侧的）玩家，依此进行，直到每位玩家轮抽完六张卡牌。剩余的卡牌则移出游戏。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-537411189">
+        <source>Compendium.Rules.Phases.Action.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">行动阶段</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1065961407">
+        <source>Compendium.Rules.Phases.Action.Content</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">这是游戏的主要部分，入侵与掠夺在此上演，战斗在此打响，鲜血在此抛洒。所有玩家开始行动阶段时，拥有的怒气量等同于其氏族面板上怒气属性所示的数值。第一时代中，每位玩家起始拥有 6 点怒气。在后续时代中，如果你已提升氏族的怒气属性，你将以更多怒气开始行动阶段。
+首位玩家率先行动，然后按顺时针顺序轮流进行。轮到你时，你必须选择执行一项行动。如果该行动需要消耗怒气（通常如此），则先支付怒气，再执行行动。如果你的怒气不足以支付某项行动的全部费用，你就不能执行该行动。你的行动完成后，你的回合即告结束。随后由你左侧的玩家进行回合，执行一项行动并支付相应的怒气费用。玩家依序轮流行动。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1831766001">
+        <source>Compendium.Rules.Phases.TakingAction.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">执行行动</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-179044473">
+        <source>Compendium.Rules.Phases.TakingAction.Content</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">怒气降为零的玩家在其回合内无法执行任何行动，即使是零怒气费用的行动也不行。该玩家所能做的只是对其他玩家的行动作出响应，例如参加由其他玩家发起的战斗。玩家执行行动时有五个选项可选（如氏族面板底部所示）。在整个行动阶段中，玩家可以多次执行同一种行动，但每回合始终只能执行一项行动。
+如果你无法执行行动，或不想执行，可以选择跳过。但请注意，一旦跳过，你将失去所有剩余怒气，且不能再执行任何行动。行动阶段结束：当所有玩家的怒气都降为零，或所有尚未被摧毁的区域都已被成功掠夺时（即使玩家仍有剩余怒气），行动阶段立即结束。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="995087302">
+        <source>Compendium.Rules.Phases.Invade.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">入侵</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2097411004">
+        <source>Compendium.Rules.Phases.Invade.Content</source>
+        <target xml:lang="fr-FR">选择任一外围区域中的一个空村庄，然后从你的预备区中选择一个单位。必须支付与该单位战力值相等的怒气费用。
+如果选择的单位是长船，则必须将其放置在任一峡湾中。你不能通过此行动将单位直接放入世界树；若要将部队送入世界树，你必须行军前往。另请注意，用首领入侵不消耗任何怒气。
+注意：请时刻留意你的号角属性。如果你在棋盘上的单位数量已等于当前号角属性，你就不能再以入侵放置任何单位（瓦尔哈拉不属于棋盘的一部分）。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1219643436">
+        <source>Compendium.Rules.Phases.March.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">行军</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="994775714">
+        <source>Compendium.Rules.Phases.March.Content</source>
+        <target xml:lang="fr-FR">当你命令部队行军时，你必须支付 1 点怒气。选择一个区域（不能选择峡湾），将任意数量的单位从该区域移动到另一个区域的空村庄中。目标区域不必相邻，可以是棋盘上的任何区域。你不能在同一行动中从两个不同区域移出单位，也不能将单位移往两个不同的区域。你只能从某一个区域行军到另一个区域。注意：行军行动通常是将单位送往世界树的唯一途径（响应战斗号召除外）。世界树中没有村庄，因此你在那里的单位数量没有限制。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1467273268">
+        <source>Compendium.Rules.Phases.MarchExample.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">行军示例：</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1192276294">
+        <source>Compendium.Rules.Phases.MarchExample.Content</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">下面的示例展示了五种合法或非法的行军行动： 
+1：蓝色玩家可以移动他的 2 个单位，即使两区域并不相邻。他无法将全部 3 个单位从吉姆莱移出，因为艾利瓦加只有 2 个空村庄。 
+2：黄色玩家可以将任意数量的单位从安格尔波达移往世界树。世界树可容纳的单位数量没有限制。 
+3：棕色玩家不能通过一次行军行动将单位移入两个不同的区域。 
+4：红色玩家不能通过一次行军行动从两个不同的区域移出单位。 
+5：长船永远不能被移动。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1723866263">
+        <source>Compendium.Rules.Phases.Upgrade.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">升级</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1082624751">
+        <source>Compendium.Rules.Phases.Upgrade.Content</source>
+        <target xml:lang="fr-FR">每个氏族最多拥有八个升级槽位：战士、首领和长船各一个，怪物两个，氏族三个。执行升级时，你必须从手牌中选择一张升级卡，并支付与该卡战力值相等的怒气。然后将卡牌放到玩家栏上对应的槽位。如果有多个可用槽位，由你来决定使用哪一个。如果槽位中已有卡牌，则将旧卡弃掉，换成新卡。这张新升级卡从此永久生效，为你提供卡上列出的所有益处——从更高的部队战力到各种特殊能力。如果你的氏族在不同槽位中有两张提供同类收益的升级卡，两张卡各自独立生效，互不抵消。
+部队升级 
+当你打出首领、战士或长船升级时，如果你的预备区中有对应的单位，你可以立即（在下一位玩家的回合之前）以入侵方式放置它，且无需额外消耗怒气。 
+怪物升级 
+怪物是独一无二的单位，能够极大地改变游戏走向。每个怪物都拥有一项强大而独特的特殊能力。当你打出怪物升级后，它便在余下的游戏中归你所有，并计为你的一个单位。你可以立即以入侵方式放置它，且无需额外消耗怒气。你的怪物可以像其他任何单位一样死亡并被送入瓦尔哈拉，在下一个释放瓦尔哈拉阶段回到你的预备区。它也能像其他任何单位一样，在诸神黄昏阶段为你赚取荣耀。你的氏族同一时间最多只能拥有 2 个怪物。如果你为了把新怪物放入升级槽而弃掉某个怪物的卡牌，旧怪物单位会立即移出游戏。
+</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-580980201">
+        <source>Compendium.Rules.Phases.Quest.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">任务</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1033038275">
+        <source>Compendium.Rules.Phases.Quest.Content</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">从手牌中取出一张任务卡，面朝下放在氏族面板上、你氏族的动物图腾之上，以宣告承接该任务。承接任务不消耗怒气。每个时代中你可承接的任务数量没有限制，也可以承接两张同类型的任务（各自独立给予奖励）。你可以随时查看自己承接的任务。在本行动阶段中，你应努力达成所承接任务的要求，以便在下一个任务阶段收获卡上列出的奖励（见第 20 页）。不过，任务失败不会受到任何惩罚。 
+注意：虽然承接任务不消耗怒气，但请记住，怒气降为零时你无法执行任何行动——即使是免费的行动也不例外。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1226876331">
+        <source>Compendium.Rules.Phases.Pillage.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">掠夺</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1064495065">
+        <source>Compendium.Rules.Phases.Pillage.Content</source>
+        <target xml:lang="fr-FR">如果你成功掠夺一个区域，你将获得奖励——可能是提升某项氏族属性，也可能是获得更多荣耀。但在此之前，你需要先在战斗中击败占据该区域的其他所有氏族。执行掠夺时，选择一个至少含有一个你的单位（或在其支撑峡湾中）、且本阶段尚未被成功掠夺的区域。掠夺本身不消耗怒气，但请记住，怒气降为零时你无法执行任何行动。掠夺行动按以下 3 个步骤依序结算：
+1. 战斗号召：玩家可以移动相邻的单位加入战斗。 
+2. 打出卡牌：参战玩家亮出卡牌，以增加战力和/或产生特殊效果。 
+3. 结算：总战力最高者获胜。败者单位被消灭，胜者获得奖励。
+
+1. 战斗号召
+一旦你宣告了掠夺该区域的意图，其他玩家便有机会加入战斗。从你左侧的玩家开始，按顺时针顺序，每位玩家（包括你在内）都可以（如果愿意）将自己的一个单位从相邻区域移入被掠夺区域的一个空村庄。以此方式移动单位不消耗怒气（注意长船不能被移动）。
+当该区域的所有村庄都被占据，或再无人想要加入时，战斗正式打响。 
+注意：世界树中没有村庄，因此任何数量的单位都可以加入那里的战斗。如果此时该区域或其支撑峡湾中已没有敌方单位，则不会发生战斗，你自动掠夺该区域，获得其奖励（见下页），并将其掠夺标记翻至“已掠夺”一面。注意在这种情况下，你不会因赢得战斗而获得任何荣耀。 
+否则，战斗将会打响，被掠夺区域或其支撑峡湾中的所有单位都必须参战。
+
+2. 打出卡牌 
+每位参战玩家必须从手牌中选择一张卡牌（若手中已无卡牌，则无须打出）。然后所有卡牌同时亮出。如果你亮出的是战斗卡，其战力加成将计入你参战单位的总战力，卡上列出的任何特殊能力也在此刻生效。反之，如果你亮出的是升级卡或任务卡，它既不会增加你的战斗战力，也不会产生任何效果。每个氏族将其所有参战单位的战力相加，再加上所打出的战斗卡提供的战力加成（若有），即为该氏族在此战斗中的总战力。注意：如果某张卡的特殊效果导致一名玩家在比较战力之前就失去了他在战斗中的全部单位，这并不意味着该氏族出局——这些单位是在战斗过程中被消灭的，只要该氏族打出的战斗卡战力足够，它仍有可能获胜。
+某些特殊战斗卡甚至可以在玩家亮出卡牌之后进一步增强你部队的战力。这类特殊卡的战力加成标注在白色实心圆盘上，卡牌文字会注明它们可以在卡牌亮出之后、胜者判定之前打出（它们也可以正常打出）。发起掠夺的玩家有优先机会使用这类特殊卡增加战力，然后按顺时针方向轮转，直到无人再想打出为止。
+
+3. 结算 
+总战力最高的玩家赢得战斗！若战成平局，则所有参战玩家均判失败。战斗的胜者（若有）必须弃掉其打出的所有卡牌。战斗的败者则将打出的所有卡牌收回手牌。
+
+所有战败方在战斗中的单位（包括从峡湾支援的单位）都被消灭，置入瓦尔哈拉。如果发起掠夺的玩家赢得战斗，他便成功掠夺该区域，获得掠夺旗所示的奖励（见下文）。该区域在下一个时代之前不能再被掠夺。如果掠夺者没有赢得战斗，则该区域未被掠夺，无人获得掠夺奖励。任何玩家（包括掠夺者）都可以在本阶段稍后再次尝试掠夺该区域。最后，无论是否为发起掠夺的玩家，战斗的胜者都将获得荣耀，数量等于其玩家栏上当前斧头属性所示的数值。
+
+掠夺奖励 
+当你成功掠夺此区域时，将你的氏族怒气属性提升一级。你在本阶段不会获得额外怒气，但将在下一个时代以更多怒气开始。当你成功掠夺此区域时，将你的氏族斧头属性提升一级。提升后的战斗胜利荣耀立即生效，且包含本场战斗。当你成功掠夺此区域时，将你的氏族号角属性提升一级。当你成功掠夺此区域时，获得 5 点荣耀。当你成功掠夺世界树时，将你的氏族全部三项属性各提升一级。
+
+
+</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1896596771">
+        <source>Compendium.Rules.Phases.Discard.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">弃牌阶段</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1597813123">
+        <source>Compendium.Rules.Phases.Discard.Content</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">所有玩家必须弃掉手中可能剩余的所有卡牌。他们只能保留一张卡牌供下一个时代使用（如果还有的话）。在第三时代，玩家须弃掉所有卡牌，完全清空手牌。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2016595841">
+        <source>Compendium.Rules.Phases.QuestResolve.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">任务阶段</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-204187607">
+        <source>Compendium.Rules.Phases.QuestResolve.Content</source>
+        <target xml:lang="fr-FR">在此阶段，所有任务都会翻开。如果你满足了某张任务的要求，你将获得卡上标明的荣耀，还可以将任意一项氏族属性提升一级。如果未能完成任务，你一无所获，但也不会有任何损失。所有任务卡无论成败都会被弃掉。大多数任务要求在指定区域内拥有最高战力。将该区域内你所有单位的战力相加（包括支撑峡湾中的单位），并与同一区域内其他每个氏族的总战力比较。若你的总战力更高，即完成任务；若与敌人战力持平，则任务失败。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="32669426">
+        <source>Compendium.Rules.Phases.Ragnarok.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">诸神黄昏</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-222729784">
+        <source>Compendium.Rules.Phases.Ragnarok.Content</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">诸神黄昏的时刻到了！当前“注定毁灭”的区域将被摧毁，并永久移出游戏。对维京人而言，再没有比在诸神黄昏中消亡更光荣的死亡了。当区域以此方式被摧毁时，该区域及其支撑峡湾中的所有单位都会死亡并被置入瓦尔哈拉。每个这样的单位都会为其氏族赢得荣耀。授予的荣耀数量标注在时代轨道的每个诸神黄昏槽位上。玩家在诸神黄昏中每有一个单位（包括怪物）被消灭，第一时代获得 2 点荣耀，第二时代获得 3 点荣耀，第三时代获得 4 点荣耀。接着，将末日标记放到下一个时代的诸神黄昏标记所指示的区域上。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-404128072">
+        <source>Compendium.Rules.Phases.Valhalla.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">释放瓦尔哈拉！</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-566656922">
+        <source>Compendium.Rules.Phases.Valhalla.Content</source>
+        <target xml:lang="fr-FR">每个时代结束时，玩家会收到诸神的最后一份馈赠：瓦尔哈拉中的所有单位都归还给各自的主人。棋盘上的所有单位则保持原位。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1879043328">
+        <source>Compendium.Rules.Phases.EndOfAge.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">时代结束</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="883080658">
+        <source>Compendium.Rules.Phases.EndOfAge.Content</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">每个时代结束后，所有被掠夺过的区域都会“重置”，可在下一个时代再次被掠夺。
+首位玩家标记传递给左侧的下一位玩家。
+下一个时代将以“诸神馈赠”阶段重新开始。随着新时代的到来，诸神的馈赠将愈发强大，带来更丰厚的荣耀，并在诸神黄昏不断摧毁大地之际，引发棋盘上对日渐稀少的残余领土的更激烈争夺。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-650977165">
+        <source>Compendium.Rules.EndOfGame.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">游戏结束</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1810280855">
+        <source>Compendium.Rules.EndOfGame.Content</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">当第三时代的释放瓦尔哈拉阶段完成后，世界已走到尽头，游戏也随之结束。现在该看看哪个氏族赢得了最多荣耀，在瓦尔哈拉中奥丁的王座旁谋得了一席之地！
+
+不过，还有最后一项奖励需要结算。玩家将氏族的各项属性提升至传奇等级可获得荣耀奖励。仅在游戏结束时，你的每项氏族属性若提升至第 4 级或第 5 级，获得 +10 荣耀；若提升至最高级，获得 +20 荣耀。
+
+氏族荣耀最多的玩家即被宣告为胜者！</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2014985655">
+        <source>Compendium.CardsFilter.All</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">全部</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1791092904">
+        <source>Compendium.CardsFilter.AgeI</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">第一时代</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-564283989">
+        <source>Compendium.CardsFilter.AgeII</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">第二时代</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1258747074">
+        <source>Compendium.CardsFilter.AgeIII</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">第三时代</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="10201492">
+        <source>Compendium.CardsFilter.Players</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">玩家人数</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1996841525">
+        <source>Compendium.CardsFilter.Players2+</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">2+</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1996841526">
+        <source>Compendium.CardsFilter.Players3+</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">3+</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1996841531">
+        <source>Compendium.CardsFilter.Players4+</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">4+</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1996841532">
+        <source>Compendium.CardsFilter.Players5+</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">5+</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1625359167">
+        <source>Compendium.Tactics.AIOpponents.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">AI 对手</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1345291569">
+        <source>Compendium.Tactics.AIOpponents.Content</source>
+        <target xml:lang="fr-FR">AI 对手会使用若干“原型”来体现它们的轮抽与对战风格。在较高难度下，AI 会以开放心态进入轮抽，只有在看到部分可选卡牌之后才会确定策略（并随之确定原型）。在较低难度下，原型可以预先设定，且在轮抽过程中不会改变。
+对玩家来说，至少要能识别 AI 可能想要达成的一些基本目标，以及它为此可能轮抽哪些卡牌，这一点很重要。尤其是当玩家想要进行“恶意轮抽”（详见下文）时，更需要知道 AI 到底在争夺哪些卡牌。
+
+&lt;b&gt;&lt;indent=5%&gt;•&lt;indent=7%&gt;机会主义者：&lt;/b&gt; 最全面的 AI 角色；会避免过度专精，一有机会便争取荣耀与升级
+&lt;indent=11%&gt;·&lt;indent=13%&gt;偏好卡牌：弗丽嘉的恩典、索尔之锤、弗丽嘉的魅力
+&lt;indent=11%&gt;·&lt;indent=13%&gt;偏好属性：全部
+&lt;b&gt;&lt;indent=5%&gt;•&lt;indent=7%&gt;荣耀猎手：&lt;/b&gt; 总是设法掠夺世界树，并会投入大量精力，至少也要参与到那里的任何一场战斗中
+&lt;indent=11%&gt;·&lt;indent=13%&gt;偏好卡牌：世界树、提尔的痛击、提尔的碾压
+&lt;indent=11%&gt;·&lt;indent=13%&gt;偏好属性：怒气
+&lt;b&gt;&lt;indent=5%&gt;•&lt;indent=7%&gt;诡计者：&lt;/b&gt; 总是尝试奉行洛基策略，通过输掉战斗并从这些失败中获利来赚取荣耀
+&lt;indent=11%&gt;·&lt;indent=13%&gt;偏好卡牌：洛基的领域、洛基的诡计、洛基的祝福、荣耀之死
+&lt;indent=11%&gt;·&lt;indent=13%&gt;偏好属性：号角
+&lt;b&gt;&lt;indent=5%&gt;•&lt;indent=7%&gt;战士：通常追求高强度战斗卡，试图借此赢下战斗并获取荣耀
+&lt;/b&gt;
+&lt;indent=11%&gt;·&lt;indent=13%&gt;偏好卡牌：提尔的痛击、提尔的碾压、海姆达尔的洞见、索尔之锤、索尔的荣耀
+&lt;indent=11%&gt;·&lt;indent=13%&gt;偏好属性：斧头
+&lt;b&gt;&lt;indent=5%&gt;•&lt;indent=7%&gt;军阀：&lt;/b&gt; 几乎总会追求强大的氏族升级（战士类），并据此制定策略
+&lt;indent=11%&gt;·&lt;indent=13%&gt;偏好卡牌：并肩作战、矮人酋长、索尔之锤、弗丽嘉的援助
+&lt;indent=11%&gt;·&lt;indent=13%&gt;偏好属性：斧头 &amp; 号角
+&lt;b&gt;&lt;indent=5%&gt;•&lt;indent=7%&gt;英雄：&lt;/b&gt; 几乎总会追求强大的氏族升级（首领类），并据此制定策略
+&lt;indent=11%&gt;·&lt;indent=13%&gt;偏好卡牌：锤王、索尔的荣耀、提尔的痛击
+&lt;indent=11%&gt;·&lt;indent=13%&gt;偏好属性：怒气、斧头
+&lt;b&gt;&lt;indent=5%&gt;•&lt;indent=7%&gt;怪物猎人：&lt;/b&gt; 对怪物升级有强烈偏好，并会尝试围绕怪物来展开整局游戏
+&lt;indent=11%&gt;·&lt;indent=13%&gt;偏好卡牌：矮人酋长、巨魔、海蛇
+&lt;indent=11%&gt;·&lt;indent=13%&gt;偏好属性：怒气
+&lt;b&gt;&lt;indent=5%&gt;•&lt;indent=7%&gt;造船匠：&lt;/b&gt; 通常专注于巨蛇与长船的部署，如果条件允许，可能还会尝试“洛基的巨龙”策略
+&lt;indent=11%&gt;·&lt;indent=13%&gt;偏好卡牌：海蛇、洛基的巨龙，以及位于长船 &amp; 巨蛇终将毁灭之地（诸神黄昏）的任务卡
+&lt;indent=11%&gt;·&lt;indent=13%&gt;偏好属性：怒气
+&lt;b&gt;&lt;indent=5%&gt;•&lt;indent=7%&gt;征服者：&lt;/b&gt; 会尝试制定高度专注于完成任务的策略，并借此获取荣耀与升级
+&lt;indent=11%&gt;·&lt;indent=13%&gt;偏好卡牌：提尔的领域、亚尔夫海姆、约顿海姆、曼海姆
+&lt;indent=11%&gt;·&lt;indent=13%&gt;偏好属性：全部
+</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1333556489">
+        <source>Compendium.Tactics.Yggdrasil.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">世界树</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1108539347">
+        <source>Compendium.Tactics.Yggdrasil.Content</source>
+        <target xml:lang="fr-FR">世界树是生命之树，正如它在北欧神话中的地位一样，世界树区域在《血怒》中也同样居于核心地位。掠夺此区域将同时提升你的全部三项氏族属性。如果你能多次完成掠夺，几乎稳能在游戏结束时获得大量奖励分。但显然，世界树很难被掠夺——因为来自其他所有区域的单位都可以响应战斗号召，其他玩家绝不会拱手相让。 
+但如果你能赢下一场世界树的大战，你就能大幅消耗对手的兵力，把他们统统送进瓦尔哈拉，从而更轻松地保持对世界树的控制，并在下一个时代早期、敌人恢复元气之前再次将其掠夺。因此，请务必囤积强大的战斗卡和能在战斗中助你一臂之力的升级，同时提防海姆达尔的守望这类可能破坏你计划的卡牌。
+冲击世界树时另一张非常强力的升级是提尔的挑战——再次掠夺一个区域并不便宜，但当奖励是全部三项属性时，它足以形成统治力，轻松为你带来三项满属性时的 +60 荣耀。 
+</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1648310259">
+        <source>Compendium.Tactics.LokiStrategy.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">洛基策略</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1479667655">
+        <source>Compendium.Tactics.LokiStrategy.Content</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">《血怒》中有一套非常强力的策略，即所谓“洛基策略”。有不少卡牌能让你从战斗失利中获利（请记住，只有战斗的胜者才会失去其打出的卡牌，因此你可以反复使用你的卡牌），为你带来怒气、荣耀甚至卡牌；还有相当多的升级卡和任务卡，能让你从单位离开瓦尔哈拉中获得分数。如果将其中一些卡牌组合起来，完全有可能斩获海量分数。洛基策略在《血怒》中并非旁门左道，而是公认的强力策略。
+第一时代的代表性卡牌：
+洛基的诡计
+洛基的祝福
+洛基的领域
+荣耀之死
+</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1953856071">
+        <source>Compendium.Tactics.DragonTactics.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">巨龙战术</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="649411517">
+        <source>Compendium.Tactics.DragonTactics.Content</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">每个时代都有一张卡牌，能让你的长船阵亡时获得额外荣耀。第一时代的 4 点荣耀或许听起来不算惊艳，但第二时代的 8 点和第三时代的 12 点可就相当可观了。再加上打出这张升级时你可以免费以入侵方式放置你的长船，这意味着你只需花费 1 点怒气，就能换来 4/8/12 点荣耀！
+如果你想确保长船在时代结束时阵亡，应将它放置在与即将被诸神黄昏摧毁的区域相邻的峡湾中，以确保其死亡。
+</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1686454077">
+        <source>Compendium.Tactics.SeaSerpent.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">海蛇</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1322226443">
+        <source>Compendium.Tactics.SeaSerpent.Content</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">如果你还能轮抽到海蛇，任何一张巨龙卡牌的回报都会更上一层楼——海蛇同样计为长船，因此你的加成会翻倍。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2067636078">
+        <source>Compendium.Tactics.FriggasDomain.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">弗丽嘉的领域</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-649966296">
+        <source>Compendium.Tactics.FriggasDomain.Content</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">弗丽嘉的领域是第三时代的卡牌，它允许你让一个单位从瓦尔哈拉重新入侵入场。现在想象一下：你已在场上打出永恒巨龙，每次长船阵亡都能稳赚 12 点荣耀，而你又能一遍又一遍地送死你的长船（或海蛇）！
+只需注意，一定要把船放在你必败的峡湾里，而且只能放在仍可被掠夺的区域，这样才会真正发生战斗。 
+</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="43874628">
+        <source>Compendium.Tactics.FriggasChosen.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">弗丽嘉的天选</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-507034726">
+        <source>Compendium.Tactics.FriggasChosen.Content</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">如果你还能将弗丽嘉的领域与弗丽嘉的天选结合起来，你就可以牺牲自己的长船（或海蛇）来换取氏族属性提升，收获荣耀，然后再从瓦尔哈拉重新入侵——如此循环往复。不过这套操作非常消耗怒气，只有当你需要属性升级来冲击最高得分时才值得使用。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1424551850">
+        <source>Compendium.Tactics.HateDrafting.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">恶意轮抽</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="545762628">
+        <source>Compendium.Tactics.HateDrafting.Content</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">正如 AI 原型一章所述，在《血怒》中，玩家不妨考虑“恶意轮抽”。这个词指的是轮抽一张对自己并非立即有用的卡牌，但它一旦落入对手手中就会变得极其强力。例如，如果某个 AI 一直在奉行洛基或造船匠策略（通过输掉战斗和损失单位来得分，造船匠尤其依赖长船），而你在第三时代的轮抽中看到了永恒巨龙这张卡，那么把它抢到手就值得考虑，以防对手从中获益。
+显然，恶意轮抽过多会削弱你自己的手牌，因此重要的是了解哪些卡牌是特定策略的关键组成部分，然后再明智地判断是否值得针对性地抢下那张卡，以打断对手的运转机器。
+</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1511387450">
+        <source>Compendium.Tabnavigation.GodsOfAsgard</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">阿斯加德诸神</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-175138063">
+        <source>Compendium.GodsOfAsgard.Rule</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">规则</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="169395690">
+        <source>Compendium.GodsOfAsgard.Rule.Content</source>
+        <target xml:lang="fr-FR">每局游戏只会使用（并随机选出）两位神明。
+神明的起始区域也是随机决定的。神明不会占用村庄中的任何空间。
+ 
+每张神明卡都列出了该神明对其所在区域产生的效果，并据此对规则做出相应调整。神明的力量只影响其所在区域（及相邻峡湾）。
+ 
+当一名玩家完成一次掠夺行动后，无论成功与否，该玩家都要将神明移到另一个满足以下条件的区域：
+
+&lt;indent=5%&gt;•&lt;indent=7%&gt; 尚未驻有神明
+&lt;indent=5%&gt;•&lt;indent=7%&gt; 尚未被掠夺
+&lt;indent=5%&gt;•&lt;indent=7%&gt; 尚未被摧毁
+
+&lt;indent=0%&gt;如果没有符合条件的区域，神明将不移动。
+ 
+在第二和第三时代开始时，两位神明都会再次被放置到随机选定的区域中。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1242877015">
+        <source>Compendium.GodsOfAsgard.Odin</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">奥丁</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1728336788">
+        <source>Compendium.GodsOfAsgard.Frigg</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">弗丽嘉</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="611227954">
+        <source>Compendium.GodsOfAsgard.Thor</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">索尔</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="798249494">
+        <source>Compendium.GodsOfAsgard.Tyr</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">提尔</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-309652134">
+        <source>Compendium.GodsOfAsgard.Loki</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">洛基</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-102427512">
+        <source>Compendium.GodsOfAsgard.Hel</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">赫尔</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="402711203">
+        <source>Compendium.GodsOfAsgard.Heimdall</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">海姆达尔</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="422666661">
+        <source>Compendium.Tabnavigation.MysticsOfMidgard</source>
+        <target xml:lang="fr-FR">米德加尔特巫师</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-144620974">
+        <source>Compendium.MysticsOfMidgard.Rule</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">规则</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1187853751">
+        <source>Compendium.MysticsOfMidgard.Content</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">每个氏族都拥有两个可供支配的巫师单位。在氏族获得必要的氏族升级之前，玩家无法使用他们。
+巫师氏族升级会洗入升级卡牌中。
+
+当玩家将此系列中的一张氏族升级卡给予自己的氏族时，他的一个巫师单位会被加入其氏族的预备区。请注意，与升级怪物或部队不同，打出氏族升级时你不能立即以入侵方式放置你的巫师单位，它只会被加入你的预备区。 
+在之后的某个回合，你将能够消耗行动以入侵方式放置你的巫师。以入侵放置巫师不消耗任何怒气，其战力为 2。 
+
+如果你为氏族添加第二个巫师氏族升级，你的第二个巫师单位会被加入预备区，之后可用来入侵棋盘。
+如果你为氏族添加第三个巫师氏族升级，你不会获得第三个巫师单位，因为每个氏族只有两个巫师单位。
+不过，你的两个巫师都能从全部三张氏族升级的能力中获益。你的氏族拥有的每张巫师氏族升级卡，都会赋予你所有巫师卡上所列的能力。如果你的氏族拥有多张此类氏族升级，你的每个巫师都会获得这些卡牌上列出的所有能力。 
+
+但请注意，如果你有两张完全相同的卡，其能力不会叠加。如果之后你弃掉一张巫师氏族升级以替换为其他卡牌，你不会失去巫师单位，他们只会失去该项特殊能力。
+
+在所有其他游戏用途上，巫师与你氏族的其他单位（如战士或首领）运作方式相同。他们计入你的号角上限，他们在战斗中和完成任务时提供战力，他们在诸神黄昏中被消灭时为你带来荣耀，并在从瓦尔哈拉释放后回到你的预备区。</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en-US" target-language="de-DE" datatype="plaintext" original="not.available">
+    <body>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-275003905">
+        <source>GameRoom.Expansion.Monsters</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Monster</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-39330874">
+        <source>MissingDLC.Header</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Fehlender DLC {0}</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-767109708">
+        <source>MissingDLC.Content</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Um an diesem Spiel teilzunehmen, benötigen Sie den {0} DLC. Bitte installieren Sie ihn, um an diesem Spiel teilnehmen zu können.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

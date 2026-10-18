@@ -1,0 +1,23 @@
+{
+"IngameInfo.Rage": "Rage",
+"IngameInfo.RageDescription": "This is your Rage stat, detailling how much Rage you will have during the next Age.",
+"IngameInfo.Horns": "Horns",
+"IngameInfo.HornsDescription": "This is your Horns stat, determining how many figures you can have on the board at the same time.",
+"IngameInfo.Axes": "Axes",
+"IngameInfo.AxesDescription": "This is your Axes stat, which determines how much Glory you will receive for any battle you win.",
+"IngameInfo.Glory": "Glory",
+"IngameInfo.GloryDescription": "This is your current Glory. The player with the most Glory at the end of the game wins",
+"IngameInfo.AgePanel": "Age Panel",
+"IngameInfo.AgePanelDescription": "Here you can find the different phases of each Age. You'll also find a button with which to 'pass', if you want to end your turn.",
+"IngameInfo.ValhallaPanel": "Valhalla Panel",
+"IngameInfo.ValhallaPanelDescription": "This will show you what figures are already waiting in Valhalla.",
+"IngameInfo.Playerframe": "Player frame",
+"IngameInfo.PlayerframeDescription": "This is you! Here you can find all the relevant information about your clan like your current Rage, the three clan stats and (on mouseover) you can also see how far you've come on the clan stat track. This is important because high clan stats give you extra Glory at the end of the game.",
+"IngameInfo.Handcards": "Hand cards",
+"IngameInfo.HandcardsDescription": "These are your hand cards. Cards that you can play in any given situation are highlighted.",
+"IngameInfo.Closeinfo": "Close info",
+"IngameInfo.Playedcards": "Played cards",
+"IngameInfo.PlayedcardsDescription": "These are the upgrade cards you've already played. Click on a card to see a detailed view.",
+"IngameInfo.Opponent": "Your opponent's clan info",
+"IngameInfo.OpponentDescription": "Here you can see all the detailed information about your opponent's clans."
+}

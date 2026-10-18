@@ -1,0 +1,12 @@
+{
+"CommunityHub.LoginBanner.Login": "Login",
+"CommunityHub.UserAccount.EditMyProfile": "Edit my profile",
+"CommunityHub.UserAccount.EmailSent": "We sent you an e-mail. Please follow the instructions",
+"CommunityHub.UserAccount.GetMyPassword": "Get my password",
+"CommunityHub.UserAccount.Logout": "Logout",
+"CommunityHub.UserAccount.UpdateMyEmail": "Update my e-mail",
+"CommunityHub.UserAccount.ID": "ID",
+"CommunityHub.UserAccount.Name": "Name",
+"CommunityHub.UserAccount.SignUp": "Sign-up",
+"CommunityHub.UserAccount.Email": " e-mail"
+}

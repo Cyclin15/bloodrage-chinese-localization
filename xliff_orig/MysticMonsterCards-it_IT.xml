@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en-US" target-language="it-IT" datatype="plaintext" original="not.available">
+    <body>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-649132201">
+        <source>fenrir_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Fenrir</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1495487142">
+        <source>fenrir_text</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Ragnarök distrugge la provincia di Fenrir al posto di quella votata (a meno che non sia Yggdrasil).</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-897056218">
+        <source>garm_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Garm</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1103844873">
+        <source>garm_text</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Ragnarök distrugge la provincia di Garm al posto di quella votata (a meno che non sia Yggdrasil).</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-98426272">
+        <source>hildisvini_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Hildisvini</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2052923663">
+        <source>hildisvini_text</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Quando questo mostro invade una provincia, può sostituirvi una figura, spostandola in una provincia adiacente a vostra scelta.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-540360818">
+        <source>mountain_giant_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Gigante di Montagna</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="998411103">
+        <source>mountain_giant_text</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Questo mostro conta come capo.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-833234853">
+        <source>mountain_giantess_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Gigantessa di Montagna</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1245976010">
+        <source>mountain_giantess_text</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Questo mostro conta come capo.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1114628294">
+        <source>mystic_troll_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Troll Mistico</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1484629843">
+        <source>mystic_troll_text</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Le tue figure invidiano gratuitamente la provincia di questo mostro.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1029880220">
+        <source>nidhoeggr_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Nidhoeggr</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="914665025">
+        <source>nidhoeggr_text</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Dopo aver vinto una battaglia con questo mostro, guadagnate 1 gloria per ogni figura che i perdenti hanno nel Valhalla.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="864492040">
+        <source>seer_troll_title</source>
+        <target xml:lang="it-IT">Profeta Troll</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-581006679">
+        <source>seer_troll_text</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Le tue figure invidiano gratuitamente la provincia di questo mostro.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2042931691">
+        <source>wolfman_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Uomo Lupo</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1910450240">
+        <source>wolfman_text</source>
+        <target xml:lang="it-IT">Solo i mostri contano le loro FOR in battaglia con questo mostro.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1265912985">
+        <source>wolfwoman_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Donna Lupo</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-112169022">
+        <source>wolfwoman_text</source>
+        <target xml:lang="it-IT">Solo i mostri contano le loro FOR in battaglia con questo mostro.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-104065878">
+        <source>ymir_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Ymir</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2017298103">
+        <source>ymir_text</source>
+        <target xml:lang="it-IT">*Non costa nessuna furia per l’aggiornamento o l’invasione. FOR = Numero di figure che avete nel Valhalla x2.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

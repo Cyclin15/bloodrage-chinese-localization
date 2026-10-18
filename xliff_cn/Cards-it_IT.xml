@@ -1,0 +1,669 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en-US" target-language="it-IT" datatype="plaintext" original="not.available">
+    <body>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="420785533">
+        <source>card_battle</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">战斗</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1016889043">
+        <source>card_quest</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">任务</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2123712320">
+        <source>card_leader</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">首领</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="591710701">
+        <source>card_warrior</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">战士</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1075319859">
+        <source>card_clan</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">氏族</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1317277899">
+        <source>card_ship</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">长船</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1522860171">
+        <source>card_monster</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">怪物</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-739463993">
+        <source>troll_text</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">当此怪物入侵某个区域时，消灭其中的所有敌方战士。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-344975812">
+        <source>troll_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">巨魔</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1844523195">
+        <source>card_upgrade</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">升级</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-190165783">
+        <source>dwarf_chieftain_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">矮人酋长</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="319483470">
+        <source>dwarf_chieftain_text</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">*升级或入侵均不消耗怒气。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="31141784">
+        <source>sea_serpent_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">海巨蛇</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1065303549">
+        <source>sea_serpent_text</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">此怪物计为一艘长船。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-984416026">
+        <source>valkyrie_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">女武神</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-282549083">
+        <source>valkyrie_text</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">以该怪物参战时，每消灭一个敌方单位即获得2点荣耀。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1677127655">
+        <source>dark_elf_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">黑暗精灵</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1728706286">
+        <source>dark_elf_text</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">此怪物可入侵世界树。*在世界树中拥有3点战力</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="850451625">
+        <source>fire_giant_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">火焰巨人</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1099223974">
+        <source>fire_giant_text</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">当此怪物入侵某个区域时，消灭其中所有敌方非怪物单位。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1721854675">
+        <source>frost_giant_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">冰霜巨人</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-672834048">
+        <source>frost_giant_text</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">若你以此怪物成功掠夺，再次获得掠夺奖励。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-893818419">
+        <source>soldier_of_hel_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">赫尔的士兵</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1627816444">
+        <source>soldier_of_hel_text</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">*升级或入侵均不消耗怒气</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="259704307">
+        <source>volur_witch_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">预言女巫</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="53908766">
+        <source>volur_witch_text</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">可从外围区域撤退至世界树，而非被消灭。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-924275018">
+        <source>lord_of_hammers_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">战锤之主</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-137057789">
+        <source>lord_of_hammers_text</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">若你的首领成功掠夺，你可以将其移动到相邻区域。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-629983796">
+        <source>lord_of_axes_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">巨斧之主</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1706730171">
+        <source>lord_of_axes_text</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">若你的首领成功掠夺，将你的一个氏族数值提升1点。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-290915815">
+        <source>lord_of_spears_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">长矛之主</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="308735320">
+        <source>lord_of_spears_text</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">若你的首领成功掠夺，将你的所有氏族数值提升1点。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1795065144">
+        <source>brothers_in_arms_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">同袍兄弟</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-348360057">
+        <source>brothers_in_arms_text</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">*你在同一区域内的每对战士合计为3点战力。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-920908966">
+        <source>experts_in_arms_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">武艺精兵</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1656091877">
+        <source>experts_in_arms_text</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">你的战士现在拥有2点战力。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-372311336">
+        <source>masters_in_arms_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">武艺大师</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1479814635">
+        <source>masters_in_arms_text</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">*你在同一区域内的每对战士合计为6点战力。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="505751198">
+        <source>lokis_dragons_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">洛基之龙</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="970170705">
+        <source>lokis_dragons_text</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">当你的长船被消灭时，获得4点荣耀。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1047156520">
+        <source>fire_dragons_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">火龙</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1795241159">
+        <source>fire_dragons_text</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">当你的长船被消灭时，获得8点荣耀。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1023821561">
+        <source>eternal_dragons_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">永恒之龙</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2059601670">
+        <source>eternal_dragons_text</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">当你的长船被消灭时，获得12点荣耀。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1340209736">
+        <source>lokis_domain_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">洛基的领地</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-44798737">
+        <source>lokis_domain_text</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">你从瓦尔哈拉每释放一个单位，获得1点荣耀。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-623924390">
+        <source>friggas_charm_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">弗丽嘉的护符</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1653916385">
+        <source>friggas_charm_text</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">你打出升级卡所需的怒气减少1点。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1046401933">
+        <source>thors_glory_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">索尔的荣耀</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1435356768">
+        <source>thors_glory_text</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">每当你参与的一场战斗中有至少2个敌方单位被消灭，获得2点荣耀。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1690173178">
+        <source>friggas_succor_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">弗丽嘉的援助</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="73640269">
+        <source>friggas_succor_text</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">当你以任意单位入侵时，你可以免费在该区域再额外入侵一名战士。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1722791138">
+        <source>tyrs_domain_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">提尔的领地</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="680492885">
+        <source>tyrs_domain_text</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">在战斗中揭示任务卡后，你可以将其视为一张+3战斗卡。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1346630311">
+        <source>lokis_blessing_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">洛基的祝福</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1325334666">
+        <source>lokis_blessing_text</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">若你战败，你可以让一名战士免费入侵该区域。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1494117937">
+        <source>odins_inspiration_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">奥丁的感召</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1325549974">
+        <source>odins_inspiration_text</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">你在诸神黄昏期间因阵亡获得的荣耀翻倍。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="505755051">
+        <source>tyrs_challenge_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">提尔的挑战</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1379763182">
+        <source>tyrs_challenge_text</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">作为你的行动，你可以支付2点怒气，对一个已被掠夺的区域进行"再次掠夺"。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-395709422">
+        <source>friggas_protection_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">弗丽嘉的庇护</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1334502863">
+        <source>friggas_protection_text</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">你可以支付1点怒气，使你的一个单位免于被消灭。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-802984618">
+        <source>lokis_eminence_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">洛基的威望</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-454787443">
+        <source>lokis_eminence_text</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">你从瓦尔哈拉每释放一个单位，获得2点荣耀。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-720104481">
+        <source>tyrs_prowess_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">提尔的悍勇</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-250084618">
+        <source>tyrs_prowess_text</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">若你战斗获胜，你可以保留你已揭示的任意卡牌，每张支付1点怒气。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1368922480">
+        <source>thors_domain_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">索尔的领地</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1396023199">
+        <source>thors_domain_text</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">在你入侵一个区域后，你可以支付2点怒气立即尝试掠夺该区域。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="713009019">
+        <source>friggas_domain_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">弗丽嘉的领地</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1878969894">
+        <source>friggas_domain_text</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">你可以支付1点怒气，让身处瓦尔哈拉的你方任意一个单位进行入侵。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-643045579">
+        <source>odins_throne_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">奥丁的王座</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1953834580">
+        <source>odins_throne_text</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">你完成任务获得的荣耀奖励翻倍。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2037322990">
+        <source>thors_conquest_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">索尔的征服</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2070880087">
+        <source>thors_conquest_text</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">游戏结束时，你在棋盘上每拥有一个单位即获得3点荣耀。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1904849256">
+        <source>friggas_sacrifice_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">弗丽嘉的祭献</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1585516171">
+        <source>friggas_sacrifice_text</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">作为你的行动，你可以消灭自己的2个单位，以将你的一个氏族数值提升1点。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1047182748">
+        <source>tyrs_wrath_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">提尔的震怒</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-739975483">
+        <source>tyrs_wrath_text</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">在战斗中揭示任务卡后，你可以将其视为一张+5战斗卡。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1442841066">
+        <source>lokis_wrath_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">洛基的震怒</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1882066119">
+        <source>lokis_wrath_text</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">你从瓦尔哈拉每释放一个单位，获得3点荣耀。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="995149382">
+        <source>quest_alfheim_title</source>
+        <target xml:lang="it-IT">亚尔夫海姆！</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-390481983">
+        <source>quest_alfheim_text</source>
+        <target xml:lang="it-IT">若完成，将你的一个氏族数值提升1点。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="115072617">
+        <source>quest_jotunheim_title</source>
+        <target xml:lang="it-IT">约顿海姆！</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-497228098">
+        <source>quest_jotunheim_text</source>
+        <target xml:lang="it-IT">若完成，将你的一个氏族数值提升1点。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-802125847">
+        <source>quest_manheim_title</source>
+        <target xml:lang="it-IT">曼海姆！</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="272476348">
+        <source>quest_manheim_text</source>
+        <target xml:lang="it-IT">若完成，将你的一个氏族数值提升1点。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="499820787">
+        <source>quest_glorious_death_title</source>
+        <target xml:lang="it-IT">荣耀之死！</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-397273780">
+        <source>quest_glorious_death_text</source>
+        <target xml:lang="it-IT">若完成，将你的一个氏族数值提升1点。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1912573772">
+        <source>quest_yggdrasil_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">世界树</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-16512361">
+        <source>quest_yggdrasil_text</source>
+        <target xml:lang="it-IT">若完成，将你的一个氏族数值提升1点。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1170613312">
+        <source>quest_widespread_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">遍布四方！</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-640444327">
+        <source>quest_widespread_text</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">若完成，将你的一个氏族数值提升1点。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1940904087">
+        <source>odins_smite_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">奥丁的天罚</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-50898586">
+        <source>odins_smite_text</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">在比较战力之前，消灭此区域内每名对手的一名战士。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="151295460">
+        <source>tyrs_bash_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">提尔的痛击</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1304283497">
+        <source>tyrs_bash_text</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+        </target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1191991214">
+        <source>heimdalls_sight_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">海姆达尔的视界</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="688714211">
+        <source>heimdalls_sight_text</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">此卡的数值与已揭示的敌方卡牌中的最高数值相同。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-326246351">
+        <source>friggas_grace_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">弗丽嘉的恩典</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="118916710">
+        <source>friggas_grace_text</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">若你掠夺成功，将你的另一个氏族数值提升1点。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1779550125">
+        <source>lokis_trickery_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">洛基的诡计</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1098905620">
+        <source>lokis_trickery_text</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">若你战败，从获胜玩家处偷取1点怒气。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-526942072">
+        <source>tyrs_smash_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">提尔的猛击</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="528010313">
+        <source>tyrs_smash_text</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+        </target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-227270840">
+        <source>tyrs_smite_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">提尔的重击</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1745140503">
+        <source>tyrs_smite_text</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+        </target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1252237058">
+        <source>thors_hammer_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">索尔之锤</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-506026371">
+        <source>thors_hammer_text</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">若你赢下这场战斗，获得3点荣耀。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="319158027">
+        <source>tyrs_crush_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">提尔的碾碎</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1479375772">
+        <source>tyrs_crush_text</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+        </target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="945954630">
+        <source>heimdalls_eye_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">海姆达尔之眼</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1603747675">
+        <source>heimdalls_eye_text</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">在所有玩家的战斗卡揭示之后，你可以打出此卡（并计入其战力）。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1160602793">
+        <source>odins_tide_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">奥丁的潮汐</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="595934686">
+        <source>odins_tide_text</source>
+        <target xml:lang="it-IT">在比较战力之前，每位玩家须选择保留一个单位，并消灭自己在此战斗中的其余所有单位。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="835306801">
+        <source>lokis_backstab_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">洛基的背刺</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-218235064">
+        <source>lokis_backstab_text</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">若你战败，从获胜玩家处偷取2点荣耀。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="814033789">
+        <source>tyrs_rage_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">提尔之怒</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="125080696">
+        <source>tyrs_rage_text</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+        </target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-829477132">
+        <source>heimdalls_watch_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">海姆达尔的守望</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1201897833">
+        <source>heimdalls_watch_text</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">弃置所有已揭示的卡牌。获得等同于已揭示正战力总和的荣耀。然后打出新的卡牌。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1310627368">
+        <source>thors_oath_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">索尔的誓言</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="254912945">
+        <source>thors_oath_text</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">若你获胜，将你的一个氏族数值提升1点。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-450634450">
+        <source>heimdalls_gaze_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">海姆达尔的凝视</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1615749345">
+        <source>heimdalls_gaze_text</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">在所有玩家的战斗卡揭示之后，你可以打出此卡（并计入其战力）。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1376680391">
+        <source>thors_primacy_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">索尔的威压</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1029235174">
+        <source>thors_primacy_text</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">在每位对手已揭示卡牌的文字生效之前，取消其效果。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1137276179">
+        <source>thors_ascension_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">索尔的飞升</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1105414146">
+        <source>thors_ascension_text</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">若你获胜，获得3点怒气和3点荣耀。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1959875350">
+        <source>odins_judgement_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">奥丁的裁决</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1921167">
+        <source>odins_judgement_text</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">在此战斗中每有一个单位被消灭（包括你的单位），获得2点荣耀。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="157094932">
+        <source>lokis_poison_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">洛基的毒药</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-964825005">
+        <source>lokis_poison_text</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">若你战败，将获胜玩家已揭示的卡牌收入你的手牌。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-34819760">
+        <source>leader_ref_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">首领</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="987174399">
+        <source>leader_ref_text</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">免费入侵</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1153779879">
+        <source>warrior_ref_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">战士</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1936084764">
+        <source>warrior_ref_text</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+        </target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1557554565">
+        <source>ship_ref_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">长船</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1324513380">
+        <source>ship_ref_text</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">只能入侵峡湾，不能行军或移动。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-47966638">
+        <source>card_upgrade	</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">升级</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="642268575">
+        <source>quest_alfheim_condition</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">在至少一个亚尔夫海姆（灰色）区域中拥有最高战力。 </target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="95863276">
+        <source>quest_manheim_condition</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">在至少一个曼海姆（黄色）区域中拥有最高战力。 </target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="893822022">
+        <source>quest_jotunheim_condition</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">在至少一个约顿海姆（蓝色）区域中拥有最高战力。 </target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="646227648">
+        <source>quest_glorious_death_condition</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">在瓦尔哈拉拥有至少4个单位（诸神黄昏之前）。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="165818221">
+        <source>quest_yggdrasil_condition</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">在世界树拥有最高战力。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-248064733">
+        <source>quest_widespread_condition</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">在至少2个不同区域中拥有最高战力。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1169355129">
+        <source>tyrs_judgement_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">提尔的裁决</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="311064896">
+        <source>tyrs_judgement_text</source>
+        <target xml:lang="it-IT">
+        </target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1511467075">
+        <source>friggas_chosen_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">弗丽嘉的天选者</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1336492172">
+        <source>friggas_chosen_text</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">在你的后备区增加1名巫师。
+你的巫师可以撤退至相邻的外围区域，而非被消灭。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-515784381">
+        <source>odins_chosen_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">奥丁的天选者</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1423697252">
+        <source>odins_chosen_text</source>
+        <target xml:lang="it-IT">在你的后备区增加1名巫师。
+你的巫师可以入侵被战士或巫师占据的村庄，并消灭该单位。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="593448814">
+        <source>thors_chosen_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">索尔的天选者</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-601637785">
+        <source>thors_chosen_text</source>
+        <target xml:lang="it-IT">在你的后备区增加1名巫师。
+每当你赢得一场战斗，你的每名参战巫师都获得3点荣耀。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1169078296">
+        <source>card_mystic</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">巫师</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1991749089">
+        <source>mystic_text</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">免费入侵</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1401520283">
+        <source>card_mystic_type</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">参考</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2047744308">
+        <source>mystic_wolf</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">狼族巫师</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2032413374">
+        <source>mystic_bear</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">熊族巫师</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1006532462">
+        <source>mystic_raven</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">渡鸦族巫师</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="57621405">
+        <source>mystic_serpent</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">蛇族巫师</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1237502800">
+        <source>mystic_ram</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">公羊族巫师</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="367349883">
+        <source>mystic_stag</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">雄鹿族巫师</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2032413448">
+        <source>mystic_boar</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">野猪族巫师</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

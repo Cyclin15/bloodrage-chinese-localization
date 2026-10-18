@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en-US" target-language="de-DE" datatype="plaintext" original="not.available">
+    <body>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-986377663">
+        <source>tutorial.buttonContinue</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Weiter</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2124388975">
+        <source>tutorial.buttonNext</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Weiter</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1264117737">
+        <source>tutorial.buttonSkip</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Überspringen</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1828392709">
+        <source>tutorial.chapter</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Kapitel</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1614993792">
+        <source>tutorial.chapter01.description</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Description of Aim of the game</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="213032170">
+        <source>tutorial.chapter01.headline</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Ziel des Spiels</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="89861591">
+        <source>tutorial.chapter01.step01.headline</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Das Spiel lernen</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1235392235">
+        <source>tutorial.chapter01.step01.text01</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">In diesem Tutorial wirst du sowohl lernen, wie man Blood Rage spielt, als auch, wie man mit der digitalen Version umgeht.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1638676762">
+        <source>tutorial.chapter01.step01.text02</source>
+        <target xml:lang="de-DE" state="translated">Die Reihenfolge der Kapitel des Tutorials entspricht nicht der Reihenfolge im Spiel. Stattdessen haben wir versucht, die Bereiche des Spiels so zugänglich wie möglich darzustellen.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="90979800">
+        <source>tutorial.chapter01.step02.headline</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Siegbedingungen</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1235358540">
+        <source>tutorial.chapter01.step02.text01</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Blood Rage gewinnt man, indem man Ruhm sammelt. Der Spieler mit dem meisten Ruhm am Ende des Spiels gewinnt.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1638643067">
+        <source>tutorial.chapter01.step02.text02</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Ruhm sammelt man durch Siege im Kampf, durch Plünderungen, indem man Aufgaben erfüllt und indem man tapfer im Kampf stirbt.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="92093913">
+        <source>tutorial.chapter01.step03.headline</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Die Drei Zeitalter</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1235324717">
+        <source>tutorial.chapter01.step03.text01</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Das Spiel wird in Drei Zeitaltern gespielt, und jedes Zeitalter besteht aus den gleichen Phasen. Die zwei Hauptphasen für Spieler sind die Göttergaben-Phase, wo Karten gedraftet werden, und die Aktions-Phase, in der Spieler ihre Wut ausgeben, um verschiedene Aktionen durchzuführen.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="745252520">
+        <source>tutorial.chapter01.step04.imageHeadline01</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Göttergaben (Draft)</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="745252519">
+        <source>tutorial.chapter01.step04.imageHeadline02</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Göttergaben (Draft)</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="745252518">
+        <source>tutorial.chapter01.step04.imageHeadline03</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Aktions-Phase</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="745252525">
+        <source>tutorial.chapter01.step04.imageHeadline04</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Abwurf-Phase</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="745252524">
+        <source>tutorial.chapter01.step04.imageHeadline05</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Aufgaben-Phase</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="745252523">
+        <source>tutorial.chapter01.step04.imageHeadline06</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Ragnarök</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="745252522">
+        <source>tutorial.chapter01.step04.imageHeadline07</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Walhall-Phase</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-3094619">
+        <source>tutorial.chapter02.description</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Description of Invading</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1922141977">
+        <source>tutorial.chapter02.headline</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Invasionen</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1121902914">
+        <source>tutorial.chapter02.quest01</source>
+        <target xml:lang="de-DE" state="translated">Invadiere Elvagar mit deinem Anführer</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="444181027">
+        <source>tutorial.chapter02.quest02</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Invadiere Elvagar mit einem Krieger</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-945430862">
+        <source>tutorial.chapter02.step01.headline</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Invadieren</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="472326">
+        <source>tutorial.chapter02.step01.text01</source>
+        <target xml:lang="de-DE" state="translated">Der einzige Weg, Figuren auf das Brett zu bekommen, ist mit ihnen zu invadieren. Invadieren bedeutet, eine Figur aus deiner Reserve in eines der Dörfer (oder Fjorde) der äußeren Provinzen zu bringen.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-944312653">
+        <source>tutorial.chapter02.step02.headline</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Dörfer</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="506021">
+        <source>tutorial.chapter02.step02.text01</source>
+        <target xml:lang="de-DE" state="translated">Jede normale Provinz auf dem Brett besteht aus drei bis fünf Dörfern. Nur Dörfer können von Figuren besetzt werden, und in jedem Dorf darf nur eine Figur stehen.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-943198540">
+        <source>tutorial.chapter02.step03.headline</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Figuren platzieren und Wut</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="539844">
+        <source>tutorial.chapter02.step03.text01</source>
+        <target xml:lang="de-DE" state="translated">Figuren zu platzieren kostet ihre Stärke in Wut. Wut ist quasi deine 'Währung' in Blood Rage. Sobald du keine Wut mehr hast, kannst du bis zum nächsten Zeitalter keine Aktionen mehr durchführen.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="403824371">
+        <source>tutorial.chapter02.step03.text02</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Eine Ausnahme zu dieser Regel stellt dein Anführer dar - mit dem Anführer sind Invasionen immer umsonst.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-951288403">
+        <source>tutorial.chapter02.step04.headline</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Figuren-Limit</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="303467">
+        <source>tutorial.chapter02.step04.text01</source>
+        <target xml:lang="de-DE" state="translated">Einer deiner drei Clan-Werte ist 'Hörner'. Hörner bestimmt, wie viele Figuren du gleichzeitig auf dem Brett haben kannst. Erhöhe den Wert, um deine Armee zu vergrößern!</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="403587994">
+        <source>tutorial.chapter02.step04.text02</source>
+        <target xml:lang="de-DE" state="translated">Insgesamt kannst du in einem Zeitalter über 1 Anführer, 8 Krieger und 1 Schiff verfügen und platzieren, wenn du über genügend Hörner verfügst. Wenn eine Figur stirbt, musst du bis zum Ende des Zeitalters warten, um sie zurückzubekommen.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-950174290">
+        <source>tutorial.chapter02.step05.headline</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Wut &amp; Spielerzug</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="337290">
+        <source>tutorial.chapter02.step05.text01</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Sobald du über keine Wut mehr verfügst, kannst du keine Aktionen mehr durchführen, nicht mal Aktionen, die 0 Wut kosten.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2065468921">
+        <source>tutorial.chapter02.task01</source>
+        <target xml:lang="de-DE" state="translated">Klicke auf das markierte Dorf</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2065468918">
+        <source>tutorial.chapter02.task02</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Wähle Anführer</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2065468919">
+        <source>tutorial.chapter02.task03</source>
+        <target xml:lang="de-DE" state="translated">Klicke auf eines der leeren Dörfer in Elvagar</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2065468916">
+        <source>tutorial.chapter02.task04</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Wähle Krieger</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-432075318">
+        <source>tutorial.chapter03.description</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Description of Pillaging</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-746323020">
+        <source>tutorial.chapter03.headline</source>
+        <target xml:lang="de-DE" state="translated">Plündern</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2033239027">
+        <source>tutorial.chapter03.step01.headline</source>
+        <target xml:lang="de-DE" state="translated">Plündern &amp; Schlachten</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="495441419">
+        <source>tutorial.chapter03.step01.text01</source>
+        <target xml:lang="de-DE" state="translated">Plündern ist ein Weg, um sowohl Ruhm zu erhalten als auch deine Clan-Werte zu verbessern.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2032120818">
+        <source>tutorial.chapter03.step02.headline</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Clan-Werte verbessern</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="495475114">
+        <source>tutorial.chapter03.step02.text01</source>
+        <target xml:lang="de-DE" state="translated">Jedes Mal, wenn du erfolgreich plünderst, bekommst du die Belohnung der Provinz. Meistens wird dies einen deiner drei Clan-Werte (Wut, Äxte, Hörner) verbessern.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2061559055">
+        <source>tutorial.chapter03.step02.text02</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Manchmal erhöht eine bestimmte Provinz im Spiel allerdings keinen Clan-Wert, sondern gibt dir sofort 5 Ruhm.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-667324300">
+        <source>tutorial.chapter03.step02.text03</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Wenn du Yggdrasil plünderst, erhältst du eine deutlich höhere Belohnung: du darfst alle drei Werte um 1 erhöhen.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2031006705">
+        <source>tutorial.chapter03.step03.headline</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Spielerstärke</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="495508937">
+        <source>tutorial.chapter03.step03.text01</source>
+        <target xml:lang="de-DE" state="translated">Eine schnelle Möglichkeit, die Stärke aller Clans in einer Provinz zu vergleichen, ist einfach mit der Maus über die Provinz zu gehen. Dort wird die Gesamtstärke angezeigt.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="42160313">
+        <source>tutorial.chapter03.step04.quest01</source>
+        <target xml:lang="de-DE" state="translated">Plündere Elvagar</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1028855214">
+        <source>tutorial.chapter03.step04.task01</source>
+        <target xml:lang="de-DE" state="translated">Überprüfe die Kampfstärke in Elvagar</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2037982455">
+        <source>tutorial.chapter03.step05.headline</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Schlachtruf</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="495306383">
+        <source>tutorial.chapter03.step05.text01</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Sobald ein Spieler versucht, eine Provinz zu plündern, haben andere Spieler die Möglichkeit, ebenfalls in den Kampf einzugreifen. Beginnend mit dem Spieler zur Linken und weiter im Uhrzeigersinn, hat jeder Spieler die Möglichkeit, eine seiner Figuren aus einer Nachbarprovinz auf ein freies Dorf in der zu plündernden Provinz zu ziehen. Schiffe können nicht bewegt werden.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2061390324">
+        <source>tutorial.chapter03.step05.text02</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Sobald alle Dörfer in der Provinz besetzt sind, oder sich kein Spieler mehr bewegen möchte, beginnt der Kampf.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-667493031">
+        <source>tutorial.chapter03.step05.text03</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Wichtig: Es gibt keine Dörfer in Yggdrasil, deswegen können beliebig viele Figuren dem Schlachtruf dorthin folgen.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2036864246">
+        <source>tutorial.chapter03.step06.headline</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Kampfstärke und Karten</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="495340078">
+        <source>tutorial.chapter03.step06.text01</source>
+        <target xml:lang="de-DE" state="translated">Jeder Spieler, der am Kampf teilnimmt, muss eine seiner Handkarten wählen, um sie zu spielen (es sei denn, er hat keine Karten mehr). Dann werden alle Karten aufgedeckt. Falls eine Kampfkarte gewählt wurde, wird der ST-Bonus zur Gesamt-Kampfstärke hinzuaddiert. Alle speziellen Fähigkeiten der Karte werden ebenfalls abgehandelt. Falls eine Aufgabe oder Aufrüstung gespielt wurde, hat diese keinen Effekt und addiert keine Stärke.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2061424019">
+        <source>tutorial.chapter03.step06.text02</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Spezielle Kampfkarten können benutzt werden, um die Stärke zu erhöhen nachdem bereits alle Karten gespielt wurden. Diese besonderen Karten zeigen ihren ST-Bonus auf einem weißen Kreis, und ihr Text weist aus, dass sie später zusätzlich gespielt werden können. Sie können natürlich auch ganz normal verdeckt gespielt werden. Der plündernde Spieler hat zuerst die Möglichkeit, eine zusätzliche Kampfkarte zu spielen, dann geht es weiter im Uhrzeigersinn, bis kein Spieler mehr eine Karte spielen möchte.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="45705208">
+        <source>tutorial.chapter03.step07.quest01</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Gewinn den Kampf!</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1028753803">
+        <source>tutorial.chapter03.step07.task01</source>
+        <target xml:lang="de-DE" state="translated">Wähle Tyrs Schwinger, um sie zu spielen</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2043266028">
+        <source>tutorial.chapter03.step08.headline</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Verlust von Karten</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="495120628">
+        <source>tutorial.chapter03.step08.text01</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Der Gewinner eines Kampfes (falls es einen gibt) muss alle Karten, die er gespielt hat, ablegen. Die Verlierer nehmen ihre Karten wieder zurück auf die Hand.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2042151915">
+        <source>tutorial.chapter03.step09.headline</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Äxte &amp; Ruhm</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="495154451">
+        <source>tutorial.chapter03.step09.text01</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Der Gewinner eines Kampfes bekommt Ruhm, egal, ob er der plündernde Spieler war oder nicht. Die Anzahl der Punkte ist gleich dem momentanen Äxte-Wert des Spielers.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1930396049">
+        <source>tutorial.chapter03.step10.headline</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Erhöhung der Clan-Werte</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="131410183">
+        <source>tutorial.chapter03.step10.text01</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Beim Plündern ist es möglich, seine Clan-Werte zu erhöhen. Erhöhte Werte bedeuten mehr Wut, mehr Figuren auf dem Brett oder mehr Ruhm für gewonnene Kämpfe.
+Am Ende des Spiels bekommst du zusätzlich noch weitere Ruhmpunkte, wenn du deine Clan-Werte sehr stark erhöht hast.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="534694710">
+        <source>tutorial.chapter03.step10.text02</source>
+        <target xml:lang="de-DE" state="translated">Du kannst jederzeit überprüfen, wie weit du mit deinen Erhöhungen schon gekommen bist, indem du mit der Maus über deine Werte fährst.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1918804492">
+        <source>tutorial.chapter03.step11.description</source>
+        <target xml:lang="de-DE" state="translated">Klicke auf Zusammenfassung</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1931510162">
+        <source>tutorial.chapter03.step11.headline</source>
+        <target xml:lang="de-DE" state="translated">Ergebnis</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1163039665">
+        <source>tutorial.chapter03.step12.description</source>
+        <target xml:lang="de-DE" state="translated">Klicke auf den Zurück-Button</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1932628371">
+        <source>tutorial.chapter03.step12.headline</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Schließe die Anzeige</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="50227342">
+        <source>tutorial.chapter03.step13.description</source>
+        <target xml:lang="de-DE" state="translated">Klicke auf den Weiter-Button</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1933742484">
+        <source>tutorial.chapter03.step13.headline</source>
+        <target xml:lang="de-DE" state="translated">Schließe das Kampf-Menü</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1463725332">
+        <source>tutorial.chapter05.description</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Description of Marching</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-703124906">
+        <source>tutorial.chapter05.headline</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Marschieren</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1947211371">
+        <source>tutorial.chapter05.step01.headline</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Marschieren</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="914094337">
+        <source>tutorial.chapter05.step01.text01</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Wenn du deine Truppen marschieren lässt, musst du 1 Wut bezahlen. Wähle eine Provinz (du kannst keinen Fjord aussuchen) und bewege eine beliebige Anzahl deiner Figuren von der Provinz zu freien Dörfern in einer anderen Provinz. 
+Die Zielprovinz muss nicht angrenzend sein, du kannst dich irgendwohin bewegen. 
+Du kannst keine Figuren aus zwei verschiedenen Provinzen in der gleichen Aktion bewegen, und auch nicht Figuren in zwei verschiedene Provinzen bewegen. Du kannst dich nur von einer Provinz in eine andere bewegen.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1033743366">
+        <source>tutorial.chapter05.step03.quest01</source>
+        <target xml:lang="de-DE" state="needs-translation">Bewege deinen Troll von Angerboda nach Muspelheim</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1342489555">
+        <source>tutorial.chapter05.step03.task01</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Wähle deinen Troll aus</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1745774082">
+        <source>tutorial.chapter05.step03.task02</source>
+        <target xml:lang="de-DE" state="needs-translation">Wähle ein Dorf in Muspelheim</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1034744633">
+        <source>tutorial.chapter04.description</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Description of Upgrades &amp; Monsters</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1965340091">
+        <source>tutorial.chapter04.headline</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Aufrüstungen &amp; Monster</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1259947760">
+        <source>tutorial.chapter04.step01.headline</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Clan-Aufrüstungen</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="419125244">
+        <source>tutorial.chapter04.step01.text01</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">In diesem Kapitel schauen wir uns an, wie Clan-Aufrüstungen gespielt werden. Clan-Aufrüstungen statten deinen Clan mit mächtigen Fähigkeiten aus.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1982577664">
+        <source>tutorial.chapter04.step02.quest01</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Spiele Friggas Ausstrahlung auf einen Aufrüstungsslot</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1129811703">
+        <source>tutorial.chapter04.step02.task01</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Ziehe die Karte auf ein freies Aufrüstungsfeld</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1265805301">
+        <source>tutorial.chapter04.step04.headline</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Monster-Karten</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="418956385">
+        <source>tutorial.chapter04.step04.text01</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Monster sind einzigartige Figuren, die den Verlauf des Spiels dramatisch verändern können. Jedes von ihnen hat eine mächtige und besondere Fähigkeit. Sobald du eine Monster-Aufrüstung spielst, ist es für den Rest des Spiels deine Figur, und du darfst sofort mit ihr invadieren, ohne Wut zu bezahlen. Monster können sterben und nach Walhall geschickt werden wie andere Figuren auch, und kehren ebenfalls wie andere Figuren von dort in deine Reserve zurück. 
+Monster können in der Ragnarök-Phase Ruhm erlangen wenn sie zerstört werden, genau wie andere Figuren.
+Du kannst zwei Monster gleichzeitig besitzen, und wenn du eine weitere Monster-Aufrüstung spielst und dafür eine andere ablegst, wird das Monster sofort vom Brett genommen.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1976939583">
+        <source>tutorial.chapter04.step05.quest01</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Spiele den Troll</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1129642778">
+        <source>tutorial.chapter04.step05.task01</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Wähle die Troll-Karte von deiner Hand und spiele sie in einem Aufrüstungsfeld</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1129710428">
+        <source>tutorial.chapter04.step07.task01</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Platziere den Troll in Angerboda</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1269974761">
+        <source>tutorial.chapter04.step08.headline</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Plünderungen ohne Gegenwehr</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="418804453">
+        <source>tutorial.chapter04.step08.text01</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Manchmal, wenn du entweder alle Dörfer in einer Provinz besetzt hältst, oder sich dir niemand bei einem Schlachtruf entgegenstellen möchte, kannst du eine 'freie' Plünderung durchführen. Das kann von Vorteil sein, weil du keinen Kampf verlieren kannst, und keine Karte abgeben musst, allerdings erhältst du auch keinen Ruhm, weil kein Kampf stattfindet.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1972187451">
+        <source>tutorial.chapter04.step09.quest01</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Plündere Muspelheim</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1129490318">
+        <source>tutorial.chapter04.step09.task01</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Klicke auf das Banner</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="873906442">
+        <source>tutorial.chapter04.step10.headline</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Wut hinzugewinnen</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="882794306">
+        <source>tutorial.chapter04.step10.text01</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Obwohl du Wut hinzugewonnen hast, hat diese nur deinen Wut-Wert erhöht - d.h., du bekommst nicht sofort mehr Wut diese Runde. Deine Wut erhöht sich erst zu Beginn des nächsten Zeitalters.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="148173841">
+        <source>tutorial.chapter06.description</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Description Questing</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1005984901">
+        <source>tutorial.chapter06.headline</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Aufgaben</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="911918918">
+        <source>tutorial.chapter06.step01.headline</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Aufgaben-Karten</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2145008398">
+        <source>tutorial.chapter06.step01.text01</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Eine Aufgabe auszuspielen kostet keine Wut. Platziere die Aufgabe einfach in dem Aufgaben-Slot und versuche, sie bis zum Ende des Zeitalters zu erfüllen, um ihre Belohnung zu erhalten.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1741723871">
+        <source>tutorial.chapter06.step01.text02</source>
+        <target xml:lang="de-DE" state="translated">Es gibt kein Limit der Aufgaben-Karten, die du spielen kannst, und es ist sogar möglich, mehrmals die gleiche Aufgabe zu spielen und gemeinsam zu erfüllen. 
+Es gibt keine Strafe für das Nicht-Erfüllen einer Quest.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-16905974">
+        <source>tutorial.chapter06.step02.quest01</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Spiele deine Aufgabe</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-869671935">
+        <source>tutorial.chapter06.step02.task01</source>
+        <target xml:lang="de-DE" state="translated">Ziehe die Aufgaben-Karte in den Slot</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="914151240">
+        <source>tutorial.chapter06.step03.headline</source>
+        <target xml:lang="de-DE" state="translated">Aufgaben erfüllen</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2144940880">
+        <source>tutorial.chapter06.step03.text01</source>
+        <target xml:lang="de-DE" state="translated">Aufgaben zu erfüllen ist ein guter Weg, um zusätzlichen Ruhm zu erhalten und deine Clan-Werte zu erhöhen.
+Um eine Aufgabe zu erfüllen, musst du oft die meiste Stärke in einer Provinz der entsprechenden Region besitzen. 
+Denke daran, dass Schiffe in Fjorden ebenfalls zählen. Bedenke auch, wenn du Aufgaben draftest, welche Provinzen bereits durch Ragnarök zerstört wurden (oder werden). Dadurch verringert sich die Zahl der Provinzen einer Region, und steigert möglicherweise auch die Attraktivität für andere Clans.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-280806858">
+        <source>tutorial.chapter07.description</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Description Ships &amp; Fjords</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1662480096">
+        <source>tutorial.chapter07.headline</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Schiffe &amp; Fjorde</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-175889247">
+        <source>tutorial.chapter07.step01.headline</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Schiffe &amp; Fjorde</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1650039305">
+        <source>tutorial.chapter07.step01.text01</source>
+        <target xml:lang="de-DE" state="translated">Schiffe können nur in Fjorden platziert werden. 
+Schiffe können nicht marschieren, und jeder Fjord gilt als die beiden angrenzenden Provinzen 'unterstützend'. 
+Jeder Effekt, der die Provinz betrifft, betrifft auch die beiden Fjorde. Es gibt kein Limit für die Zahl an Schiffen in einem Fjord.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-967061297">
+        <source>tutorial.chapter07.step02.quest01</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Platziere dein Schiff, um Manheim zu sichern</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-657027844">
+        <source>tutorial.chapter07.step02.task01</source>
+        <target xml:lang="de-DE" state="translated">Klicke auf den Fjord zwischen Elvagar &amp; Angerboda, um dein Schiff zu platzieren</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2115006157">
+        <source>tutorial.chapter08.description</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Description Pass</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1998814345">
+        <source>tutorial.chapter08.headline</source>
+        <target xml:lang="de-DE" state="translated">Passen</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="499952468">
+        <source>tutorial.chapter08.step01.headline</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Passen</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1311006264">
+        <source>tutorial.chapter08.step01.text01</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Manchmal kannst du in einem Zeitalter nichts weiter tun, selbst wenn du noch Wut übrig hast. In diesem Fall kannst du Passen und keine weiteren Aktionen mehr durchführen.
+Passen setzt deine Wut auf 0. Bedenke, dass du ohne Wut keine weiteren Aktionen mehr durchführen kannst, selbst, wenn sie umsonst sind.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1745158676">
+        <source>tutorial.chapter08.step02.quest01</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Passe jetzt</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1540954595">
+        <source>tutorial.chapter08.step02.task01</source>
+        <target xml:lang="de-DE" state="translated">Klicke auf das Zeitalter-Banner und passe</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1187928760">
+        <source>tutorial.chapter08.step02.task02</source>
+        <target xml:lang="de-DE" state="translated">Klicke auf Passen</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1750980440">
+        <source>tutorial.chapter09.description</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Description End of an Age</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-372312046">
+        <source>tutorial.chapter09.headline</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Ende eines Zeitalters</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-587855697">
+        <source>tutorial.chapter09.step01.headline</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Das Ende eines Zeitalters</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1805975357">
+        <source>tutorial.chapter09.step01.text01</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Am Ende jeden Zeitalters durchläuft das Spiele eine Reihe von speziellen Phasen.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-586737488">
+        <source>tutorial.chapter09.step02.headline</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Abwurf-Phase</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1806009052">
+        <source>tutorial.chapter09.step02.text01</source>
+        <target xml:lang="de-DE" state="translated">Zunächst müssen die Spieler alle Karten bis auf eine abwerfen. Die Karte, die sie behalten, muss nicht aus dem aktuellen Zeitalter sein, es kann sich dabei auch um eine aus dem Ersten Zeitalters handeln.
+Kein Spieler kann mehr als eine Karte behalten.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="796324378">
+        <source>tutorial.chapter09.step03.quest01</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Wähle eine Karte aus, um sie zu behalten</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1753632447">
+        <source>tutorial.chapter09.step03.task01</source>
+        <target xml:lang="de-DE" state="translated">Wähle eine Karte</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-593713238">
+        <source>tutorial.chapter09.step04.headline</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Aufgaben-Phase</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1805806498">
+        <source>tutorial.chapter09.step04.text01</source>
+        <target xml:lang="de-DE" state="translated">In dieser Phase wird überprüft, ob und welche Aufgaben erfüllt worden sind, und entsprechende Belohnungen werden vergeben.
+Du kannst einen deiner drei Clan-Werte für eine Erhöhung aussuchen.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="789365272">
+        <source>tutorial.chapter09.step05.quest01</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Wähle Hörner</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1753429761">
+        <source>tutorial.chapter09.step05.task01</source>
+        <target xml:lang="de-DE" state="translated">Klicke auf das "+" Zeichen der Hörner 
+und bestätige.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-591480916">
+        <source>tutorial.chapter09.step06.headline</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Ragnarök-Phase</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1805874016">
+        <source>tutorial.chapter09.step06.text01</source>
+        <target xml:lang="de-DE" state="translated">In dieser Phase wird die dem Untergang geweihte Provinz zerstört und alle sich in ihr  (und angrenzenden Fjorden) befindlichen Figuren werden nach Walhall geschickt. Spieler bekommen eine dem Zeitalter entsprechende Anzahl Ruhm pro zerstörter Figur.
+Die Dörfer der zum Untergang geweihten Provinz sind durch ein goldenes Highlight gekennzeichnet.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-590366803">
+        <source>tutorial.chapter09.step07.headline</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Walhall-Phase</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1805907839">
+        <source>tutorial.chapter09.step07.text01</source>
+        <target xml:lang="de-DE" state="translated">Jetzt werden alle Figuren aus Walhall entlassen und kommen zurück zu ihrem Clan, um während des nächsten Zeitalters erneut nach Midgard zu kommen und ein weiteres Mal zu kämpfen.
+Falls du während des Spiels kontrollieren möchtest, was sich bereits in Walhall befindet, kannst du das über das Walhall-Menü tun.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="783292115">
+        <source>tutorial.chapter09.step08.quest01</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Öffne das Walhall-Menü</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1753243540">
+        <source>tutorial.chapter09.step08.task01</source>
+        <target xml:lang="de-DE" state="translated">Klicke auf das Banner in der rechten oberen Ecke</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="784613140">
+        <source>tutorial.chapter09.step09.quest01</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Schließe das Walhall-Menü</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1753277301">
+        <source>tutorial.chapter09.step09.task01</source>
+        <target xml:lang="de-DE" state="translated">Schaue dir die Einträge an, dann schließe das Menü</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="27048858">
+        <source>tutorial.chapter10.description</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Description Gift of the Gods</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1376704400">
+        <source>tutorial.chapter10.headline</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Gaben der Götter</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2004211835">
+        <source>tutorial.chapter10.step01.headline</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Göttergaben-Phase</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-273658895">
+        <source>tutorial.chapter10.step01.text01</source>
+        <target xml:lang="de-DE" state="translated">Während dieser Phase draften Spieler die Karten, die sie während des nächsten Zeitalters nutzen, um ihre Strategien umzusetzen. Jeder Spieler bekommt eine Handvoll Karten und wählt eine davon aus, um sie zu behalten. Der Rest wird an den nächsten Spieler im Uhrzeigersinn weitergereicht. 
+Insgesamt draftet jeder Spieler sechs Karten und, je nach Spielerzahl, wirst du einigen Karten, die du nicht gewählt hast, noch ein weiteres Mal begegnen.
+Am Ende des Ersten und Zweiten Zeitalters darf jeder Spieler eine Karte von seiner Hand behalten, alle anderen werden abgeworfen.
+Bedenke auch, dass sich die Karten je nach Spieleranzahl verändern.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-467231699">
+        <source>tutorial.chapter10.step02.quest01</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Wähle deine erste Karte</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2080010260">
+        <source>tutorial.chapter10.step02.task01</source>
+        <target xml:lang="de-DE" state="needs-translation">Wähle Friggs Ausstrahlung</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2006444157">
+        <source>tutorial.chapter10.step03.headline</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Draft-Strategien</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-273591377">
+        <source>tutorial.chapter10.step03.text01</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Im Kompendium findest du einen Überblick über die verschiedenen KI-Archetypen, die das Spiel benutzt, und du kannst sie als Basis für verschiedene Drafting-Strategien nutzen.
+Der Nutzen mancher Karten ist offensichtlich, bei anderen muss man schon etwas genauer hinschauen. 
+Die Karten und ihre Nutzung zu erforschen, und erfolgreiche Ideen zu entwickeln, wie man sie am besten nutzt ist Teil des Spaßes von Blood Rage!</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-474190805">
+        <source>tutorial.chapter10.step04.quest01</source>
+        <target xml:lang="de-DE" state="translated">Wähle deine zweite Karte</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2080212946">
+        <source>tutorial.chapter10.step04.task01</source>
+        <target xml:lang="de-DE" state="needs-translation">Wähle Tyrs Schmetterschlag</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1999468407">
+        <source>tutorial.chapter10.step05.headline</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Draft</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-273793931">
+        <source>tutorial.chapter10.step05.text01</source>
+        <target xml:lang="de-DE" state="translated">In einem normalen Draft würdest du jetzt deine Kartenhand von sechs Karten auswählen. </target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1612273416">
+        <source>tutorial.chapter10.step06.quest</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Wähle eine Karte</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2080145296">
+        <source>tutorial.chapter10.step06.task01</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Choose Tyr’s Smash</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2080179057">
+        <source>tutorial.chapter10.step07.task01</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Choose Loki’s Trickery</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2080365406">
+        <source>tutorial.chapter10.step08.task01</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Choose Jotunheim</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2080399167">
+        <source>tutorial.chapter10.step09.task01</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Choose Frigga’s Succor</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-401931841">
+        <source>tutorial.chapter11.description</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Description End of tutorial</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="249797899">
+        <source>tutorial.chapter11.headline</source>
+        <target xml:lang="de-DE" state="translated">Ende des Tutorials</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="916403670">
+        <source>tutorial.chapter11.step01.headline</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Ende des Tutorials</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="221310198">
+        <source>tutorial.chapter11.step01.text01</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Jetzt weißt du alles, um eine Partie Blood Rage zu spielen. 
+Im Kompendium findest du nicht nur die Spielregeln, sondern auch alle Karten und ein paar strategische Tipps.
+Wenn du noch mehr wissen möchtest, kannst du es dir anschauen. Ansonsten hoffen wir, dass dir das Spiel gefällt.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1958888332">
+        <source>tutorial.description</source>
+        <target xml:lang="de-DE" state="translated">In diesem Tutorial lernst du, wie man Spiel spielt und es bedient. Du kannst jederzeit hierher zurückkehren und es fortsetzen, falls du es nicht in einer Sitzung schaffst.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1365443498">
+        <source>tutorial.headline</source>
+        <target xml:lang="de-DE" state="translated">Tutorial für Blood Rage</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-81825658">
+        <source>tutorial.startButton</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Kapitel beginnen</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1700028141">
+        <source>tutorial.chapter03.step04.task02</source>
+        <target xml:lang="de-DE" state="translated">Plündere Elvagar, indem du auf das Banner klickst</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-83955364">
+        <source>tutorial.chapter07.step01.text02</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Da es nicht möglich ist, Schiff zu versetzen, nachdem sie platziert wurden, solltest du vorsichtig mit ihnen sein.
+Sie sind stärker als deine normalen Krieger (aber auch teurer), und sie können beide angrenzenden Provinzen beeinflussen, daher können Schiffe ein gewaltiger Faktor bei der Kontrolle von Provinzen sein.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1482128577">
+        <source>tutorial.chapter07.step01.text03</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Aber da man in beiden Provinzen in Kämpfe verwickelt werden kannst, ist es auch sehr einfach, sein Schiff zu verlieren, wenn man nicht vorsichtig ist. Daher überlege gut, wo du die 2 Wut ausgeben möchtest, um dein Schiff zu platzieren!</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

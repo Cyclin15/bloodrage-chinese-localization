@@ -1,0 +1,788 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en-US" target-language="it-IT" datatype="plaintext" original="not.available">
+    <body>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="707666803">
+        <source>ActionPhasePannel.begins</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">开始！</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1277144644">
+        <source>ActionPhasePannel.QuestPhase</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">开始任务阶段</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-986080342">
+        <source>ActionPhasePannel.StartAge</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">开始时代</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1918903720">
+        <source>battle.battleSummary</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">战斗总结</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1210543414">
+        <source>battle.battleSummary.cardDiscard</source>
+        <target xml:lang="it-IT">卡牌已弃置</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1069622435">
+        <source>battle.battleSummary.cardKeep</source>
+        <target xml:lang="it-IT">卡牌已归还玩家</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="628143723">
+        <source>battle.battleSummary.cardPower</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">战力：</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1271937410">
+        <source>battle.battleSummary.figuresDestroyed</source>
+        <target xml:lang="it-IT">(被消灭)</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="727113579">
+        <source>battle.battleSummary.figuresHeadline</source>
+        <target xml:lang="it-IT">参战单位</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1970287160">
+        <source>battle.battleSummary.figuresRemains</source>
+        <target xml:lang="it-IT">(剩余)</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1572726541">
+        <source>battle.battleSummary.glory</source>
+        <target xml:lang="it-IT">获得荣耀</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="967473368">
+        <source>battle.battleSummary.pillaged</source>
+        <target xml:lang="it-IT">氏族属性</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1086944991">
+        <source>battle.battleSummary.rageChange</source>
+        <target xml:lang="it-IT">怒气变化</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="26924777">
+        <source>battle.rageLost</source>
+        <target xml:lang="it-IT">{0} 点&lt;#A32C2B&gt;怒气&lt;/color&gt;</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1698520981">
+        <source>bear_clan</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">熊族</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-135465529">
+        <source>ClanStat.gain10glory</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">+10 荣耀点</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="758730892">
+        <source>ClanStat.gain20glory</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">+20 荣耀点</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1692369536">
+        <source>clanstatselection.AxesHint</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">将&lt;color=#1C6EA8&gt;斧&lt;/color&gt;提升 1 点？</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="189938298">
+        <source>clanstatselection.description</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">选择一项你想提升的氏族属性</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-750740512">
+        <source>clanstatselection.headline</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">提升氏族属性</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1666270557">
+        <source>clanstatselection.HornsHint</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">将&lt;color=#6D6D6D&gt;号角&lt;/color&gt;提升 1 点？</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-103819052">
+        <source>clanstatselection.RageHint</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">将&lt;color=#A71C1C&gt;怒气&lt;/color&gt;提升 1 点？</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1432677995">
+        <source>Confirmation.ForfeitLastHumanPlayer.Content</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">你的对手已退出这场战斗。你可以现在结束游戏，也可以继续玩到最后。此局将视为你的胜利。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1440214520">
+        <source>Confirmation.ForfeitLastHumanPlayer.Headline</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">胜利</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="754911875">
+        <source>Confirmation.GameAborted.Content</source>
+        <target xml:lang="it-IT">游戏已中止。所有玩家的计时时间均已用尽。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1353131854">
+        <source>Confirmation.GameAborted.Headline</source>
+        <target xml:lang="it-IT">游戏已中止</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1690511338">
+        <source>Confirmation.LastHumanPlayer.Content</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">你的对手已退出这场战斗。你可以现在结束游戏，也可以继续玩到最后。只要你是游戏中最后一名人类玩家，此局就视为你的胜利。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="242155823">
+        <source>Confirmation.LastHumanPlayer.Headline</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">最后一名人类玩家</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1236281026">
+        <source>Confirmation.PlayerBecomeRobot.Content</source>
+        <target xml:lang="it-IT">一名玩家已被机器人替换。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="120754621">
+        <source>Confirmation.PlayerBecomeRobot.Headline</source>
+        <target xml:lang="it-IT">玩家已被替换！</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-731467090">
+        <source>Confirmation.PlayerForfeit.Content</source>
+        <target xml:lang="it-IT">一名玩家已认输且不会再回来。他将被 AI 替换。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2113281191">
+        <source>Confirmation.PlayerForfeit.Headline</source>
+        <target xml:lang="it-IT">玩家认输！</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2060689092">
+        <source>Confirmation.PlayerLeft.Content</source>
+        <target xml:lang="it-IT">一名玩家离开了游戏，稍后可能会回来。他将被 AI 替换。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="642723165">
+        <source>Confirmation.PlayerLeft.Headline</source>
+        <target xml:lang="it-IT">玩家离开！</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1621727777">
+        <source>Confirmation.PlayerLeftInvite.Content</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">一名玩家离开了游戏，稍后可能会回来。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-303776650">
+        <source>Confirmation.PlayerTimeout.Content</source>
+        <target xml:lang="it-IT">一名玩家分配的时间已用尽且不会再回来。他将被 AI 替换。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1248191037">
+        <source>Confirmation.PlayerTimeout.Headline</source>
+        <target xml:lang="it-IT">玩家超时！</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-215545165">
+        <source>Confirmation.StatusGameAborted.Content</source>
+        <target xml:lang="it-IT">游戏已结束。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2072461960">
+        <source>Confirmation.StatusGameAborted.Headline</source>
+        <target xml:lang="it-IT">游戏已结束</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1818362727">
+        <source>Confirmation.Timeout.Content</source>
+        <target xml:lang="it-IT">你的计时已用完。你已用尽所有可用时间，无法继续进行本局游戏。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-906755272">
+        <source>Confirmation.Timeout.Headline</source>
+        <target xml:lang="it-IT">超时！</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-466288011">
+        <source>Confirmation.UpgradeFailed.Content</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">由于你的升级栏已满，你需要手动放置这张升级卡，并决定弃掉哪一张。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1202166975">
+        <source>Confirmation.UpgradeFailed.Header</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">选择栏位</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="797339190">
+        <source>Confirmation.WannaForfeit.Content</source>
+        <target xml:lang="it-IT">你确定要认输吗？</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="240103">
+        <source>Confirmation.WannaForfeit.Headline</source>
+        <target xml:lang="it-IT">认输？</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1406313268">
+        <source>DiscardMenu.KeepNone</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">不保留</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2082909178">
+        <source>endOfGame.battleLost</source>
+        <target xml:lang="it-IT">战斗失败</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1620770304">
+        <source>endOfGame.battleWon</source>
+        <target xml:lang="it-IT">战斗获胜</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2132814515">
+        <source>endOfGame.glory</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">总荣耀</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="677655803">
+        <source>endOfGame.gloryClanStat</source>
+        <target xml:lang="it-IT">氏族属性额外荣耀</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1775885067">
+        <source>endOfGame.questFailed</source>
+        <target xml:lang="it-IT">任务失败</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1528846365">
+        <source>endOfGame.questFulfilled</source>
+        <target xml:lang="it-IT">任务完成</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="761370408">
+        <source>endOfGame.ranking</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">排名</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1458353591">
+        <source>endOfGame.statistics</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">统计</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1230658997">
+        <source>figureAmount.text</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;size=18&gt;x&lt;/size&gt;{0}</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="627597057">
+        <source>godsgift_button_hide</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">查看地图</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1219097308">
+        <source>godsgift_button_show</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">查看卡牌</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1420511183">
+        <source>godsgift_text</source>
+        <target xml:lang="it-IT">选择一张卡牌保留，然后将其余卡牌传给下家。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1308361421">
+        <source>godsgift_text_two_players</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">选择两张卡牌保留，然后将其余卡牌传给下家。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-82591902">
+        <source>godsgift_title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">诸神馈赠</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1831121570">
+        <source>Hildisvini.CancelInvade</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">否</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="859215958">
+        <source>Hildisvini.ConfirmInvade</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">是</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1738923065">
+        <source>Hildisvini.ConfirmInvadeOverlayContent</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">你确定要让希尔德斯维尼入侵吗？</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1425377881">
+        <source>Hildisvini.ConfirmInvadeOverlayHeader</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">以希尔德斯维尼入侵</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1023112613">
+        <source>ingame.ageflag.firstage</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">第一时代</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2061637295">
+        <source>ingame.ageflag.secondage</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">第二时代</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-749785394">
+        <source>ingame.ageflag.thirdage</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">第三时代</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-433247283">
+        <source>ingame.agetrack.actonphase</source>
+        <target xml:lang="it-IT">行动阶段</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-344723814">
+        <source>ingame.agetrack.actonphase.content</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">在此阶段，玩家打出升级卡，派遣单位入侵区域，并尝试掠夺米德加尔特。当所有区域都被掠夺，或没有任何玩家还剩怒气时，本阶段结束。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-851306598">
+        <source>ingame.agetrack.completed</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">已完成！</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1216161328">
+        <source>ingame.agetrack.discardphase</source>
+        <target xml:lang="it-IT">弃牌阶段</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1235882007">
+        <source>ingame.agetrack.discardphase.content</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">在弃牌阶段，所有玩家必须弃掉剩余的卡牌，但每位玩家可以保留一张手牌用于下一个时代。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-675488452">
+        <source>ingame.agetrack.godsgift</source>
+        <target xml:lang="it-IT">诸神馈赠阶段</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2129183541">
+        <source>ingame.agetrack.godsgift.content</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">在此阶段，所有玩家轮抽本时代要使用的诸神馈赠。每位玩家先分得八张卡牌并选择一张保留，其余卡牌传给左手边的下一位玩家。所有玩家再各选一张，如此往复，直到每位玩家共轮抽六张卡牌。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1681457605">
+        <source>Ingame.AgeTrack.PassTurn</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">跳过回合</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="690601483">
+        <source>ingame.agetrack.quest</source>
+        <target xml:lang="it-IT">任务阶段</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1809708358">
+        <source>ingame.agetrack.quest.content</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">在任务阶段，所有已打出的任务卡将被揭示，达成条件者将获得荣耀点和属性提升。随后任务卡将被弃置。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1724232317">
+        <source>ingame.agetrack.ragnarök</source>
+        <target xml:lang="it-IT">诸神黄昏 (&lt;color=#{1}&gt;{0}&lt;/color&gt;)</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2139445698">
+        <source>ingame.agetrack.ragnarök.content</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">在诸神黄昏阶段，注定毁灭的区域将被摧毁，区域内（及相邻峡湾）的所有单位都会被消灭并送往瓦尔哈拉，玩家将按每个被消灭的单位获得分数（依据当前时代而定）。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1744062497">
+        <source>ingame.agetrack.ragnarök.upcoming</source>
+        <target xml:lang="it-IT">诸神黄昏将在第 {2} 时代结束时降临 &lt;color=#{1}&gt;{0}&lt;/color&gt;</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-935608225">
+        <source>ingame.agetrack.releasevalhalla</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">释放瓦尔哈拉</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1624171946">
+        <source>ingame.agetrack.releasevalhalla.content</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">在瓦尔哈拉阶段，所有玩家将取回先前被送往瓦尔哈拉的单位，本时代结束，下一个时代开始（或者游戏以最终计分结束）。 </target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="771882153">
+        <source>ingame.battle.battlesummary</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">战斗总结</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-451805568">
+        <source>ingame.battle.continue</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">继续</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1403755379">
+        <source>ingame.battle.draw</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">平局！</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="435674853">
+        <source>ingame.battle.draw.helpText</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">所有被消灭的单位前往瓦尔哈拉</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-655067333">
+        <source>ingame.battle.win</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">获胜！</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2063431424">
+        <source>ingame.battleticker.autoSkipAdditionalCard</source>
+        <target xml:lang="it-IT">你当前没有可打出的额外卡牌</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="805190749">
+        <source>ingame.battleticker.calltobattle.desc</source>
+        <target xml:lang="it-IT">你现在可以将一个单位移入战斗！</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-352920249">
+        <source>ingame.battleticker.calltobattle.header</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">战斗号召</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="557859357">
+        <source>ingame.battleticker.calltobattle.opponent</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">对手正在考虑是否加入战斗。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1040747382">
+        <source>ingame.battleticker.friggasprotection.desc</source>
+        <target xml:lang="it-IT">你可以支付 1 点怒气，防止你的一个单位被消灭。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-525574641">
+        <source>ingame.battleticker.generic.opponent</source>
+        <target xml:lang="it-IT">对手正在思考下一步行动。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1612456325">
+        <source>ingame.battleticker.heimdallsaddstrength.desc</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">你可以打出一张额外的战斗卡。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1004821239">
+        <source>ingame.battleticker.heimdallsaddstrength.header</source>
+        <target xml:lang="it-IT">额外卡牌</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="346914829">
+        <source>ingame.battleticker.invadeafterbattle.desc</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">你可以免费派一名战士入侵此区域。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-60023626">
+        <source>ingame.battleticker.moveleader.desc</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">你可以移动你的首领。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1972259612">
+        <source>ingame.battleticker.no</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">否</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1384617848">
+        <source>ingame.battleticker.odingstide.desc</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">你必须选择你的一个单位，你的其余单位都将被消灭。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-666705294">
+        <source>ingame.battleticker.pass</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">过</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-371361739">
+        <source>ingame.battleticker.pillageafterinvade.desc</source>
+        <target xml:lang="it-IT">你可以支付 2 点怒气掠夺此区域。掠夺将在此战斗结束后立即开始。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="872249586">
+        <source>ingame.battleticker.pillageafterinvade.head</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">索尔的领域</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2106468880">
+        <source>ingame.battleticker.playbattlecard.desc</source>
+        <target xml:lang="it-IT">你必须打出一张卡牌。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="154958632">
+        <source>ingame.battleticker.playbattlecard.header</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">打出卡牌</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1951414938">
+        <source>ingame.battleticker.questasbattlecard.desc</source>
+        <target xml:lang="it-IT">你想将你的任务卡当作一张 +{0} 战斗卡使用吗？</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1233491259">
+        <source>ingame.battleticker.retreat.desc</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">你可以让一个单位撤退。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-812895555">
+        <source>ingame.battleticker.retreat.header</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">撤退</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-512246452">
+        <source>ingame.battleticker.skip</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">跳过</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1644379297">
+        <source>ingame.battleticker.tyrsprowess.desc</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">你可以支付 1 点怒气，选择一张卡牌进行保护。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1534186626">
+        <source>ingame.battleticker.yes</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">是</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1667682480">
+        <source>ingame.clanstat.axes</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">斧</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1518099891">
+        <source>ingame.clanstat.horns</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">号角</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-847558296">
+        <source>ingame.clanstat.rage</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">怒气</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1409035731">
+        <source>ingame.CouldNotReconnect.Content</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">重新连接服务器失败。请从主菜单尝试重新连接。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1893583546">
+        <source>ingame.CouldNotReconnect.Title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">无法重新连接</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="982908201">
+        <source>ingame.discardphase.Content</source>
+        <target xml:lang="it-IT">你可以选择保留一张卡牌至下一时代，并弃掉其余卡牌。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="117322895">
+        <source>ingame.discardphase.Header</source>
+        <target xml:lang="it-IT">弃牌阶段</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1054305105">
+        <source>ingame.drafttimer</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">剩余 {0} 秒。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1621161433">
+        <source>ingame.endgame.continue</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">继续</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-165496059">
+        <source>ingame.endofAge.firstage</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">第一时代</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="526624543">
+        <source>ingame.endofAge.secondage</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">第二时代</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1687146578">
+        <source>ingame.endofAge.thirdage</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">第三时代</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-332317892">
+        <source>ingame.endOfAge.Title</source>
+        <target xml:lang="it-IT">结束</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-993021057">
+        <source>ingame.nextplayer</source>
+        <target xml:lang="it-IT">&lt;#{0}&gt;{1}&lt;/color&gt;的回合</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-943340206">
+        <source>ingame.nextplayer.alternative</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;#{0}&gt;{1}&lt;/color&gt;的回合</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1931914063">
+        <source>ingame.nextplayer.confirm</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">确定</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1142048142">
+        <source>ingame.provinceinfo.ragnarok.age1</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">诸神黄昏将在第一时代降临此地。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1142048141">
+        <source>ingame.provinceinfo.ragnarok.age2</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">诸神黄昏将在第二时代降临此地。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1142048140">
+        <source>ingame.provinceinfo.ragnarok.age3</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">诸神黄昏将在第三时代降临此地。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-950604892">
+        <source>ingame.provinceinfo.ragnarok.doomed</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">诸神黄昏将在本时代结束时降临此地。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1485238340">
+        <source>ingame.valhalla.playername</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">{0} ({1})</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1977235864">
+        <source>OpponentPlayerBoard.HandCards</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">手牌</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1224422326">
+        <source>OpponentPlayerBoard.PlayedCards</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">已打出的卡牌</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="913293057">
+        <source>pause.continue</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">继续</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-373166211">
+        <source>pause.forfeit</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">认输</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1613165099">
+        <source>pause.quit</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">退出</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1252087413">
+        <source>pause.settings</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">设置</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2084090304">
+        <source>pillageTokenAll.gainToolTip</source>
+        <target xml:lang="it-IT">&lt;#EED468&gt;+1 全部氏族属性&lt;/color&gt;</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="931088756">
+        <source>pillageTokenAxes.gainToolTip</source>
+        <target xml:lang="it-IT">&lt;#1C6FA8&gt;+1 斧&lt;/color&gt;</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2061460326">
+        <source>pillageTokenGlory.gainToolTip</source>
+        <target xml:lang="it-IT">&lt;#EED468&gt;+5 荣耀&lt;/color&gt;</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="589230468">
+        <source>pillageTokenHorn.gainToolTip</source>
+        <target xml:lang="it-IT">&lt;#6C6C6C&gt;+1 号角&lt;/color&gt;</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1807865752">
+        <source>pillageTokenRage.gainToolTip</source>
+        <target xml:lang="it-IT">&lt;#A81C1C&gt;+1 怒气&lt;/color&gt;</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-319511643">
+        <source>PlayerFrame.Menu.ChatButton</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">聊天</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-497281907">
+        <source>PlayerFrame.Menu.EmoteButton</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">表情</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="235363629">
+        <source>PlayerFrame.Menu.GameLogButton</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">游戏日志</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1891664441">
+        <source>PlayerFrame.Menu.InfoButton</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">信息</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1957803676">
+        <source>PlayerFrame.Menu.SettingsButton</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">设置</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1520049249">
+        <source>province.Andlang</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">安德朗格</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1152412451">
+        <source>province.Angerboda</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">安格尔波达</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1464175378">
+        <source>province.Elvagar</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">埃尔瓦加</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="574492372">
+        <source>province.Gimle</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">吉姆莱</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1698367360">
+        <source>province.Horgr</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">霍尔格</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-891628081">
+        <source>province.Muspelheim</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">穆斯贝尔海姆</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-7105603">
+        <source>province.Myrkulor</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">米尔库洛</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-551232991">
+        <source>province.Utgard</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">乌特加德</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1815675506">
+        <source>province.Yggdrasil</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">世界树</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1100425813">
+        <source>ram_clan</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">公羊族</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1892376103">
+        <source>ranking.fifth</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">第5名</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1489092224">
+        <source>ranking.first</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">第1名</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1716485454">
+        <source>ranking.fourth</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">第4名</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="796353582">
+        <source>ranking.second</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">第2名</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-64181193">
+        <source>ranking.third</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">第3名</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-34159495">
+        <source>raven_clan</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">渡鸦族</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-501656922">
+        <source>serpent_clan</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">蛇族</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1405413390">
+        <source>stag_clan</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">雄鹿族</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="415722596">
+        <source>tooltip.figuresLost</source>
+        <target xml:lang="it-IT">损失单位：</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1018415894">
+        <source>tooltip.glory.Battle</source>
+        <target xml:lang="it-IT">战斗获得荣耀：</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-356215535">
+        <source>tooltip.glory.ClanStatBonus</source>
+        <target xml:lang="it-IT">氏族属性加成：</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1580599624">
+        <source>tooltip.glory.ClanUpgrade</source>
+        <target xml:lang="it-IT">氏族升级：</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="315319166">
+        <source>tooltip.glory.Quest</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">任务：</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-350547962">
+        <source>tooltip.glory.Ragnarock</source>
+        <target xml:lang="it-IT">诸神黄昏：</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1478387954">
+        <source>tooltip.glory.Title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">总荣耀：</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="321903764">
+        <source>tooltip.QuestFailed</source>
+        <target xml:lang="it-IT">任务失败</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1721118716">
+        <source>tooltip.QuestFulfilled</source>
+        <target xml:lang="it-IT">任务完成</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1980024806">
+        <source>TyrsProwess.CardSelection.Skip</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">跳过</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1133049754">
+        <source>TyrsProwess.CardSelection.Text</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">选择一张卡牌并支付 1 点怒气来保留它。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1618908273">
+        <source>TyrsProwess.CardSelection.Title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">提尔的英勇</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="270131598">
+        <source>UpgradeQuest.Stack</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">你可以叠加多个任务。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1673254409">
+        <source>valhalla</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">瓦尔哈拉</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-650126029">
+        <source>wildboar_clan</source>
+        <target xml:lang="it-IT">野猪族</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1875888623">
+        <source>winLose.elo</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">Elo</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2090042774">
+        <source>winLose.glory</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">获得荣耀</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="462438365">
+        <source>winLose.rank</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">全球排名</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-532253043">
+        <source>winlose_defeat</source>
+        <target xml:lang="it-IT">战败</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1881221092">
+        <source>winlose_victory</source>
+        <target xml:lang="it-IT">胜利</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1993519209">
+        <source>wolf_clan</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">狼族</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="190639752">
+        <source>battle.description</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;#{0}&gt;{1}&lt;/color&gt; 试图掠夺 {2}</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="532719447">
+        <source>battleWinIndicator.winning</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">领先中</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1945813649">
+        <source>battleWinIndicator.won</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">获胜</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="103009010">
+        <source>ingame.battleticker.discard.header</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">弃牌</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1244123775">
+        <source>ingame.battleticker.discard.description</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">胜者弃置打出的卡牌
+败者收回打出的卡牌</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1828997515">
+        <source>ingame.battletoken.text</source>
+        <target xml:lang="it-IT">战斗！</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="867712636">
+        <source>Battleshield.BattleForTitlePart1</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">激战</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1270997163">
+        <source>Battleshield.BattleForTitlePart2</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">于</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1643350910">
+        <source>ingame.battleticker.skipandremember</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">本次战斗内跳过</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

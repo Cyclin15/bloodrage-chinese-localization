@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en-US" target-language="fr-FR" datatype="plaintext" original="not.available">
+    <body>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="127113866">
+        <source>IngameInfo.Rage</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">怒气</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="861756388">
+        <source>IngameInfo.RageDescription</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">这是你的怒气属性，显示你在下一个时代将拥有多少怒气。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1132379767">
+        <source>IngameInfo.Horns</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">号角</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2004122995">
+        <source>IngameInfo.HornsDescription</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">这是你的号角属性，决定你同时在棋盘上可以拥有多少单位。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2062725342">
+        <source>IngameInfo.Axes</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">斧头</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-884740112">
+        <source>IngameInfo.AxesDescription</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">这是你的斧头属性，决定你每赢得一场战斗将获得多少荣耀。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1638717780">
+        <source>IngameInfo.Glory</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">荣耀</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1294616706">
+        <source>IngameInfo.GloryDescription</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">这是你当前的荣耀。游戏结束时拥有最多荣耀的玩家获胜</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-619142440">
+        <source>IngameInfo.AgePanel</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">时代面板</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1613850322">
+        <source>IngameInfo.AgePanelDescription</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">这里可以查看每个时代的各个阶段。如果你想结束回合，这里还有一个可以“跳过”的按钮。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1522335138">
+        <source>IngameInfo.ValhallaPanel</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">瓦尔哈拉面板</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-852533008">
+        <source>IngameInfo.ValhallaPanelDescription</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">这里显示哪些单位已经在瓦尔哈拉等待。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-74338313">
+        <source>IngameInfo.Playerframe</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">玩家框</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1384617431">
+        <source>IngameInfo.PlayerframeDescription</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">这就是你！这里可以查看与你氏族相关的所有信息，例如当前怒气、三项氏族属性，并且（将鼠标悬停时）还能看到你在氏族属性轨道上的进度。这很重要，因为高氏族属性会在游戏结束时为你带来额外荣耀。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="5135513">
+        <source>IngameInfo.Handcards</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">手牌</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1402022069">
+        <source>IngameInfo.HandcardsDescription</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">这些是你的手牌。在当前情况下可以打出的卡会被高亮显示。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2078654699">
+        <source>IngameInfo.Closeinfo</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">关闭信息</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1266294933">
+        <source>IngameInfo.Playedcards</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">已打出的卡</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1726501219">
+        <source>IngameInfo.PlayedcardsDescription</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">这些是你已经打出的升级卡。点击卡牌可以查看详细视图。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="750186238">
+        <source>IngameInfo.Opponent</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">对手的氏族信息</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1490587372">
+        <source>IngameInfo.OpponentDescription</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">这里可以查看对手氏族的所有详细信息。</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

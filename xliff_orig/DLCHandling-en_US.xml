@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en-US" target-language="en-US" datatype="plaintext" original="not.available">
+    <body>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-275003905">
+        <source>GameRoom.Expansion.Monsters</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Monsters</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-39330874">
+        <source>MissingDLC.Header</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Missing DLC {0}</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-767109708">
+        <source>MissingDLC.Content</source>
+        <target xml:lang="en-US">To join in this match you need the {0} DLC. Please install it to participate in this match.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

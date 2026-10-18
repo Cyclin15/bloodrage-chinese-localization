@@ -1,0 +1,19 @@
+{
+"Standard.Alert.Back": "返回",
+"Standard.Alert.Cancel": "取消",
+"Standard.Alert.Continue": "继续",
+"Standard.Alert.No": "否",
+"Standard.Alert.Ok": "确定",
+"Standard.Alert.Skip": "跳过",
+"Standard.Alert.Yes": "是",
+"Standard.Error.MessageFormat": "刚刚发生了一个错误：{0}",
+"Standard.Error.Title": "错误",
+"Standard.NbDays.Format": "{0} 天",
+"Standard.NbDays.ShortFormat": "{0}天",
+"Standard.NbHours.Format": "{0} 小时",
+"Standard.NbHours.ShortFormat": "{0}时",
+"Standard.NbMinutes.Format": "{0} 分钟",
+"Standard.NbMinutes.ShortFormat": "{0}分",
+"Standard.NbSeconds.Format": "{0} 秒",
+"Standard.NbSeconds.ShortFormat": "{0}秒"
+}

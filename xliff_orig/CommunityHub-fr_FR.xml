@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en-US" target-language="fr-FR" datatype="plaintext" original="not.available">
+    <body>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1425100050">
+        <source>CommunityHub.LoginBanner.Login</source>
+        <target xml:lang="fr-FR">Connexion</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-580974811">
+        <source>CommunityHub.UserAccount.EditMyProfile</source>
+        <target xml:lang="fr-FR">Modifier mes informations</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="6003206">
+        <source>CommunityHub.UserAccount.EmailSent</source>
+        <target xml:lang="fr-FR">Vous allez recevoir un e-mail. Veuillez suivre les instructions qui y sont données.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1319897103">
+        <source>CommunityHub.UserAccount.GetMyPassword</source>
+        <target xml:lang="fr-FR">Recevoir mon mot de passe</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1417745896">
+        <source>CommunityHub.UserAccount.Logout</source>
+        <target xml:lang="fr-FR">Déconnexion</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-71293959">
+        <source>CommunityHub.UserAccount.UpdateMyEmail</source>
+        <target xml:lang="fr-FR">Mettre à jour mon e-mail</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="371857150">
+        <source>CommunityHub.UserAccount.ID</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">ID</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="371857150">
+        <source>CommunityHub.UserAccount.Name</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">Nom</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="371857150">
+        <source>CommunityHub.UserAccount.SignUp</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">Inscription</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="371857150">
+        <source>CommunityHub.UserAccount.Email</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2"> e-mail</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

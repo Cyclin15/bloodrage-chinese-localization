@@ -1,0 +1,750 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en-US" target-language="en-US" datatype="plaintext" original="not.available">
+    <body>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2004537294">
+        <source>AiPersonality.Conqueror</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">征服者</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="581384021">
+        <source>AiPersonality.GloryHunter</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">荣耀猎手</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-276524790">
+        <source>AiPersonality.Hero</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">英雄</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1534198298">
+        <source>AiPersonality.Monsterhunter</source>
+        <target xml:lang="en-US">怪物猎手</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1991606527">
+        <source>AiPersonality.Opportunist</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">机会主义者</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1182405827">
+        <source>AiPersonality.Random</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">随机</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1319267429">
+        <source>AiPersonality.Shipwright</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">造船师</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-137883103">
+        <source>AiPersonality.Trickster</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">诡计者</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1734130969">
+        <source>AiPersonality.Warlord</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">军阀</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-127641156">
+        <source>AiPersonality.Warrior</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">战士</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-424648472">
+        <source>Common.Back</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">返回</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="995846601">
+        <source>Common.Cancel</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">取消</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1591093905">
+        <source>Common.Confirm</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">确认</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2016679518">
+        <source>Common.Leave</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">离开</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1804961544">
+        <source>Common.No</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">否</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2010935813">
+        <source>Common.Okay</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">确定</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-667481762">
+        <source>Common.Yes</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">是</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1062189465">
+        <source>Confirmation.DublicatedSession.Content</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">你的账户在两处登录，你将退出大厅。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-992843324">
+        <source>Confirmation.DublicatedSession.Headline</source>
+        <target xml:lang="en-US">重复登录！</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-157937081">
+        <source>Confirmation.InvitedGameClosed.Content</source>
+        <target xml:lang="en-US">由于一名玩家拒绝参加，游戏已中止。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-72306550">
+        <source>Confirmation.InvitedGameClosed.Headline</source>
+        <target xml:lang="en-US">邀请对局已中止！</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-718356734">
+        <source>Confirmation.Logout.Content</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">确定要退出登录吗？</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1096261727">
+        <source>Confirmation.Logout.Headline</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">退出登录</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1342643362">
+        <source>GameOptions.AsyncGame</source>
+        <target xml:lang="en-US">异步对局</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1887131881">
+        <source>GameOptions.AsyncGame.InfoText</source>
+        <target xml:lang="en-US">想不受时间压力、跨较长时间进行对局？
+那就选择这个模式吧。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="534635131">
+        <source>GameOptions.DraftInSec</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">{0}秒</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="658246328">
+        <source>GameOptions.DraftTimer</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">轮抽计时</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-125574836">
+        <source>GameOptions.Expansions.BetaPannel</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">与诡计者、军阀、怪物猎手等各类 AI 原型一较高下！想和世界各地的玩家同场竞技吗？或者邀请好友共赴瓦尔哈拉之门？</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="800073252">
+        <source>GameOptions.Expansions.GodsOfAsgard</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">阿斯加德诸神</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1164183892">
+        <source>GameOptions.Expansions.GodsOfAsgard.Details</source>
+        <target xml:lang="en-US">每局游戏中两位神的组合会为该局带来独一无二的格局。他们会影响轮抽选择，并左右战斗的走向。你是想把神移到你想要的位置、反复掠夺他所在的区域，一次次借神之力牟利？还是在他的区域周边掠夺，尽力削弱他的影响？也许你会想对他的区域发起一场毫无胜算的掠夺，只为把他移到别的区域，去妨碍另一位玩家的计划。他们为游戏增添了全新的一层深度，却几乎没有增加规则的复杂度。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-602508106">
+        <source>GameOptions.Expansions.GodsOfAsgard.Info</source>
+        <target xml:lang="en-US">将阿斯加德诸神请下米德加尔特，让他们观赏这场杀戮！每位神都会带来需要遵守的专属规则，他们会在一旁欣赏你的表演。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="62625351">
+        <source>GameOptions.Expansions.MysticsOfMidgard</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">米德加尔特巫师</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2105168139">
+        <source>GameOptions.Expansions.MysticsOfMidgard.Details</source>
+        <target xml:lang="en-US">巫师是特殊单位（既非战士也非怪物），只有在为你的氏族选择一张巫师氏族升级卡之后才能使用。每张此类氏族升级卡会为你的氏族储备增加 1 个巫师模型，之后你就可以用它正常入侵和战斗。
+除了将巫师加入储备之外，每张此类氏族升级卡还会赋予你的巫师一项特殊能力。如果你收集了多张不同的升级卡，你的每个巫师都会拥有你积累的所有能力，使他们成为氏族中极为多才多艺、极具战略价值的战力！</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-453125165">
+        <source>GameOptions.Expansions.MysticsOfMidgard.Info</source>
+        <target xml:lang="en-US">这些战萨满名号众多，凭借与诸神的联系而拥有强大力量，任何有能力招募他们的氏族都将如虎添翼！</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1188676053">
+        <source>GameOptions.RankedGame</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">排位赛</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="836012032">
+        <source>GameOptions.RankedGame.Tooltip</source>
+        <target xml:lang="en-US">在此切换排位与非排位对局……</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1037649832">
+        <source>GameOptions.TurnInMin</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">{0}分钟</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1839065968">
+        <source>GameOptions.TurnTimer</source>
+        <target xml:lang="en-US">游戏时长</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1240710705">
+        <source>GameRoom.Expansions.GodsOfAsgard.Short</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">诸神</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-635971580">
+        <source>GameRoom.Expansions.MysticsOfMidgard.Short</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">巫师</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2068282826">
+        <source>GameRoom.PlayerAmount</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">{0}/{1} 名玩家</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="692614489">
+        <source>GameRoomOverview.Expansion</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">扩展</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-677482345">
+        <source>GameRoomOverview.GamesInProgress</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">显示进行中的对局</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-837050008">
+        <source>GameRoomOverview.Host</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">房主</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1105556088">
+        <source>GameRoomOverview.Players</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">玩家</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1042620773">
+        <source>InvitationForbiddenNewerClientOverlay.Content</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">由于房主的规则版本低于你的版本，你无法接受他的邀请。
+请让房主更新他的客户端。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1198028204">
+        <source>InvitationForbiddenNewerHostOvelay.Content</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">由于你的客户端规则版本低于房主的版本，你无法接受他的邀请。
+请更新你的客户端。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2101262787">
+        <source>InvitationForbiddenOvelay.Header</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">邀请无效</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="650075610">
+        <source>InvitationOvelay.Header</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">游戏邀请</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1258888439">
+        <source>InvitationOverlay.Accept</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">接受</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1555784120">
+        <source>InvitationOverlay.Content</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">是否接受邀请？</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1056354199">
+        <source>InvitationOverlay.Decline</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">拒绝</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-548596004">
+        <source>LoadingScreen.Hint.Header</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">提示</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="281195997">
+        <source>LoadingScreen.Hint.Tip1</source>
+        <target xml:lang="en-US">使用行军行动通常是把你的单位送上世界树的唯一方法，因为你一般无法入侵世界树。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-755748851">
+        <source>LoadingScreen.Hint.Tip10</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">记住，每赢下一场战斗，你都需要弃掉一张卡（如果手牌还有的话）。所以要确保你能承受失去手中这些卡牌的代价。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="281195996">
+        <source>LoadingScreen.Hint.Tip2</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">世界树上没有村庄，所以你在那里可拥有的单位数量没有上限。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="281195995">
+        <source>LoadingScreen.Hint.Tip3</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">小心对手打出洛基的诡计，让你只剩 1 点怒气，从而结束你的回合。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="281195994">
+        <source>LoadingScreen.Hint.Tip4</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">当你怒气耗尽（剩 0 点）时，可以打出洛基的诡计来获得 1 点怒气，重返战局。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="281195993">
+        <source>LoadingScreen.Hint.Tip5</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">弗丽嘉的护佑可以成为对抗奥丁之潮的有力保障！</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="281195992">
+        <source>LoadingScreen.Hint.Tip6</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">通过发起战斗，你可以利用「战斗号召」免费移动你的单位。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="281195991">
+        <source>LoadingScreen.Hint.Tip7</source>
+        <target xml:lang="en-US">在人数较多的对局中，要当心对手打出多张洛基卡牌，造成怒气或荣耀的巨大损失。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="281195990">
+        <source>LoadingScreen.Hint.Tip8</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">记住，许多战士升级卡也会提高你战士的费用。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="281195989">
+        <source>LoadingScreen.Hint.Tip9</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">将巨魔或赫尔的士兵等强力单位留在储备中时，注意你的单位数量上限，确保仍能放置单位。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-580621386">
+        <source>LoadingScreen.Title</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">对战</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1248990124">
+        <source>Mainmenu.Credits</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">制作人员</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-611442185">
+        <source>Mainmenu.Quit</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">退出</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1899256233">
+        <source>Mainmenu.QuitDescription</source>
+        <target xml:lang="en-US">确定要退出游戏吗？</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1121965348">
+        <source>Mainmenu.QuitHeader</source>
+        <target xml:lang="en-US">退出？</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2115455754">
+        <source>MultiplayerLobby.ChatEntry</source>
+        <target xml:lang="en-US">&lt;#{0}&gt;{1}:&lt;/color&gt; &lt;#{2}&gt;{3}&lt;/color&gt;</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-984358570">
+        <source>MultiplayerLobby.CreateGame</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">创建对局</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1905532969">
+        <source>MultiplayerLobby.ErrorWhileJoining</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">尝试加入游戏房间时出错。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="634991571">
+        <source>MultiplayerLobby.Invited</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">已邀请</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1603191652">
+        <source>MultiplayerLobby.Join</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">加入</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1171128631">
+        <source>MultiplayerLobby.LobbyHeader</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">玩家大厅</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="732131262">
+        <source>MultiplayerLobby.LookingForGame</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">正在寻找可加入的对局……</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="578829564">
+        <source>MultiplayerLobby.Quickmatch</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">快速匹配</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1359887507">
+        <source>MultiplayerLobby.Resume</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">恢复对局</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="889073337">
+        <source>MultiplayerOptions.FriendList.NoFriend</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">没有可邀请的好友</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1002617059">
+        <source>MultiplayerOptions.Invite</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">邀请</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-785742769">
+        <source>MultiplayerOptions.OpenRoom</source>
+        <target xml:lang="en-US">开放房间</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1991366752">
+        <source>NavigationBar.Compendium</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">游戏手册</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="332995187">
+        <source>NavigationBar.Multiplayer</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">多人游戏</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1574120713">
+        <source>NavigationBar.PlayerProfileTitle</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">玩家资料</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1083662176">
+        <source>NavigationBar.Settings</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">设置</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="956713116">
+        <source>NavigationBar.Singleplayer</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">单人游戏</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2080360905">
+        <source>PlayerProfile.AddFriend</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">添加好友</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1934632414">
+        <source>PlayerProfile.AvatarHeader</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">头像</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1251999070">
+        <source>PlayerProfile.ClansHeader</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">氏族</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-609872467">
+        <source>PlayerProfile.ClansHelpText</source>
+        <target xml:lang="en-US">在这里你可以为各个氏族排列个人偏好顺序。开始游戏时，我们会尽量把你排位最高的氏族分配给你——如果不行，则是第二高的，以此类推。
+注意，我们无法保证你一定能拿到自己最喜爱的氏族，但我们会尽力而为。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-409082146">
+        <source>PlayerProfile.FriendList.Away</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">离开</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-134141655">
+        <source>PlayerProfile.FriendList.Block</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">屏蔽</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="388479601">
+        <source>PlayerProfile.FriendList.Offline</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">离线</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-57814333">
+        <source>PlayerProfile.FriendList.Online</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">在线</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1973544523">
+        <source>PlayerProfile.FriendList.Unfriend</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">删除好友</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1490633734">
+        <source>PlayerProfile.FriendsHeader</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">好友</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1425208668">
+        <source>PlayerProfile.Logout</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">退出登录</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2084646169">
+        <source>PlayerProfile.PlayerProfileHeader</source>
+        <target xml:lang="en-US">玩家资料</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1637345896">
+        <source>PlayerProfile.StatisticsHeader</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">统计</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-935505162">
+        <source>PlayerSlot.Add.AI</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">添加 AI</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-671195071">
+        <source>PlayerSlot.Add.InviteFriend</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">邀请好友</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="315523990">
+        <source>PlayerSlot.Add.LocalSeat</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">添加座位</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1275079120">
+        <source>PlayerSlot.Add.PublicSeat</source>
+        <target xml:lang="en-US">添加座位</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2041250585">
+        <source>PlayerSlot.Clan</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">氏族</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1954484300">
+        <source>PlayerSlot.CouchPlay.Header</source>
+        <target xml:lang="en-US">同屏轮流对战</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1840854062">
+        <source>PlayerSlot.CouchPlay.Text</source>
+        <target xml:lang="en-US">想和朋友（或更多人）在同一设备上一起玩吗？
+选择此模式，即可在同一设备上与多名玩家进行游戏。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-299100246">
+        <source>PlayerSlot.Difficulty</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">难度</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1873236567">
+        <source>PlayerSlot.Easy</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">简单</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="486443856">
+        <source>PlayerSlot.FlexiblePersonality</source>
+        <target xml:lang="en-US">自适应个性</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1245634906">
+        <source>PlayerSlot.Hard</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">困难</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="942274832">
+        <source>PlayerSlot.Normal</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">普通</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-826735359">
+        <source>PlayerSlot.Personality</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">个性</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="779206742">
+        <source>PlayerSlot.Statistics.Defeats</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">败场</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1788885060">
+        <source>PlayerSlot.Statistics.Elo</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">Elo</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="724301759">
+        <source>PlayerSlot.Statistics.FavClan</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">最爱氏族</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="393072049">
+        <source>PlayerSlot.Statistics.HighestGlory</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">最高荣耀</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-8107344">
+        <source>PlayerSlot.Statistics.Rank</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">排名</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-781176899">
+        <source>PlayerSlot.Statistics.Wins</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">胜场</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2124002223">
+        <source>PlayerSlot.VeryEasy</source>
+        <target xml:lang="en-US">非常简单</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="538449874">
+        <source>Settings.applyChanges</source>
+        <target xml:lang="en-US">应用更改</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1738851097">
+        <source>Settings.AutoZoom</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">自动缩放</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="773226354">
+        <source>Settings.AutoZoomHint</source>
+        <target xml:lang="en-US">启用该功能后，敌方单位行动时，游戏会自动将视角缩放至该单位。
+如果你想随时了解对手的一举一动，这个选项会很合适。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1510317289">
+        <source>Settings.Credits</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">制作人员</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="124900728">
+        <source>Settings.FastBattleMode</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">快速战斗模式</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="156545437">
+        <source>Settings.FastBattleModeHint</source>
+        <target xml:lang="en-US">此选项将启用更快的战斗动画，加快游戏节奏，特别适合已熟悉游戏流程的玩家。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1956866442">
+        <source>Settings.Header</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">设置</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1361285059">
+        <source>Settings.MusicVolumeHeader</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">音乐音量</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-327155844">
+        <source>Settings.Quality</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">画质</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1994879166">
+        <source>Settings.Quality.High</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">高</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-490367256">
+        <source>Settings.Quality.Low</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">低</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1623633641">
+        <source>Settings.Quality.Medium</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">中</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-456986132">
+        <source>Settings.Quality.Ultra</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">极高</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="842320070">
+        <source>Settings.Quality.VeryHigh</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">超高</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-730601664">
+        <source>Settings.Quality.VeryLow</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">极低</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1753203179">
+        <source>Settings.Resolution</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">分辨率</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1250374108">
+        <source>Settings.ResolutionHint</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">在无边框窗口模式下此选项不可用。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="712616948">
+        <source>Settings.ScreenMode</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">屏幕模式</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1391672297">
+        <source>Settings.ScreenMode.BorderlessWindow</source>
+        <target xml:lang="en-US">无边框窗口</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1218350603">
+        <source>Settings.ScreenMode.Fullscreen</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">全屏</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1660347718">
+        <source>Settings.ScreenMode.Window</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">窗口</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1692932325">
+        <source>Settings.SFXVolumeHeader</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">音效</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1878693604">
+        <source>Settings.ToggleOff</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">关</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1288851326">
+        <source>Settings.ToggleOn</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">开</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1173736416">
+        <source>Settings.UseAzertyKeyboard</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">AZERTY 键盘布局</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-602009135">
+        <source>SingleplayerOptions.StartGame</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">开始游戏</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1031838465">
+        <source>SingleplayerOptions.Tutorial</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">教程</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="767380667">
+        <source>Settings.UseAzertyKeyboardHint</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">启用后，键盘操作将适配 AZERTY 键盘布局。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="895131723">
+        <source>Confirmation.PlayTutorial.Title</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">开始教程？</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2056962164">
+        <source>Confirmation.PlayTutorial.Content</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">你还没有玩过教程。现在要开始吗？如果不想，你可以在单人游戏菜单中找到教程。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-264320966">
+        <source>PlayerProfile.Statistics.Name</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">名字</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2002487007">
+        <source>PlayerProfile.Statistics.Elo</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">Elo</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="647098090">
+        <source>PlayerProfile.Statistics.ClanStatistics</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">氏族统计</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-183508915">
+        <source>PlayerProfile.Statistics.Bear</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">熊族</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-744968164">
+        <source>PlayerProfile.Statistics.Serpent</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">蛇族</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1655726537">
+        <source>PlayerProfile.Statistics.Raven</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">渡鸦族</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2106081369">
+        <source>PlayerProfile.Statistics.Wolf</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">狼族</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="627126441">
+        <source>PlayerProfile.Statistics.Wildboar</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">野猪族</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-921519573">
+        <source>PlayerProfile.Statistics.Ram</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">公羊族</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1994021150">
+        <source>PlayerProfile.Statistics.Stag</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">雄鹿族</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="357832526">
+        <source>PlayerProfile.Statistics.WinLoss</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">胜/负</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-943282002">
+        <source>PlayerProfile.Statistics.Wins</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">胜场</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-85075086">
+        <source>PlayerProfile.Statistics.Losses</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">败场</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1607642152">
+        <source>PlayerProfile.Statistics.Leaderboard</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">排行榜</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-491197284">
+        <source>PlayerProfile.Statistics.MostPlayerClans</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">最常使用的氏族</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1995470896">
+        <source>Chat.Placeholder.Text</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">点击此处聊天</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2130110854">
+        <source>MultiplayerOptions.OpenSlot</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">开放</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1994853687">
+        <source>PlayerProfile.Playername.Default</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">玩家</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-10353482">
+        <source>SingleplayerOptions.Continue</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">继续</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1756344305">
+        <source>Lobby.NoInternet.Header</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">无网络连接</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="766027073">
+        <source>Lobby.NoInternet.Content</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">网络连接不可用，无法连接在线服务。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="847058474">
+        <source>Settings.confirmDialogs</source>
+        <target xml:lang="en-US">显示确认对话框</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-183889775">
+        <source>Settings.confirmDialogsHint</source>
+        <target xml:lang="en-US">在掠夺区域以及在战斗中打出卡牌时显示确认对话框。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-798348899">
+        <source>Settings.language</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">语言</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2032850856">
+        <source>Settings.languageHint</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">更改你的语言</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1172464506">
+        <source>Settings.language_en_US</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">英语</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1791686463">
+        <source>Settings.language_de_DE</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">德语</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1206223269">
+        <source>Settings.language_fr_FR</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">法语</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="944100217">
+        <source>Settings.language_es_ES</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">西班牙语</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-433762967">
+        <source>Settings.language_it_IT</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">意大利语</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1615235293">
+        <source>Settings.SimpleMap</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">简化地图</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-264447648">
+        <source>Settings.SimpleMapHint</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">减少环境中 3D 物件的数量。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1706545348">
+        <source>Settings.defaultPlayerBoardState.title</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">玩家面板默认状态</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-250612657">
+        <source>Settings.defaultPlayerBoardState.hint</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">设定玩家面板默认为打开还是最小化。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1301915722">
+        <source>Settings.defaultPlayerBoardState.open</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">打开</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="60881838">
+        <source>Settings.defaultPlayerBoardState.minimized</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">最小化</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en-US" target-language="de-DE" datatype="plaintext" original="not.available">
+    <body>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1190794356">
+        <source>SelectAllButton.Header</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Alle auswählen</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1315209724">
+        <source>OriginalKickstartMonster.Header</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Originale KS Exclusives</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1518648477">
+        <source>DigitalKickstarterMonsters.Header</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Digitale KS Exclusives</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1294795293">
+        <source>MysticMonsterDLC.Header</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Mystische Monster</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="551881377">
+        <source>MysticMonsterDLC.Text</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Bist du bereit, mystische Monster auf Midgard loszulassen? Werden sie deinen Befehlen folgen, oder denen deiner Gegner?</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-224257421">
+        <source>MysticMonsterDLC.InfoText</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Du kannst einige oder alle der mystischen Monster aus den Kickstarter verwenden. Dabei kannst du auch alte und neue Monster mischen.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1342615287">
+        <source>MysticMonsterDLC.ChooseButton</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Auswählen</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

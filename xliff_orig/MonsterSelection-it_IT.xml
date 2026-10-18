@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en-US" target-language="it-IT" datatype="plaintext" original="not.available">
+    <body>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1190794356">
+        <source>SelectAllButton.Header</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Seleziona tutti</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1315209724">
+        <source>OriginalKickstartMonster.Header</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Esclusive originali KS </target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1518648477">
+        <source>DigitalKickstarterMonsters.Header</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Esclusive digitali KS</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1294795293">
+        <source>MysticMonsterDLC.Header</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Mostri mistici</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="551881377">
+        <source>MysticMonsterDLC.Text</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Pronti a scatenare Mostri Mitici su Midgard? Eseguiranno i tuoi ordini o quelli dei tuoi avversari?</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-224257421">
+        <source>MysticMonsterDLC.InfoText</source>
+        <target xml:lang="it-IT" state="translated">È possibile utilizzare alcuni o tutti i mostri mistici del Kickstarter. È anche possibile mescolare i mostri vecchi e nuovi.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1342615287">
+        <source>MysticMonsterDLC.ChooseButton</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Scegliere</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

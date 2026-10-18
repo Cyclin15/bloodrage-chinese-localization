@@ -1,0 +1,16 @@
+{
+"warning.yes": "确认",
+"warning.no": "取消",
+"warning.repillage": "你确定要支付 2 点怒气来再次掠夺此区域吗？",
+"warning.headline": "警告",
+"warning.outOfRage": "你确定要这样做吗？当怒气为 0 时，你将无法进行任何后续行动。",
+"hint.headline": "提示",
+"hint.invadeFigurelimit": "你已达到单位上限，无法再放置更多单位。",
+"warning.outOfHornsPlayUpgrade": "你确定要打出这张卡吗？由于单位已达上限，你将无法免费让该单位入侵。",
+"warning.rageOutAfterInvade": "注意：这样做后你的怒气将变为 0，无法再进行任何后续行动。\n你确定吗？",
+"warning.lastVillage": "你确定要这样做吗？时代将立即结束，而你还有可打出的手牌。",
+"warning.outOfRageCardsLeft": "你确定要这样做吗？当怒气为 0 时，你将无法进行任何后续行动，而你还有可打出的手牌。",
+"warning.confirmationHeadline": "注意！",
+"warning.pillage": "你要掠夺此区域吗？",
+"warning.playCard": "你要打出这张卡吗？"
+}

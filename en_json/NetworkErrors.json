@@ -1,0 +1,10 @@
+{
+"NetworkError.HostCouldNotStartMatch.Title": "Unable to start game",
+"NetworkError.HostCouldNotStartMatch.Content": "Could not start the game. Please try again later.",
+"NetworkError.HostTryToStartMatch.Title": "Trying to start game. {0} of 5 attempts",
+"NetworkError.HostTryToStartMatch.Content": "A communication error occured. Try to start the game again.",
+"NetworkError.ClientCouldNotStartMatch.Title": "Game didn't start",
+"NetworkError.ClientCouldNotStartMatch.Content": "It looks like your host could not start the game. Leave the game room.",
+"NetworkInfo.PrepareToStartMatch.Title": "Starting the game",
+"NetworkInfo.PrepareToStartMatch.Content": "All players joined. Starting the game."
+}

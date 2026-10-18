@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en-US" target-language="de-DE" datatype="plaintext" original="not.available">
+    <body>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1113810033">
+        <source>warning.yes</source>
+        <target xml:lang="de-DE">Bestätigen</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1387119911">
+        <source>warning.no</source>
+        <target xml:lang="de-DE">Abbrechen</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-963394075">
+        <source>warning.repillage</source>
+        <target xml:lang="de-DE">Möchtest du 2 Wut bezahlen, um diese Provinz zu plündern?</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-832779736">
+        <source>warning.headline</source>
+        <target xml:lang="de-DE">Warnung</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-513687088">
+        <source>warning.outOfRage</source>
+        <target xml:lang="de-DE">Willst du das wirklich tun? Ohne Wut kannst du keine weiteren Aktionen machen</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="48914527">
+        <source>hint.headline</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2">Hinweis</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="764199671">
+        <source>hint.invadeFigurelimit</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2">Du kannst nicht noch mehr Einheiten plazieren.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1042269895">
+        <source>warning.outOfHornsPlayUpgrade</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2">Willst du wirklich diese Karte spielen? Du wirst keine Einheit plazieren können, weil dein Einheitenlimit erreicht ist.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-413491802">
+        <source>warning.rageOutAfterInvade</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2">Wichtig: Wenn du das tust, hast du danach 0 Wut und kannst keine Aktionen mehr durchführen.
+Bist du dir sicher?</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2034409472">
+        <source>warning.lastVillage</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2">Willst du das wirklich tun? Das Zeitalter endet sofort und du kannst noch Karten spielen.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1137352518">
+        <source>warning.outOfRageCardsLeft</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2">Willst du das wirklich tun? Ohne Wut kannst du keine weiteren Aktionen machen und du kannst noch Karten spielen.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1105571166">
+        <source>warning.pillage</source>
+        <target xml:lang="de-DE">Willst du diese Provinz plündern?</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="747866384">
+        <source>warning.playCard</source>
+        <target xml:lang="de-DE">Willst du diese Karte ausspielen?</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="469815641">
+        <source>warning.confirmationHeadline</source>
+        <target xml:lang="de-DE">Achtung!</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

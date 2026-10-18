@@ -1,0 +1,12 @@
+{
+"CommunityHub.LoginBanner.Login": "登录",
+"CommunityHub.UserAccount.EditMyProfile": "编辑我的个人资料",
+"CommunityHub.UserAccount.EmailSent": "我们已向您发送邮件。请按照邮件中的说明操作",
+"CommunityHub.UserAccount.GetMyPassword": "找回我的密码",
+"CommunityHub.UserAccount.Logout": "退出登录",
+"CommunityHub.UserAccount.UpdateMyEmail": "更新我的邮箱",
+"CommunityHub.UserAccount.ID": "ID",
+"CommunityHub.UserAccount.Name": "昵称",
+"CommunityHub.UserAccount.SignUp": "注册",
+"CommunityHub.UserAccount.Email": " 邮箱"
+}

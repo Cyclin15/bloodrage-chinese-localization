@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en-US" target-language="fr-FR" datatype="plaintext" original="not.available">
+    <body>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="695828496">
+        <source>SSO.AccountCreationSuccess.LoginErrorMessage</source>
+        <target xml:lang="fr-FR">感谢您。
+确认邮件已发送给您。
+您的账户已创建，但我们未能为您登录。
+请重试。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="326694703">
+        <source>SSO.AccountCreationSuccess.Message</source>
+        <target xml:lang="fr-FR">激活邮件已发送至您的邮箱地址，请务必查收。未激活的账户将在 7 天后被删除。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="923124608">
+        <source>SSO.AccountCreationSuccess.Title</source>
+        <target xml:lang="fr-FR">账户已创建</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="99998193">
+        <source>SSO.AlreadyPlayedPanel.Message</source>
+        <target xml:lang="fr-FR">您是否已有 &lt;color=white&gt;Asmodee.net&lt;/color&gt; 账户？</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-497010819">
+        <source>SSO.AlreadyPlayedPanel.SubMessage</source>
+        <target xml:lang="fr-FR">我们将帮您找回您的账户</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-578785598">
+        <source>SSO.AlreadyPlayedPanel.Title</source>
+        <target xml:lang="fr-FR">曾在线游玩过？</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="371857150">
+        <source>SSO.ChooseALoginPanel.LoginNameAvailable</source>
+        <target xml:lang="fr-FR">绝佳的选择</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="371857150">
+        <source>SSO.ChooseALoginPanel.LoginNameUnAvailable</source>
+        <target xml:lang="fr-FR">该用户名已被占用</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1468342546">
+        <source>SSO.ChooseALoginPanel.LoginPLaceholder</source>
+        <target xml:lang="fr-FR">用户名</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-616673185">
+        <source>SSO.ChooseALoginPanel.Message</source>
+        <target xml:lang="fr-FR">请为您的账户设置用户名和密码：</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="371857150">
+        <source>SSO.ChooseALoginPanel.PasswordLevel0</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">密码强度太弱</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="371857150">
+        <source>SSO.ChooseALoginPanel.PasswordLevel1</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">弱密码</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="371857150">
+        <source>SSO.ChooseALoginPanel.PasswordLevel2</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">中等密码</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="371857150">
+        <source>SSO.ChooseALoginPanel.PasswordLevel3</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">良好密码</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="371857150">
+        <source>SSO.ChooseALoginPanel.PasswordLevel4</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">极佳密码</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1655260080">
+        <source>SSO.ChooseALoginPanel.PasswordPLaceholder</source>
+        <target xml:lang="fr-FR">密码</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1802985667">
+        <source>SSO.ChooseALoginPanel.PasswordStrengthMessage</source>
+        <target xml:lang="fr-FR">密码强度</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="28289200">
+        <source>SSO.ChooseALoginPanel.Title</source>
+        <target xml:lang="fr-FR">创建您的账户</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="66225355">
+        <source>SSO.Error.BadLoginPasswordCombination</source>
+        <target xml:lang="fr-FR">用户名和/或密码错误。请检查您的凭据后重试。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1177354776">
+        <source>SSO.Error.InvalidEmailOrPassword</source>
+        <target xml:lang="fr-FR">邮箱或密码无效。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1275326337">
+        <source>SSO.Error.LoginOrEmailBadlyFormatted</source>
+        <target xml:lang="fr-FR">用户名或邮箱的格式似乎不正确。
+用户名长度至少为 4 个字符，且不能使用特殊字符。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1715321820">
+        <source>SSO.Error.LoginOrEmailNotFound</source>
+        <target xml:lang="fr-FR">未找到该用户名或邮箱。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="621656279">
+        <source>SSO.Error.UnableToConnect</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">无法与服务器建立连接。请检查您的网络连接或稍后重试。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="871762810">
+        <source>SSO.Error.UnexpectedSignUpError</source>
+        <target xml:lang="fr-FR">创建账户时发生错误。请重试。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="277583448">
+        <source>SSO.Error.WarningChooseALoginSlowResponse</source>
+        <target xml:lang="fr-FR">连接速度似乎异常缓慢...</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2089547625">
+        <source>SSO.LoginPanel.LoginEmailInvalidMessage</source>
+        <target xml:lang="fr-FR">用户名或邮箱无效</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1016311917">
+        <source>SSO.LoginPanel.Message</source>
+        <target xml:lang="fr-FR">请输入您的用户名或邮箱地址</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-425775361">
+        <source>SSO.LoginPanel.Placeholder</source>
+        <target xml:lang="fr-FR">用户名或邮箱</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1274799332">
+        <source>SSO.LoginPanel.Title</source>
+        <target xml:lang="fr-FR">登录</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="994520919">
+        <source>SSO.PasswordPanel.EmailSentMessage</source>
+        <target xml:lang="fr-FR">我们已向您发送邮件。请按照邮件中的说明操作。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-3706503">
+        <source>SSO.PasswordPanel.ForgotButton</source>
+        <target xml:lang="fr-FR">忘记密码？</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="876061763">
+        <source>SSO.PasswordPanel.Message</source>
+        <target xml:lang="fr-FR">我们找到了您的账户。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1248327217">
+        <source>SSO.PasswordPanel.PasswordInvalidMessage</source>
+        <target xml:lang="fr-FR">密码无效</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1554994257">
+        <source>SSO.PasswordPanel.Placeholder</source>
+        <target xml:lang="fr-FR">密码</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-671832684">
+        <source>SSO.PasswordPanel.Title</source>
+        <target xml:lang="fr-FR">密码</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1163969394">
+        <source>SSO.PasswordReset.Message</source>
+        <target xml:lang="fr-FR">我们已向您发送邮件。请按照邮件中的说明操作。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1600902303">
+        <source>SSO.PasswordReset.Title</source>
+        <target xml:lang="fr-FR">重置密码</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1408236666">
+        <source>SSO.WelcomePanel.Message</source>
+        <target xml:lang="fr-FR">欢迎来到 &lt;color=white&gt;Asmodee.net&lt;/color&gt;
+请输入您的邮箱地址，
+我们会为其保密。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="35917926">
+        <source>SSO.WelcomePanel.Placeholder</source>
+        <target xml:lang="fr-FR">邮箱</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="702094420">
+        <source>SSO.WelcomePanel.SubMessage</source>
+        <target xml:lang="fr-FR">我们会为您的邮箱保密</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="371857150">
+        <source>SSO.WelcomePanel.SubscribedNewsletterMessage</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">感谢您的订阅</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="982436289">
+        <source>SSO.WelcomePanel.SubscribeNewsletterMessage</source>
+        <target xml:lang="fr-FR">订阅我们的新闻邮件</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1618763893">
+        <source>SSO.WelcomePanel.Title</source>
+        <target xml:lang="fr-FR">欢迎！</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="371857150">
+        <source>SSO.UpdateEmailPopUp.Title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">邮箱</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1277087745">
+        <source>SSO.LoginPanel.LoginSuccessful</source>
+        <target xml:lang="fr-FR">成功！</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1075577990">
+        <source>SSO.LoginPanel.LoginFailed</source>
+        <target xml:lang="fr-FR">失败！</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

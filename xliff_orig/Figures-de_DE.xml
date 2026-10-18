@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en-US" target-language="de-DE" datatype="plaintext" original="not.available">
+    <body>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1179759123">
+        <source>bearLeader</source>
+        <target xml:lang="de-DE" state="translated">Anführer</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1024522498">
+        <source>bearWarrior</source>
+        <target xml:lang="de-DE" state="translated">Krieger</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1977548498">
+        <source>bearShip</source>
+        <target xml:lang="de-DE" state="translated">Schiff</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="243085573">
+        <source>ramLeader</source>
+        <target xml:lang="de-DE" state="translated">Anführer</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="859087496">
+        <source>ramWarrior</source>
+        <target xml:lang="de-DE" state="translated">Krieger</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1937435880">
+        <source>ramShip</source>
+        <target xml:lang="de-DE" state="translated">Schiff</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="250156233">
+        <source>ravenLeader</source>
+        <target xml:lang="de-DE" state="translated">Anführer</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1607425778">
+        <source>ravenWarrior</source>
+        <target xml:lang="de-DE" state="translated">Krieger</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-199311650">
+        <source>ravenShip</source>
+        <target xml:lang="de-DE" state="translated">Schiff</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1680627244">
+        <source>serpentLeader</source>
+        <target xml:lang="de-DE" state="translated">Anführer</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1784895639">
+        <source>serpentWarrior</source>
+        <target xml:lang="de-DE" state="translated">Krieger</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-635021855">
+        <source>serpentShip</source>
+        <target xml:lang="de-DE" state="translated">Schiff</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1335832792">
+        <source>stagLeader</source>
+        <target xml:lang="de-DE" state="translated">Anführer</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1905356699">
+        <source>stagWarrior</source>
+        <target xml:lang="de-DE" state="translated">Krieger</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1107001203">
+        <source>stagShip</source>
+        <target xml:lang="de-DE" state="translated">Schiff</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2059070355">
+        <source>wildboarLeader</source>
+        <target xml:lang="de-DE" state="translated">Anführer</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1339004880">
+        <source>wildboarWarrior</source>
+        <target xml:lang="de-DE" state="translated">Krieger</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="641390856">
+        <source>wildboarShip</source>
+        <target xml:lang="de-DE" state="translated">Schiff</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1344351633">
+        <source>wolfLeader</source>
+        <target xml:lang="de-DE" state="translated">Anführer</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="764798096">
+        <source>wolfWarrior</source>
+        <target xml:lang="de-DE" state="translated">Krieger</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1063438040">
+        <source>wolfShip</source>
+        <target xml:lang="de-DE" state="translated">Schiff</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1799127583">
+        <source>darkElf</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Dunkelelf</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="288053829">
+        <source>dwarfChieftain</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Zwergenhäuptling</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1537031735">
+        <source>fireGiant</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Feuerriese</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1576320237">
+        <source>frostGiant</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Frostriese</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1971988381">
+        <source>garm</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Garm</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2105573532">
+        <source>seaSerpent</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Seeschlange</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-747096382">
+        <source>soldierOfHel</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Soldat von Hel</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1123614415">
+        <source>sonOfTheWorldSerpent</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Sohn der Weltenschlange</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="425710233">
+        <source>troll</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Troll</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1320333511">
+        <source>valkyrie</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Walküre</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2030864437">
+        <source>volurWitch</source>
+        <target xml:lang="de-DE">Völva</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="299577172">
+        <source>wolfWoman</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Wolfsfrau</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1420893847">
+        <source>ymir</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Ymir</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-271342941">
+        <source>mountainGiantess</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2">Mountain Giantess</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2027435310">
+        <source>mountainGiant</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2">Mountain Giant</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1880636183">
+        <source>hildisvini</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2">Hildisvini</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1852333730">
+        <source>wolfMan</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2">Wolfman</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="545906944">
+        <source>seerTroll</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2">Seet Troll</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-177107378">
+        <source>mysticTroll</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2">Mystic Troll</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1407272700">
+        <source>fenrir</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2">Fenrir</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1858489261">
+        <source>nidhoeggr</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2">Nidhöggr</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

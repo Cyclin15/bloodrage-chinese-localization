@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en-US" target-language="fr-FR" datatype="plaintext" original="not.available">
+    <body>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1299409002">
+        <source>Emoji.NotBad</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Pas mal !</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="552771381">
+        <source>Emoji.ThankYou</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Merci !</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2054865801">
+        <source>Emoji.Oops</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Oups...</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1997155309">
+        <source>Emoji.WellPlayed</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Bien joué !</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1466046835">
+        <source>Emoji.Sorry</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Pardon !</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="550768789">
+        <source>Emoji.Wow</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Waouh !</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-741522159">
+        <source>Emoji.ForOdin</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Pour Odin !</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1298023334">
+        <source>Emoji.Hello</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Salut !</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="167624954">
+        <source>Emoji.Welcome</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Bienvenue !</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="176388371">
+        <source>Emoji.ItsAnHonourToMeetYou</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">C'est un honneur de vous rencontrer.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="590438147">
+        <source>Emoji.YouWillDie</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Vous allez mourir !</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="601349356">
+        <source>Emoji.SeeYouInValhalla</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">On se reverra au Valhalla !</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-846021634">
+        <source>Emoji.PrepareToDie</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Préparez-vous à mourir !</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="658880608">
+        <source>Emoji.YouWillRegretThis</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Vous allez le regretter !</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="146928613">
+        <source>Emoji.StandAndFight</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Mieux vaut se lever et se battre. Celui qui s'enfuit meurt épuisé.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1065617211">
+        <source>Emoji.SteppingForward</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Si ta hache est trop courte, rallonge-la... en faisant un pas en avant.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1959769705">
+        <source>Emoji.OnlyForward</source>
+        <target xml:lang="fr-FR" state="needs-translation">Je détruis les ponts derrière-moi. Ainsi, mon seul choix est d'avancer !</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="299484014">
+        <source>Emoji.Childhood</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Les enfants timorés font rarement des anciens téméraires.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1164184345">
+        <source>Emoji.SharpSword</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Quand un homme affronte des ennemis au combat, mieux vaut un cœur solide qu'une épée affûtée.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-74977496">
+        <source>Emoji.WolfTeeth</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Là où sont les oreilles du loup, les dents ne sont pas loin.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-509540075">
+        <source>Emoji.FightFoes</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Affrontez vos ennemis sur le champ de bataille plutôt que de brûler dans votre maison.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-968909893">
+        <source>Emoji.FearNoDeath</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Ne craignez pas la mort, car votre heure est fixée et nul ne peut y échapper.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="696690731">
+        <source>Emoji.PrideKeepsPace</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Pour ceux qui accèdent au pouvoir et aux honneurs, l'orgueil accompagne l'ascension.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1075689237">
+        <source>Emoji.InTheSteath</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Même dans son fourreau, l'épée doit être affûtée. L'esprit dans le corps doit suivre son exemple.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1176262472">
+        <source>Emoji.TheThrall</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Seul l'esclave se venge immédiatement. Le lâche, jamais.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="787128541">
+        <source>Emoji.CowardsWaits</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Seul le lâche attend d'être enlevé comme un agneau du troupeau ou un renard d'un piège.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2117698937">
+        <source>Emoji.HoldTonque</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Nul n'est entièrement idiot s'il sait tenir sa langue.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="234615884">
+        <source>Emoji.InjusticeAndGreed</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Quel malheur d'abandonner l'honneur et l'intégrité au profit de l'injustice et de l'avidité.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="431052100">
+        <source>Emoji.ReachingSky</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Il y a plus d'honneur à accumuler petit à petit qu'à viser le ciel et finir face contre terre.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-80265043">
+        <source>Emoji.PersonsActions</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Les actions d'une personne sont souvent pires que ses intentions.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="107757294">
+        <source>Emoji.Stubbornness</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">L'obstination apporte soit beaucoup de honte, soit beaucoup d'honneur.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-145655665">
+        <source>Emoji.GoWellAtFirst</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Tout semble facile au début, pour ceux qui tentent de dominer les autres, mais ils rencontreront bientôt des difficultés.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="82494433">
+        <source>Emoji.DeadWound</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Qui reçoit une blessure mortelle parvient souvent à se venger.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1462231988">
+        <source>Emoji.Vengeance</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Plus la vengeance arrive tard, plus elle est satisfaisante.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1399653875">
+        <source>Emoji.HourOfAction</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Le moment d'agir est maintenant. La fête sera pour plus tard.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1511830301">
+        <source>Emoji.BeFree</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Mieux vaut avoir une position inférieure et être libre qu'être au pouvoir pour être soumis à la volonté d'un autre.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-414964489">
+        <source>Emoji.YellowSnow</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Ne mangez pas la neige jaune !</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1121420341">
+        <source>Emoji.Troll</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Même le troll sans cervelle doit être prévenu s'il est assis nu près d'un feu.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-393885946">
+        <source>Emoji.LiveLong</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Ceux qui sont blessés par les mots vivent longtemps.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-451785361">
+        <source>Emoji.HungryWolf</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Le loup affamé est destiné à livrer un combat féroce.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1804013243">
+        <source>Emoji.ShortKnife</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Qui a un petit couteau doit essayer, encore et encore.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1454303211">
+        <source>Emoji.Sailcloth</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Si votre voile est fragile, vous n'irez jamais loin.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1433565043">
+        <source>Emoji.KingsPlace</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Il est facile d'entrer dans le palais d'un roi, mais difficile d'en ressortir.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="547798442">
+        <source>Emoji.BadEnding</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Ce qui commence mal risque de mal finir.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-243850631">
+        <source>Emoji.Tyranny</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Tout ce dont un peuple a besoin pour se dresser contre la tyrannie, c'est d'un chef avec assez de courage pour lever la bannière.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2003721447">
+        <source>Emoji.NewShirts</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Quiconque offense un homme plus puissant ne doit pas s'attendre à user beaucoup de chemises.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1054420617">
+        <source>Emoji.WondedCoward</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Le lâche blessé fait profil bas.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1069484584">
+        <source>Emoji.WolfChild</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Ne faites pas confiance à celui dont vous avez tué le père, le frère ou un proche, peu importe sa jeunesse, car les enfants se changent souvent en loups.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-216051190">
+        <source>Emoji.BurnedMan</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Le feu semble plus chaud à un homme brûlé.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-297137929">
+        <source>Emoji.Brotherless</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">L'homme sans frère a le dos découvert.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-783106383">
+        <source>Emoji.OldDog</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Quand le vieux chien aboie, il vaut mieux l'écouter.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="824492753">
+        <source>Emoji.Category.Greeting</source>
+        <target xml:lang="fr-FR" state="needs-translation">Saluer</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1553119209">
+        <source>Emoji.Category.Threaten</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Menacer</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1692302246">
+        <source>Emoji.Category.Proverb</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Proverbe</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en-US" target-language="de-DE" datatype="plaintext" original="not.available">
+    <body>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="127113866">
+        <source>IngameInfo.Rage</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2">Wut</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="861756388">
+        <source>IngameInfo.RageDescription</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2">Hier findest du deinen Wut-Wert, der entscheidet, wie viel Wut du im nächsten Zeitalter haben wirst.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1132379767">
+        <source>IngameInfo.Horns</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2">Hörner</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2004122995">
+        <source>IngameInfo.HornsDescription</source>
+        <target xml:lang="de-DE">Hier findest du deinen Hörner-Wert, der die Anzahl an Figuren bestimmt, die du auf dem Spielbrett besitzen kannt.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2062725342">
+        <source>IngameInfo.Axes</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2">Äxte</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-884740112">
+        <source>IngameInfo.AxesDescription</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2">Hier findest du deinen Äxte-Wert, der bestimmt, wie viel Ruhm du für jeden gewonnenen Kampf erhältst.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1638717780">
+        <source>IngameInfo.Glory</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2">Ruhm</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1294616706">
+        <source>IngameInfo.GloryDescription</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2">Hier findest du deinen Ruhm. Der Spieler mit dem meisten Ruhm am Ende des Spiels gewinnt.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-619142440">
+        <source>IngameInfo.AgePanel</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2">Zeitalter-Übersicht</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1613850322">
+        <source>IngameInfo.AgePanelDescription</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2">Hier findest du die unterschiedlichen Phasen für jedes Zeitalter. Außerdem findest du hier die Schaltfläche, um zu "passen", wenn du deinen Zug beenden möchtest.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1522335138">
+        <source>IngameInfo.ValhallaPanel</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2">Walhall-Übersicht</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-852533008">
+        <source>IngameInfo.ValhallaPanelDescription</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2">Diese Übersicht zeigt dir alle Figuren, die bereits in Walhall warten.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-74338313">
+        <source>IngameInfo.Playerframe</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2">Spieleranzeige</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1384617431">
+        <source>IngameInfo.PlayerframeDescription</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2">Das bist du! Hier kannst du alle wichtigen Informationen über deinen Clan finden, wie deinen aktuellen Wut-Wert, deine drei Clan-Werte und (wenn du deinen Mauszeiger hierher bewegst) kannst du auch sehen, wie weit du bereits auf dem Clanbogen vorangeschritten bist. Das ist wichtig, weil hohe Clan-Werte Bonus-Ruhm am Ende des Spiels geben.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="5135513">
+        <source>IngameInfo.Handcards</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2">Handkarten</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1402022069">
+        <source>IngameInfo.HandcardsDescription</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2">Hier findest du deine Handkarten. Karten, die du gerade ausspielen kannst, werden hervorgehoben.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2078654699">
+        <source>IngameInfo.Closeinfo</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2">Schließen</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1266294933">
+        <source>IngameInfo.Playedcards</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2">Ausgespielte Karten</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1726501219">
+        <source>IngameInfo.PlayedcardsDescription</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2">Hier findest du die Karten, die du bereits ausgespielt hast. Bewege den Mauszeiger über eine Karte, um sie vergrößert darzustellen.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="750186238">
+        <source>IngameInfo.Opponent</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2">Die Clan-Übersicht deines Gegners</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1490587372">
+        <source>IngameInfo.OpponentDescription</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2">Hier kannst du nähere Informationen über den Clan deines Gegners sehen.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

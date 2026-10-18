@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en-US" target-language="en-US" datatype="plaintext" original="not.available">
+    <body>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1425100050">
+        <source>CommunityHub.LoginBanner.Login</source>
+        <target xml:lang="en-US">登录</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-580974811">
+        <source>CommunityHub.UserAccount.EditMyProfile</source>
+        <target xml:lang="en-US">编辑我的个人资料</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="6003206">
+        <source>CommunityHub.UserAccount.EmailSent</source>
+        <target xml:lang="en-US">我们已向您发送邮件。请按照邮件中的说明操作</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1319897103">
+        <source>CommunityHub.UserAccount.GetMyPassword</source>
+        <target xml:lang="en-US">找回我的密码</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1417745896">
+        <source>CommunityHub.UserAccount.Logout</source>
+        <target xml:lang="en-US">退出登录</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-71293959">
+        <source>CommunityHub.UserAccount.UpdateMyEmail</source>
+        <target xml:lang="en-US">更新我的邮箱</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="371857150">
+        <source>CommunityHub.UserAccount.ID</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">ID</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="371857150">
+        <source>CommunityHub.UserAccount.Name</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">昵称</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="371857150">
+        <source>CommunityHub.UserAccount.SignUp</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">注册</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="371857150">
+        <source>CommunityHub.UserAccount.Email</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2"> 邮箱</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,750 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en-US" target-language="it-IT" datatype="plaintext" original="not.available">
+    <body>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2004537294">
+        <source>AiPersonality.Conqueror</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Conquistatore</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="581384021">
+        <source>AiPersonality.GloryHunter</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Cercatore di Gloria</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-276524790">
+        <source>AiPersonality.Hero</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Eroe</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1534198298">
+        <source>AiPersonality.Monsterhunter</source>
+        <target xml:lang="it-IT" state="translated">Cacciatore di mostri</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1991606527">
+        <source>AiPersonality.Opportunist</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Opportunista</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1182405827">
+        <source>AiPersonality.Random</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Casuale</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1319267429">
+        <source>AiPersonality.Shipwright</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Maestro d'ascia</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-137883103">
+        <source>AiPersonality.Trickster</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Ingannatore</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1734130969">
+        <source>AiPersonality.Warlord</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Signore della guerra</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-127641156">
+        <source>AiPersonality.Warrior</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Guerriero</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-424648472">
+        <source>Common.Back</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Indietro</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="995846601">
+        <source>Common.Cancel</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Annulla</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1591093905">
+        <source>Common.Confirm</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Conferma</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2016679518">
+        <source>Common.Leave</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Abbandona</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1804961544">
+        <source>Common.No</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">No</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2010935813">
+        <source>Common.Okay</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Ok</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-667481762">
+        <source>Common.Yes</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Sì</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1062189465">
+        <source>Confirmation.DublicatedSession.Content</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Hai effettuato due volte l'accesso con lo stesso account. Verrai allontanato dalla lobby.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-992843324">
+        <source>Confirmation.DublicatedSession.Headline</source>
+        <target xml:lang="it-IT" state="translated">Sessione doppia!</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-157937081">
+        <source>Confirmation.InvitedGameClosed.Content</source>
+        <target xml:lang="it-IT" state="translated">La partita è stata annullata perché un giocatore ha rifiutato di partecipare.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-72306550">
+        <source>Confirmation.InvitedGameClosed.Headline</source>
+        <target xml:lang="it-IT" state="translated">Invito alla partita rifiutato!</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-718356734">
+        <source>Confirmation.Logout.Content</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Vuoi davvero disconnetterti?</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1096261727">
+        <source>Confirmation.Logout.Headline</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Disconnessione</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1342643362">
+        <source>GameOptions.AsyncGame</source>
+        <target xml:lang="it-IT" state="translated">Modalità asincrona</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1887131881">
+        <source>GameOptions.AsyncGame.InfoText</source>
+        <target xml:lang="it-IT" state="translated">Vuoi giocare una partita a lungo termine senza l'assillo del tempo?
+Questa è la modalità che fa per te.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="534635131">
+        <source>GameOptions.DraftInSec</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">{0} s</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="658246328">
+        <source>GameOptions.DraftTimer</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Timer del draft</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-125574836">
+        <source>GameOptions.Expansions.BetaPannel</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Metti alla prova la tua astuzia contro diversi archetipi di IA come l'ingannatore, il signore della guerra o il cacciatore di mostri! Vuoi giocare contro altri giocatori da tutto il mondo? Oppure preferisci invitare i tuoi amici alle porte del Valhalla?</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="800073252">
+        <source>GameOptions.Expansions.GodsOfAsgard</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Dei di Asgard</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1164183892">
+        <source>GameOptions.Expansions.GodsOfAsgard.Details</source>
+        <target xml:lang="it-IT" state="translated">La combinazione delle due divinità utilizzate in ogni partita crea un'atmosfera unica per quella sessione. Influenzano le scelte del draft e gli esiti della battaglia. Proverai a sfruttare il potere di un dio muovendolo di continuo sul tabellone e saccheggiando la sua provincia? Oppure farai del tuo meglio per neutralizzarlo saccheggiando le province che lo circondano? O magari proverai un saccheggio disperato nella sua provincia solo per spostarlo in un'altra per intralciare i piani di un avversario. Gli dei aggiungono un ulteriore livello di strategia alle partite, senza introdurre regole più complicate.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-602508106">
+        <source>GameOptions.Expansions.GodsOfAsgard.Info</source>
+        <target xml:lang="it-IT" state="translated">Invita gli Dei di Asgard a Midgard per assistere al massacro! Ogni dio porta con sé le sue regole speciali che devono essere rispettate, mentre li intrattieni con le tue pagliacciate.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="62625351">
+        <source>GameOptions.Expansions.MysticsOfMidgard</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Mistici di Midgard</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2105168139">
+        <source>GameOptions.Expansions.MysticsOfMidgard.Details</source>
+        <target xml:lang="it-IT" state="translated">I Mistici sono unità speciali (né Guerrieri, né Mostri) che i giocatori possono impiegare una volta sviluppata una delle migliorie clan omonime. Ognuna di queste migliorie clan aggiunge una miniatura Mistico alla riserva del clan, che puoi usare per invadere o combattere normalmente. 
+Oltre ad aggiungere i Mistici alla tua riserva, ognuna di queste migliorie clan dà ai Mistici una capacità speciale. Se sviluppi diverse migliorie, ognuno dei tuoi Mistici avrà a disposizione le diverse capacità sviluppate, diventando una risorsa strategica preziosa e potente per il tuo clan!</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-453125165">
+        <source>GameOptions.Expansions.MysticsOfMidgard.Info</source>
+        <target xml:lang="it-IT" state="translated">Conosciuti con molti nomi e famosi per i loro poteri ottenuti dal legame diretto con gli dei, questi guerrieri-sciamani saranno un vantaggio per tutti i clan che riusciranno a reclutarli!</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1188676053">
+        <source>GameOptions.RankedGame</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Partita classificata</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="836012032">
+        <source>GameOptions.RankedGame.Tooltip</source>
+        <target xml:lang="it-IT" state="translated">Qui puoi scegliere tra partite classificate e non classificate...</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1037649832">
+        <source>GameOptions.TurnInMin</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">{0} min</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1839065968">
+        <source>GameOptions.TurnTimer</source>
+        <target xml:lang="it-IT">Durata del gioco</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1240710705">
+        <source>GameRoom.Expansions.GodsOfAsgard.Short</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Dei</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-635971580">
+        <source>GameRoom.Expansions.MysticsOfMidgard.Short</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Mistici</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2068282826">
+        <source>GameRoom.PlayerAmount</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Giocatori {0}/{1}</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="692614489">
+        <source>GameRoomOverview.Expansion</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Espansione</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-677482345">
+        <source>GameRoomOverview.GamesInProgress</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Mostra partite in corso</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-837050008">
+        <source>GameRoomOverview.Host</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Host</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1105556088">
+        <source>GameRoomOverview.Players</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Giocatori</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1042620773">
+        <source>InvitationForbiddenNewerClientOverlay.Content</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Visto che la versione del regolamento dell'host è precedente alla tua, non puoi accettare il suo invito.
+Chiedi all'host di aggiornare il suo client.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1198028204">
+        <source>InvitationForbiddenNewerHostOvelay.Content</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Visto che la versione del regolamento del tuo client è precedente a quella utilizzata dall'host, non puoi accettare il suo invito.
+Aggiorna il tuo client.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2101262787">
+        <source>InvitationForbiddenOvelay.Header</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Invito non valido</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="650075610">
+        <source>InvitationOvelay.Header</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Invito di gioco</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1258888439">
+        <source>InvitationOverlay.Accept</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Accetta</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1555784120">
+        <source>InvitationOverlay.Content</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Vuoi accettare l'invito?</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1056354199">
+        <source>InvitationOverlay.Decline</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Rifiuta</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-548596004">
+        <source>LoadingScreen.Hint.Header</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">SUGGERIMENTO</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="281195997">
+        <source>LoadingScreen.Hint.Tip1</source>
+        <target xml:lang="it-IT" state="translated">Usare l'azione di Marcia è l'unico modo per spostare le miniature a Yggdrasil, visto che normalmente non può essere oggetto di un'Invasione.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-755748851">
+        <source>LoadingScreen.Hint.Tip10</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Ricorda che, per ogni combattimento che vinci, devi scartare una carta (se ne hai ancora). Assicurati di poterti permettere la perdita di una carta.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="281195996">
+        <source>LoadingScreen.Hint.Tip2</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Non ci sono villaggi a Yggdrasil, per cui non c'è limite al numero di miniature che può ospitare.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="281195995">
+        <source>LoadingScreen.Hint.Tip3</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Fai attenzione: se un tuo avversario usa Inganno di Loki quando hai solo 1 Furia, il tuo turno finirà.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="281195994">
+        <source>LoadingScreen.Hint.Tip4</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Quando non hai Furia a disposizione, puoi usare Inganno di Loki per ottenere 1 Furia e tornare in gioco.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="281195993">
+        <source>LoadingScreen.Hint.Tip5</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Protezione di Frigga può essere un'ottima difesa contro Marea di Odino!</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="281195992">
+        <source>LoadingScreen.Hint.Tip6</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Iniziando un combattimento, puoi spostare senza nessun costo le tue miniature grazie a Chiamata alle armi.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="281195991">
+        <source>LoadingScreen.Hint.Tip7</source>
+        <target xml:lang="it-IT" state="translated">Nelle partite più dure, considera che il tuo avversario potrebbe giocare diverse copie delle carte Loki, determinando grandi perdite di Furia e Gloria.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="281195990">
+        <source>LoadingScreen.Hint.Tip8</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Ricorda che molte migliorie Guerriero aumentano anche il costo per schierarli.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="281195989">
+        <source>LoadingScreen.Hint.Tip9</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Quando nella tua riserva hai a disposizione miniature potenti come il Troll, oppure il Soldato di Hel, fai attenzione al numero limite di miniature e assicurati di poterle schierare.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-580621386">
+        <source>LoadingScreen.Title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Versus</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1248990124">
+        <source>Mainmenu.Credits</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Riconoscimenti</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-611442185">
+        <source>Mainmenu.Quit</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Esci</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1899256233">
+        <source>Mainmenu.QuitDescription</source>
+        <target xml:lang="it-IT" state="translated">Vuoi davvero abbandonare la partita?</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1121965348">
+        <source>Mainmenu.QuitHeader</source>
+        <target xml:lang="it-IT" state="translated">Vuoi uscire?</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2115455754">
+        <source>MultiplayerLobby.ChatEntry</source>
+        <target xml:lang="it-IT" state="translated">&lt;#{0}&gt;{1}:&lt;/color&gt; &lt;#{2}&gt;{3}&lt;/color&gt;</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-984358570">
+        <source>MultiplayerLobby.CreateGame</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Crea partita</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1905532969">
+        <source>MultiplayerLobby.ErrorWhileJoining</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Si è verificato un errore durante l'accesso alla stanza di gioco.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="634991571">
+        <source>MultiplayerLobby.Invited</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Invitato</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1603191652">
+        <source>MultiplayerLobby.Join</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Partecipa</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1171128631">
+        <source>MultiplayerLobby.LobbyHeader</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Lobby giocatore</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="732131262">
+        <source>MultiplayerLobby.LookingForGame</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Alla ricerca di una partita a cui partecipare...</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="578829564">
+        <source>MultiplayerLobby.Quickmatch</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Partita rapida</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1359887507">
+        <source>MultiplayerLobby.Resume</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Riprendi</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="889073337">
+        <source>MultiplayerOptions.FriendList.NoFriend</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Nessun amico da invitare</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1002617059">
+        <source>MultiplayerOptions.Invite</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Invita</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-785742769">
+        <source>MultiplayerOptions.OpenRoom</source>
+        <target xml:lang="it-IT" state="translated">Stanza aperta</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1991366752">
+        <source>NavigationBar.Compendium</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Regolamento</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="332995187">
+        <source>NavigationBar.Multiplayer</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Multigiocatore</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1574120713">
+        <source>NavigationBar.PlayerProfileTitle</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Profilo giocatore</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1083662176">
+        <source>NavigationBar.Settings</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Impostazioni</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="956713116">
+        <source>NavigationBar.Singleplayer</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Giocatore singolo</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2080360905">
+        <source>PlayerProfile.AddFriend</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Aggiungi agli amici</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1934632414">
+        <source>PlayerProfile.AvatarHeader</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Avatar</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1251999070">
+        <source>PlayerProfile.ClansHeader</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Clan</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-609872467">
+        <source>PlayerProfile.ClansHelpText</source>
+        <target xml:lang="it-IT" state="translated">Qui puoi mettere i clan in ordine di preferenza. All'inizio di una partita, proveremo a darti il clan che occupa la posizione più alta nella tua classifica. Se non è possibile, proveremo a farti avere il secondo, e così via.
+Purtroppo non possiamo garantirti di giocare con il tuo clan preferito, ma faremo il possibile.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-409082146">
+        <source>PlayerProfile.FriendList.Away</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Non disponibile</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-134141655">
+        <source>PlayerProfile.FriendList.Block</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Blocca</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="388479601">
+        <source>PlayerProfile.FriendList.Offline</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Disconnesso</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-57814333">
+        <source>PlayerProfile.FriendList.Online</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Connesso</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1973544523">
+        <source>PlayerProfile.FriendList.Unfriend</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Rimuovi dagli amici</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1490633734">
+        <source>PlayerProfile.FriendsHeader</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Amici</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1425208668">
+        <source>PlayerProfile.Logout</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Disconnessione</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2084646169">
+        <source>PlayerProfile.PlayerProfileHeader</source>
+        <target xml:lang="it-IT" state="translated">Profilo giocatore</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1637345896">
+        <source>PlayerProfile.StatisticsHeader</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Statistiche</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-935505162">
+        <source>PlayerSlot.Add.AI</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Aggiungi I.A.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-671195071">
+        <source>PlayerSlot.Add.InviteFriend</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Invita amico</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="315523990">
+        <source>PlayerSlot.Add.LocalSeat</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Aggiungi un posto</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1275079120">
+        <source>PlayerSlot.Add.PublicSeat</source>
+        <target xml:lang="it-IT">Aggiungi un posto</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2041250585">
+        <source>PlayerSlot.Clan</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Clan</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1954484300">
+        <source>PlayerSlot.CouchPlay.Header</source>
+        <target xml:lang="it-IT" state="translated">Passa e gioca</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1840854062">
+        <source>PlayerSlot.CouchPlay.Text</source>
+        <target xml:lang="it-IT" state="translated">Vuoi giocare con uno o più amici sullo stesso dispositivo?
+Seleziona questa modalità per giocare con altre persone sullo stesso dispositivo.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-299100246">
+        <source>PlayerSlot.Difficulty</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Difficoltà</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1873236567">
+        <source>PlayerSlot.Easy</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Facile</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="486443856">
+        <source>PlayerSlot.FlexiblePersonality</source>
+        <target xml:lang="it-IT" state="translated">Personalità adattiva</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1245634906">
+        <source>PlayerSlot.Hard</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Difficile</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="942274832">
+        <source>PlayerSlot.Normal</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Normale</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-826735359">
+        <source>PlayerSlot.Personality</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Personalità</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="779206742">
+        <source>PlayerSlot.Statistics.Defeats</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Sconfitte</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1788885060">
+        <source>PlayerSlot.Statistics.Elo</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Elo</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="724301759">
+        <source>PlayerSlot.Statistics.FavClan</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Clan pref.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="393072049">
+        <source>PlayerSlot.Statistics.HighestGlory</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Gloria massima</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-8107344">
+        <source>PlayerSlot.Statistics.Rank</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Posizione</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-781176899">
+        <source>PlayerSlot.Statistics.Wins</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Vittorie</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2124002223">
+        <source>PlayerSlot.VeryEasy</source>
+        <target xml:lang="it-IT" state="translated">Molto facile</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="538449874">
+        <source>Settings.applyChanges</source>
+        <target xml:lang="it-IT" state="translated">Applica modifiche</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1738851097">
+        <source>Settings.AutoZoom</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Zoom automatico</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="773226354">
+        <source>Settings.AutoZoomHint</source>
+        <target xml:lang="it-IT" state="translated">Attivando questa funzione il gioco zoomerà automaticamente su una miniatura nemica quando compie un'azione.
+È una buona impostazione se vuoi essere sempre aggiornato su tutto quello che fanno gli avversari.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1510317289">
+        <source>Settings.Credits</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Riconoscimenti</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="124900728">
+        <source>Settings.FastBattleMode</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Modalità battaglia rapida</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="156545437">
+        <source>Settings.FastBattleModeHint</source>
+        <target xml:lang="it-IT" state="translated">Questa funzione rende le animazioni di battaglia più rapide, velocizzando il gioco. È pensata per i giocatori che hanno familiarità con tutte le fasi della partita.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1956866442">
+        <source>Settings.Header</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Impostazioni</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1361285059">
+        <source>Settings.MusicVolumeHeader</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Volume musica</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-327155844">
+        <source>Settings.Quality</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Qualità</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1994879166">
+        <source>Settings.Quality.High</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Alta</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-490367256">
+        <source>Settings.Quality.Low</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Bassa</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1623633641">
+        <source>Settings.Quality.Medium</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Media</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-456986132">
+        <source>Settings.Quality.Ultra</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Ultra</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="842320070">
+        <source>Settings.Quality.VeryHigh</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Molto alta</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-730601664">
+        <source>Settings.Quality.VeryLow</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Molto bassa</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1753203179">
+        <source>Settings.Resolution</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Risoluzione</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1250374108">
+        <source>Settings.ResolutionHint</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Non disponibile per la modalità finestra senza bordi.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="712616948">
+        <source>Settings.ScreenMode</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Modalità schermo</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1391672297">
+        <source>Settings.ScreenMode.BorderlessWindow</source>
+        <target xml:lang="it-IT" state="translated">Finestra senza bordi</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1218350603">
+        <source>Settings.ScreenMode.Fullscreen</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Schermo intero</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1660347718">
+        <source>Settings.ScreenMode.Window</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Finestra</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1692932325">
+        <source>Settings.SFXVolumeHeader</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Effetti sonori</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1878693604">
+        <source>Settings.ToggleOff</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Off</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1288851326">
+        <source>Settings.ToggleOn</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">On</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1173736416">
+        <source>Settings.UseAzertyKeyboard</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Tastiera AZERTY</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-602009135">
+        <source>SingleplayerOptions.StartGame</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Inizia partita</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1031838465">
+        <source>SingleplayerOptions.Tutorial</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Tutorial</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="767380667">
+        <source>Settings.UseAzertyKeyboardHint</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Attivando questa funzione adatterai lo schema di controllo al layout di tastiera AZERTY.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="895131723">
+        <source>Confirmation.PlayTutorial.Title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Giocare al tutorial?</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2056962164">
+        <source>Confirmation.PlayTutorial.Content</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Non hai giocato il tutorial. Vuoi giocarci adesso? Se no, il tutorial si trova nel menu per giocatore singolo.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-264320966">
+        <source>PlayerProfile.Statistics.Name</source>
+        <target xml:lang="it-IT">Nome</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2002487007">
+        <source>PlayerProfile.Statistics.Elo</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Elo</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="647098090">
+        <source>PlayerProfile.Statistics.ClanStatistics</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Statistiche del clan</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-183508915">
+        <source>PlayerProfile.Statistics.Bear</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Orso</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-744968164">
+        <source>PlayerProfile.Statistics.Serpent</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Serpente</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1655726537">
+        <source>PlayerProfile.Statistics.Raven</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Corvo</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2106081369">
+        <source>PlayerProfile.Statistics.Wolf</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Lupo</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="627126441">
+        <source>PlayerProfile.Statistics.Wildboar</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Cinghiale</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-921519573">
+        <source>PlayerProfile.Statistics.Ram</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Ariete</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1994021150">
+        <source>PlayerProfile.Statistics.Stag</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Cervo</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="357832526">
+        <source>PlayerProfile.Statistics.WinLoss</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">V/S</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-943282002">
+        <source>PlayerProfile.Statistics.Wins</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Vittorie</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-85075086">
+        <source>PlayerProfile.Statistics.Losses</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Sconfitte</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1607642152">
+        <source>PlayerProfile.Statistics.Leaderboard</source>
+        <target xml:lang="it-IT">Classifica</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-491197284">
+        <source>PlayerProfile.Statistics.MostPlayerClans</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">I clan più giocati</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1995470896">
+        <source>Chat.Placeholder.Text</source>
+        <target xml:lang="it-IT">Clicca qui per chattare</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2130110854">
+        <source>MultiplayerOptions.OpenSlot</source>
+        <target xml:lang="it-IT">Aperto</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1994853687">
+        <source>PlayerProfile.Playername.Default</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">Giocatore</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-10353482">
+        <source>SingleplayerOptions.Continue</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">Continua</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1756344305">
+        <source>Lobby.NoInternet.Header</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">Nessuna connessione internet</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="766027073">
+        <source>Lobby.NoInternet.Content</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">Connessione internet non disponibile, non è possibile connettersi al servizio online.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="847058474">
+        <source>Settings.confirmDialogs</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">Mostra i dialoghi di conferma</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-183889775">
+        <source>Settings.confirmDialogsHint</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">Mostra i dialoghi di conferma per il saccheggio delle regioni e le carte da gioco in una battaglia.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-798348899">
+        <source>Settings.language</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">Lingua</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2032850856">
+        <source>Settings.languageHint</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">Cambia la tua lingua</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1172464506">
+        <source>Settings.language_en_US</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">Inglese</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1791686463">
+        <source>Settings.language_de_DE</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">Tedesco</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1206223269">
+        <source>Settings.language_fr_FR</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">Francese</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="944100217">
+        <source>Settings.language_es_ES</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">Spagnolo</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-433762967">
+        <source>Settings.language_it_IT</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">Italiano</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1615235293">
+        <source>Settings.SimpleMap</source>
+        <target xml:lang="it-IT">Mappa semplificata</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-264447648">
+        <source>Settings.SimpleMapHint</source>
+        <target xml:lang="it-IT">Riduce la quantità di oggetti 3d ambientali.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1706545348">
+        <source>Settings.defaultPlayerBoardState.title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">Stato del tabellone standard del giocatore</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-250612657">
+        <source>Settings.defaultPlayerBoardState.hint</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">Definisce se il tabellone dei giocatori è aperto o ridotto al minimo per impostazione predefinita.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1301915722">
+        <source>Settings.defaultPlayerBoardState.open</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">Aprire</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="60881838">
+        <source>Settings.defaultPlayerBoardState.minimized</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2">Ridotto al minimo</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

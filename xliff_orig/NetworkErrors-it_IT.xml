@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en-US" target-language="it-IT" datatype="plaintext" original="not.available">
+    <body>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-410285275">
+        <source>NetworkError.HostCouldNotStartMatch.Title</source>
+        <target xml:lang="it-IT" state="translated">Incapace di iniziare il gioco</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2028994334">
+        <source>NetworkError.HostCouldNotStartMatch.Content</source>
+        <target xml:lang="it-IT" state="translated">Non ha potuto iniziare il gioco. Si prega di riprovare più tardi.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="252828561">
+        <source>NetworkError.HostTryToStartMatch.Title</source>
+        <target xml:lang="it-IT" state="translated">Cerco di iniziare a giocare. {0} di 5 tentativi</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="59199876">
+        <source>NetworkError.HostTryToStartMatch.Content</source>
+        <target xml:lang="it-IT" state="translated">Si è verificato un errore di comunicazione. Prova a ricominciare il gioco.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-985518292">
+        <source>NetworkError.ClientCouldNotStartMatch.Title</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Il gioco non è iniziato</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-844706459">
+        <source>NetworkError.ClientCouldNotStartMatch.Content</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Sembra che il vostro padrone di casa non sia riuscito a iniziare la partita. Lascia la sala giochi.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1860113537">
+        <source>NetworkInfo.PrepareToStartMatch.Title</source>
+        <target xml:lang="it-IT" state="translated">Iniziare il gioco</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1327383158">
+        <source>NetworkInfo.PrepareToStartMatch.Content</source>
+        <target xml:lang="it-IT" state="translated">Tutti i giocatori si sono uniti. Inizio del gioco.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

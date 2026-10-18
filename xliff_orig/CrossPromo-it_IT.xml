@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en-US" target-language="it-IT" datatype="plaintext" original="not.available">
+    <body>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1172901029">
+        <source>CrossPromo.button.boardgame</source>
+        <target xml:lang="it-IT">Giochi da tavolo</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1868587943">
+        <source>CrossPromo.button.comingsoon</source>
+        <target xml:lang="it-IT">In arrivo</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1988584220">
+        <source>CrossPromo.button.learnmore</source>
+        <target xml:lang="it-IT">Scopri di più</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2041946097">
+        <source>CrossPromo.button.moregames</source>
+        <target xml:lang="it-IT">Altri giochi</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="780632933">
+        <source>CrossPromo.button.playnow</source>
+        <target xml:lang="it-IT">Gioca Ora</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1368983527">
+        <source>CrossPromo.close</source>
+        <target xml:lang="it-IT">Esci</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1872027130">
+        <source>CrossPromo.ourothergamestitle</source>
+        <target xml:lang="it-IT">Scopri i nostri altri giochi</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-268175122">
+        <source>CrossPromo.tab.board</source>
+        <target xml:lang="it-IT">Giochi da tavolo</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="378442332">
+        <source>CrossPromo.tab.family</source>
+        <target xml:lang="it-IT">Famiglia</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1827749158">
+        <source>CrossPromo.tab.featured</source>
+        <target xml:lang="it-IT">In evidenza</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-263963448">
+        <source>CrossPromo.tab.gamer</source>
+        <target xml:lang="it-IT">Avanzate</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,10 @@
+{
+"NetworkError.HostCouldNotStartMatch.Title": "无法开始游戏",
+"NetworkError.HostCouldNotStartMatch.Content": "无法开始游戏。请稍后再试。",
+"NetworkError.HostTryToStartMatch.Title": "正在尝试开始游戏。第 {0} 次（共 5 次）尝试",
+"NetworkError.HostTryToStartMatch.Content": "发生通信错误。请再次尝试开始游戏。",
+"NetworkError.ClientCouldNotStartMatch.Title": "游戏未开始",
+"NetworkError.ClientCouldNotStartMatch.Content": "看起来主机无法开始游戏。请离开游戏房间。",
+"NetworkInfo.PrepareToStartMatch.Title": "正在开始游戏",
+"NetworkInfo.PrepareToStartMatch.Content": "所有玩家已加入。游戏即将开始。"
+}

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en-US" target-language="it-IT" datatype="plaintext" original="not.available">
+    <body>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1486562811">
+        <source>gamelog.actionphase</source>
+        <target xml:lang="it-IT" state="needs-translation">È iniziata la fase di Azione.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1658551775">
+        <source>gamelog.callToBattle</source>
+        <target xml:lang="it-IT" state="needs-translation">{0} ha scelto di unirsi al combattimento a {1}.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1351351488">
+        <source>gamelog.discardCard</source>
+        <target xml:lang="it-IT" state="needs-translation">{0} ha scartato {1}.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1288453670">
+        <source>gamelog.draw</source>
+        <target xml:lang="it-IT" state="needs-translation">Il combattimento a {1} è terminato in pareggio.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1580820491">
+        <source>gamelog.godsgift</source>
+        <target xml:lang="it-IT" state="needs-translation">È iniziata la fase dei Doni degli dei.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1692720337">
+        <source>gamelog.invade</source>
+        <target xml:lang="it-IT" state="needs-translation">{0} ha invaso {1} con {2}.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1178164052">
+        <source>gamelog.invadeFjord</source>
+        <target xml:lang="it-IT" state="needs-translation">{0} ha invaso un fiordo con {2}.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2027765327">
+        <source>gamelog.move</source>
+        <target xml:lang="it-IT" state="needs-translation">{0} ha marciato con {1} da {2} a {3}.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-400027066">
+        <source>gamelog.pillage</source>
+        <target xml:lang="it-IT" state="needs-translation">{0} ha iniziato a saccheggiare {1}.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1691148268">
+        <source>gamelog.playCard</source>
+        <target xml:lang="it-IT" state="needs-translation">{0} ha giocato {1}.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="237709076">
+        <source>gamelog.playQuest</source>
+        <target xml:lang="it-IT" state="needs-translation">{0} ha giocato una carta impresa.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="964821567">
+        <source>gamelog.startplayer</source>
+        <target xml:lang="it-IT" state="needs-translation">{0} è il giocatore a iniziare.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="270982569">
+        <source>gamelog.turn</source>
+        <target xml:lang="it-IT" state="needs-translation">È il turno di {0}.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2012000310">
+        <source>gamelog.win</source>
+        <target xml:lang="it-IT" state="needs-translation">{0} ha vinto il combattimento a {1}.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1342823063">
+        <source>gamelog.discardPhase</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">È iniziata la fase di Scarto.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1160493479">
+        <source>gamelog.questPhase</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">È iniziata la fase delle Imprese.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1578314636">
+        <source>gamelog.ragnarokPhase</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Il Ragnarök sta arrivando!</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-446995887">
+        <source>gamelog.releaseValhallaPhase</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Miniature ritornate dal Valhalla.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1631489745">
+        <source>gamelog.repillage</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">{0} ha iniziato a saccheggiare {1}.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1770041338">
+        <source>gamelog.callToBattlePass</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">{0} ha rifiutato la Chiamata alle armi.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-437250593">
+        <source>gamelog.questFulfilled</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">{0} ha completato un'impresa ({1}).</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="5101065">
+        <source>gamelog.questFailed</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">{0} ha fallito in un'impresa ({1}).</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2116930362">
+        <source>gamelog.ragnarokWillHit</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Il Ragnarök colpirà {0}.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-703542370">
+        <source>gamelog.ragnarokHit</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Il Ragnarök ha distrutto {0}.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1965688651">
+        <source>gamelog.discardCards</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">{0} ha scartato: {1}.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-773842101">
+        <source>gamelog.stealValues</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">{0} ha ottenuto {1} {2} da {3} grazie a {4}.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1118328820">
+        <source>gamelog.gainedValues</source>
+        <target xml:lang="it-IT" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">{0} ha ottenuto {1} {2} grazie a {3}.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1426746804">
+        <source>gamelog.gainedMultipleValues</source>
+        <target xml:lang="it-IT" state="needs-translation">{0} ha ottenuto {1} Furia e {2} Gloria grazie a {3}.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-126037819">
+        <source>gamelog.payForAbility</source>
+        <target xml:lang="it-IT" state="needs-translation">{0} ha pagato {1} Furia per usare {2}.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-881083918">
+        <source>gamelog.discardAmount</source>
+        <target xml:lang="it-IT">{0} ha scartato {1} carte.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

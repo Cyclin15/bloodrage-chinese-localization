@@ -1,0 +1,19 @@
+{
+"Standard.Alert.Back": "Back",
+"Standard.Alert.Cancel": "Cancel",
+"Standard.Alert.Continue": "Continue",
+"Standard.Alert.No": "No",
+"Standard.Alert.Ok": "OK",
+"Standard.Alert.Skip": "Skip",
+"Standard.Alert.Yes": "Yes",
+"Standard.Error.MessageFormat": "An error just occurred: {0}",
+"Standard.Error.Title": "Error",
+"Standard.NbDays.Format": "{0} days",
+"Standard.NbDays.ShortFormat": "{0} d",
+"Standard.NbHours.Format": "{0} hours",
+"Standard.NbHours.ShortFormat": "{0} h",
+"Standard.NbMinutes.Format": "{0} minutes",
+"Standard.NbMinutes.ShortFormat": "{0} min",
+"Standard.NbSeconds.Format": "{0} seconds",
+"Standard.NbSeconds.ShortFormat": "{0} s"
+}

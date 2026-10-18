@@ -1,0 +1,665 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en-US" target-language="fr-FR" datatype="plaintext" original="not.available">
+    <body>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-348360057">
+        <source>brothers_in_arms_text</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">*Chaque paire de vos guerriers dans une province a une FOR totale de 3.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1795065144">
+        <source>brothers_in_arms_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Frères d’Armes</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="420785533">
+        <source>card_battle</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Bataille</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1075319859">
+        <source>card_clan</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Clan</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2123712320">
+        <source>card_leader</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Chef</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1522860171">
+        <source>card_monster</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Monstre</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1016889043">
+        <source>card_quest</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Quête</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1317277899">
+        <source>card_ship</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Drakkar</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1844523195">
+        <source>card_upgrade</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Amélioration</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-47966638">
+        <source>card_upgrade	</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Amélioration</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="591710701">
+        <source>card_warrior</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Guerrier</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1728706286">
+        <source>dark_elf_text</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Ce Monstre peut envahir Yggdrasil.
+* FOR 3 en Yggdrasil.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1677127655">
+        <source>dark_elf_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Elfe Sombre</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="319483470">
+        <source>dwarf_chieftain_text</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">*Ne coûte pas de Rage pour l’Amélioration ou pour l’Invasion.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-190165783">
+        <source>dwarf_chieftain_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Chef Nain</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2059601670">
+        <source>eternal_dragons_text</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Gagnez 12 Gloire quand l’un de vos Drakkars est détruit.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1023821561">
+        <source>eternal_dragons_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">DRAGONS ÉTERNELS</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1656091877">
+        <source>experts_in_arms_text</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Vos Guerriers ont désormais FOR 2.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-920908966">
+        <source>experts_in_arms_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Experts en Armes</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1795241159">
+        <source>fire_dragons_text</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Gagnez 8 Gloire quand l’un de vos Drakkars est détruit.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1047156520">
+        <source>fire_dragons_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Dragons de Feu</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1099223974">
+        <source>fire_giant_text</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Quand ce Monstre envahit une province, détruisez toutes les figurines ennemies non-Monstre qui s’y trouvent.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="850451625">
+        <source>fire_giant_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Géant de Feu</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1653916385">
+        <source>friggas_charm_text</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Les cartes Amélioration que vous jouez coûtent 1 Rage de moins.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-623924390">
+        <source>friggas_charm_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Charme de Frigga</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1878969894">
+        <source>friggas_domain_text</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Vous pouvez payer 1 Rage pour effectuer une Invasion avec n’importe laquelle de vos figurines se trouvant au Valhalla.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="713009019">
+        <source>friggas_domain_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">DOMAINE DE FRIGGA</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="118916710">
+        <source>friggas_grace_text</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Si votre Pillage est un succès, augmentez de 1 l’une de vos autres caractéristiques de clan.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-326246351">
+        <source>friggas_grace_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Grâce de Frigga</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1334502863">
+        <source>friggas_protection_text</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Vous pouvez payer 1 Rage pour prévenir la destruction d’une de vos figurines.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-395709422">
+        <source>friggas_protection_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Protection de Frigga</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1585516171">
+        <source>friggas_sacrifice_text</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Pour votre action, vous pouvez détruire 2 de vos figurines pour augmenter de 1 l’une de vos caractéristiques de clan.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1904849256">
+        <source>friggas_sacrifice_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">SACRIFICE DE FRIGGA</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="73640269">
+        <source>friggas_succor_text</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Quand vous effectuez une Invasion avec n’importe quelle figurine, vous pouvez envahir cette province avec un guerrier supplémentaire gratuitement.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1690173178">
+        <source>friggas_succor_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Secours de Frigga</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-672834048">
+        <source>frost_giant_text</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Si vous réussissez un Pillage avec ce Monstre, gagnez une deuxième fois la récompense de Pillage.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1721854675">
+        <source>frost_giant_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">GÉANT DU GIVRE</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1603747675">
+        <source>heimdalls_eye_text</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Vous pouvez jouer cette carte (et ajouter sa FOR) après que les cartes Bataille de tous les autres joueurs ont été révélées.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="945954630">
+        <source>heimdalls_eye_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">OEil d’Heimdall</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1615749345">
+        <source>heimdalls_gaze_text</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Vous pouvez jouer cette carte (et ajouter sa FOR) après que les cartes Bataille de tous les autres joueurs ont été révélées.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-450634450">
+        <source>heimdalls_gaze_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">REGARD D’HEIMDALL</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="688714211">
+        <source>heimdalls_sight_text</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Cette carte a la même valeur que la plus forte carte ennemie révélée.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1191991214">
+        <source>heimdalls_sight_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Vue d’Heimdall</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1201897833">
+        <source>heimdalls_watch_text</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Défaussez toutes les cartes révélées. Gagnez autant de Gloire que le total de +FOR révélé. 
+Puis jouez de nouvelles cartes.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-829477132">
+        <source>heimdalls_watch_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Veille d’Heimdall</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="987174399">
+        <source>leader_ref_text</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Invasion gratuite</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-34819760">
+        <source>leader_ref_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Chef</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-218235064">
+        <source>lokis_backstab_text</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Si vous perdez, volez 2 Gloire au vainqueur.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="835306801">
+        <source>lokis_backstab_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Traîtrise de Loki</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1325334666">
+        <source>lokis_blessing_text</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Si vous perdez une bataille, vous pouvez effectuer une Invasion gratuite avec un guerrier dans cette province.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1346630311">
+        <source>lokis_blessing_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Bénédiction de Loki</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-44798737">
+        <source>lokis_domain_text</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Gagnez 1 Gloire pour chacune de vos figurines de Retour du Valhalla.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1340209736">
+        <source>lokis_domain_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Domaine de Loki</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="970170705">
+        <source>lokis_dragons_text</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Gagnez 4 Gloire quand l’un de vos Drakkars est détruit.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="505751198">
+        <source>lokis_dragons_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Dragons de Loki</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-454787443">
+        <source>lokis_eminence_text</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Gagnez 2 Gloire pour chacune de vos figurines de retour du Valhalla.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-802984618">
+        <source>lokis_eminence_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Éminence de Loki</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-964825005">
+        <source>lokis_poison_text</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Si vous perdez, mettez toutes les cartes révélées du vainqueur dans votre main.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="157094932">
+        <source>lokis_poison_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">POISON DE LOKI</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1098905620">
+        <source>lokis_trickery_text</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Si vous perdez, volez 1 Rage au vainqueur.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1779550125">
+        <source>lokis_trickery_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Tromperie de Loki</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1882066119">
+        <source>lokis_wrath_text</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Gagnez 3 Gloire pour chacune de vos figurines de retour du Valhalla.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1442841066">
+        <source>lokis_wrath_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">COURROUX DE LOKI</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1706730171">
+        <source>lord_of_axes_text</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Si votre chef réussit un Pillage, augmentez de 1 l’une de vos caractéristiques de clan.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-629983796">
+        <source>lord_of_axes_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Seigneur des Haches</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-137057789">
+        <source>lord_of_hammers_text</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Si votre chef réussit un Pillage, vous pouvez le déplacer dans une province adjacente.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-924275018">
+        <source>lord_of_hammers_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Seigneur des Marteaux</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="308735320">
+        <source>lord_of_spears_text</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Si votre chef réussit un Pillage, augmentez de 1 toutes vos caractéristiques de clan.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-290915815">
+        <source>lord_of_spears_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">SEIGNEUR DES LANCES</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1479814635">
+        <source>masters_in_arms_text</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">*Chaque paire de vos guerriers dans une province a une FOR totale de 6.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-372311336">
+        <source>masters_in_arms_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">MAÎTRES D’ARMES</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1325549974">
+        <source>odins_inspiration_text</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Doublez la Gloire que vous recevez lorsque vous mourez durant le Ragnarök.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1494117937">
+        <source>odins_inspiration_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Inspiration d’Odin</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1921167">
+        <source>odins_judgement_text</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Gagnez 2 Gloire pour chaque figurine détruite dans cette bataille (y compris les vôtres).</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1959875350">
+        <source>odins_judgement_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">JUGEMENT D’ODIN</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-50898586">
+        <source>odins_smite_text</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Détruisez un guerrier de chaque adversaire dans cette province avant de comparer les FOR.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1940904087">
+        <source>odins_smite_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Frappe d’Odin</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1953834580">
+        <source>odins_throne_text</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Doublez la Gloire que vous recevez pour les Quêtes que vous accomplissez.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-643045579">
+        <source>odins_throne_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">TRÔNE D’ODIN</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="595934686">
+        <source>odins_tide_text</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Avant de comparer les FOR, chaque joueur choisit et détruit toutes les figurines qu’il contrôle dans cette bataille, sauf une.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1160602793">
+        <source>odins_tide_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Flux d’Odin</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="642268575">
+        <source>quest_alfheim_condition</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Avoir le plus de FOR dans au moins une province d’Alfheim (grises).</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-390481983">
+        <source>quest_alfheim_text</source>
+        <target xml:lang="fr-FR" state="translated">Si la Quête est accomplie, augmentez de 1 l’une de vos caractéristiques de clan.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="995149382">
+        <source>quest_alfheim_title</source>
+        <target xml:lang="fr-FR" state="translated">Alfheim !</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="646227648">
+        <source>quest_glorious_death_condition</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Avoir au moins 4 figurines au Valhalla (avant le Ragnarök).</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-397273780">
+        <source>quest_glorious_death_text</source>
+        <target xml:lang="fr-FR" state="translated">Si la Quête est accomplie, augmentez de 1 l’une de vos caractéristiques de clan.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="499820787">
+        <source>quest_glorious_death_title</source>
+        <target xml:lang="fr-FR" state="translated">Mort Glorieuse !</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="893822022">
+        <source>quest_jotunheim_condition</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Avoir le plus de FOR dans au moins une province de Jotunheim (bleues).</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-497228098">
+        <source>quest_jotunheim_text</source>
+        <target xml:lang="fr-FR" state="translated">Si la Quête est accomplie, augmentez de 1 l’une de vos caractéristiques de clan.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="115072617">
+        <source>quest_jotunheim_title</source>
+        <target xml:lang="fr-FR" state="translated">Jotunheim !</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="95863276">
+        <source>quest_manheim_condition</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Avoir le plus de FOR dans au moins une province de Manheim (jaunes).</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="272476348">
+        <source>quest_manheim_text</source>
+        <target xml:lang="fr-FR" state="translated">Si la Quête est accomplie, augmentez de 1 l’une de vos caractéristiques de clan.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-802125847">
+        <source>quest_manheim_title</source>
+        <target xml:lang="fr-FR" state="translated">Manheim !</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-248064733">
+        <source>quest_widespread_condition</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Avoir le plus de FOR dans au moins 2 provinces différentes.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-640444327">
+        <source>quest_widespread_text</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Si la Quête est accomplie, augmentez de 1 l’une de vos caractéristiques de clan.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1170613312">
+        <source>quest_widespread_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Conquérant !</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="165818221">
+        <source>quest_yggdrasil_condition</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Avoir le plus de FOR en Yggdrasil.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-16512361">
+        <source>quest_yggdrasil_text</source>
+        <target xml:lang="fr-FR" state="translated">Si la Quête est accomplie, augmentez de 1 l’une de vos caractéristiques de clan.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1912573772">
+        <source>quest_yggdrasil_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Yggdrasil !</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1065303549">
+        <source>sea_serpent_text</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Ce Monstre compte comme un Drakkar.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="31141784">
+        <source>sea_serpent_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Serpent de Mer</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1324513380">
+        <source>ship_ref_text</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Invasion de fjords uniquement
+Ni Marche, ni déplacement</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1557554565">
+        <source>ship_ref_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Drakkar</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1627816444">
+        <source>soldier_of_hel_text</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">*Ne coûte pas de Rage pour l’Amélioration ou pour l’Invasion.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-893818419">
+        <source>soldier_of_hel_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">SOLDAT DE HEL</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1105414146">
+        <source>thors_ascension_text</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Si vous remportez cette bataille, gagnez 3 Rage et 3 Gloire.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1137276179">
+        <source>thors_ascension_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">ASCENSION DE THOR</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2070880087">
+        <source>thors_conquest_text</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Gagnez 3 Gloire pour chacune de vos figurines sur le plateau à la fin de la partie.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2037322990">
+        <source>thors_conquest_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">CONQUÊTE DE THOR</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1396023199">
+        <source>thors_domain_text</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Après l’Invasion d’une province, vous pouvez payer 2 Rage pour tenter de la piller immédiatement.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1368922480">
+        <source>thors_domain_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Domaine de Thor</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1435356768">
+        <source>thors_glory_text</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Gagnez 2 Gloire à chaque fois qu’au moins 2 figurines ennemies sont détruites lors d’une bataille à laquelle vous participez.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1046401933">
+        <source>thors_glory_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Gloire de Thor</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-506026371">
+        <source>thors_hammer_text</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Gagnez 3 Gloire si vous remportez cette bataille.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1252237058">
+        <source>thors_hammer_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Marteau de Thor</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="254912945">
+        <source>thors_oath_text</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Si vous remportez cette bataille, augmentez de 1 l’une de vos caractéristiques de clan.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1310627368">
+        <source>thors_oath_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Serment de Thor</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1029235174">
+        <source>thors_primacy_text</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Annulez le texte des cartes révélées par chaque autre adversaire avant qu’il ne fasse effet.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1376680391">
+        <source>thors_primacy_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">SUPRÉMATIE DE THOR</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-739463993">
+        <source>troll_text</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Quand ce Monstre envahit une province, détruisez tous les guerriers ennemis qui s’y trouvent.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-344975812">
+        <source>troll_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Troll</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1304283497">
+        <source>tyrs_bash_text</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation" />
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="151295460">
+        <source>tyrs_bash_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Choc de Tyr</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1379763182">
+        <source>tyrs_challenge_text</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Pour votre action, vous pouvez payer 2 Rage pour « re-piller » une province déjà pillée.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="505755051">
+        <source>tyrs_challenge_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Défi de Tyr</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1479375772">
+        <source>tyrs_crush_text</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation" />
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="319158027">
+        <source>tyrs_crush_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Pilon de Tyr</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="680492885">
+        <source>tyrs_domain_text</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Après avoir révélé une carte Quête en bataille, vous pouvez la traiter comme une carte Bataille +3.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1722791138">
+        <source>tyrs_domain_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Domaine de Tyr</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="311064896">
+        <source>tyrs_judgement_text</source>
+        <target xml:lang="fr-FR" state="needs-translation" />
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1169355129">
+        <source>tyrs_judgement_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Jugement de Tyr</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-250084618">
+        <source>tyrs_prowess_text</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Si vous remportez une bataille, vous pouvez garder n’importe lesquelles de vos cartes révélées en payant 1 Rage pour chaque.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-720104481">
+        <source>tyrs_prowess_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Prouesse de Tyr</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="125080696">
+        <source>tyrs_rage_text</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation" />
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="814033789">
+        <source>tyrs_rage_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Rage de Tyr</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="528010313">
+        <source>tyrs_smash_text</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation" />
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-526942072">
+        <source>tyrs_smash_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Fracas de Tyr</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1745140503">
+        <source>tyrs_smite_text</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation" />
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-227270840">
+        <source>tyrs_smite_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Frappe de Tyr</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-739975483">
+        <source>tyrs_wrath_text</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Après avoir révélé une carte Quête en bataille, vous pouvez la traiter comme une carte Bataille +5.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1047182748">
+        <source>tyrs_wrath_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">COURROUX DE TYR</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-282549083">
+        <source>valkyrie_text</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Gagnez 2 Gloire pour chaque figurine ennemie détruite dans une bataille avec ce Monstre.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-984416026">
+        <source>valkyrie_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Valkyrie</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="53908766">
+        <source>volur_witch_text</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Peut battre en retraite d’une province extérieure vers Yggdrasil au lieu d’être détruite.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="259704307">
+        <source>volur_witch_title</source>
+        <target xml:lang="fr-FR">Sorcière Völur</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1936084764">
+        <source>warrior_ref_text</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation" />
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1153779879">
+        <source>warrior_ref_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Guerrier</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1511467075">
+        <source>friggas_chosen_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">L’Élu de Frigga</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1336492172">
+        <source>friggas_chosen_text</source>
+        <target xml:lang="fr-FR">Ajoutez 1 Augure à votre réserve.
+Vos Augures peuvent battre en retraite dans une province extérieure adjacente au lieu d‘être détruits.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-515784381">
+        <source>odins_chosen_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">L’Élu d’Odin</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1423697252">
+        <source>odins_chosen_text</source>
+        <target xml:lang="fr-FR">Ajoutez 1 Augure à votre réserve.
+Vos Augures peuvent effectuer une Invasion d’un village occupépar un guerrier ou un Augure, détruisant ladite figurine.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="593448814">
+        <source>thors_chosen_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">L’Élu de Thor</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-601637785">
+        <source>thors_chosen_text</source>
+        <target xml:lang="fr-FR">Ajoutez 1 Augure à votre réserve.
+A chaque fois que vous remportez une bataille, vous gagnez 3 Gloire pour chacun de vos Augures ayant participé.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1169078296">
+        <source>card_mystic</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">Augure</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1991749089">
+        <source>mystic_text</source>
+        <target xml:lang="fr-FR">Invasion gratuite.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1401520283">
+        <source>card_mystic_type</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">Référence</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2047744308">
+        <source>mystic_wolf</source>
+        <target xml:lang="fr-FR">Augure du Clan Loup</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2032413374">
+        <source>mystic_bear</source>
+        <target xml:lang="fr-FR">Augure du Clan Ours</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1006532462">
+        <source>mystic_raven</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">Augure du Clan Corbeau</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="57621405">
+        <source>mystic_serpent</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">Augure du Clan Serpent</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1237502800">
+        <source>mystic_ram</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">Augure du Clan Bélier</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="367349883">
+        <source>mystic_stag</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">Augure du Clan Cerf</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2032413448">
+        <source>mystic_boar</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">Augure du Clan Sanglier</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en-US" target-language="en-US" datatype="plaintext" original="not.available">
+    <body>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1190794356">
+        <source>SelectAllButton.Header</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">Select all</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1315209724">
+        <source>OriginalKickstartMonster.Header</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">Original KS Exclusives</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1518648477">
+        <source>DigitalKickstarterMonsters.Header</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">Digital KS Exclusives</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1294795293">
+        <source>MysticMonsterDLC.Header</source>
+        <target xml:lang="en-US">Mythical Monsters</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="551881377">
+        <source>MysticMonsterDLC.Text</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">Ready to unleash Mythical Monsters on Midgard? Will they do your bidding, or that of your opponents?</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-224257421">
+        <source>MysticMonsterDLC.InfoText</source>
+        <target xml:lang="en-US">You can use some or all of the mystical monsters from the Kickstarter. You can also mix old and new monsters.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1342615287">
+        <source>MysticMonsterDLC.ChooseButton</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">Choose</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

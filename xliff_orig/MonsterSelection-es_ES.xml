@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en-US" target-language="es-ES" datatype="plaintext" original="not.available">
+    <body>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1190794356">
+        <source>SelectAllButton.Header</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Seleccione todos.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1315209724">
+        <source>OriginalKickstartMonster.Header</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Exclusivas originales de KS</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1518648477">
+        <source>DigitalKickstarterMonsters.Header</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Exclusivas de KS Digital</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1294795293">
+        <source>MysticMonsterDLC.Header</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Monstruos místicos</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="551881377">
+        <source>MysticMonsterDLC.Text</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">¿Listo para desatar monstruos míticos en Midgard? ¿Cumplirán tus órdenes o las de tus oponentes?</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-224257421">
+        <source>MysticMonsterDLC.InfoText</source>
+        <target xml:lang="es-ES" state="translated">Puedes usar algunos o todos los monstruos místicos del Kickstarter. También puedes mezclar viejos y nuevos monstruos.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1342615287">
+        <source>MysticMonsterDLC.ChooseButton</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Elija</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

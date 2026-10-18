@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en-US" target-language="fr-FR" datatype="plaintext" original="not.available">
+    <body>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-986377663">
+        <source>tutorial.buttonContinue</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">继续</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2124388975">
+        <source>tutorial.buttonNext</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">继续</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1264117737">
+        <source>tutorial.buttonSkip</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">跳过</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1828392709">
+        <source>tutorial.chapter</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">章节</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="213032170">
+        <source>tutorial.chapter01.headline</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">游戏目标</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="89861591">
+        <source>tutorial.chapter01.step01.headline</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">学习游戏</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1235392235">
+        <source>tutorial.chapter01.step01.text01</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">在本教程中，你将学习如何游玩《血怒》，以及如何操作这款数字版游戏。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1638676762">
+        <source>tutorial.chapter01.step01.text02</source>
+        <target xml:lang="fr-FR">本教程的顺序与实际游戏的流程并不完全一致。教程会循序渐进地引入各种概念，让游戏尽可能容易上手。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="90979800">
+        <source>tutorial.chapter01.step02.headline</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">胜利条件</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1235358540">
+        <source>tutorial.chapter01.step02.text01</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">在《血怒》中，玩家通过收集荣耀来一决胜负。游戏结束时，荣耀最多的玩家获胜。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1638643067">
+        <source>tutorial.chapter01.step02.text02</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">你可以通过赢得战斗、进行掠夺、为诸神完成任务，以及在战斗中英勇战死来获得荣耀。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="92093913">
+        <source>tutorial.chapter01.step03.headline</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">三个时代</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1235324717">
+        <source>tutorial.chapter01.step03.text01</source>
+        <target xml:lang="fr-FR">游戏分为三个时代进行，每个时代包含 2 个主要阶段：
+
+诸神馈赠阶段：玩家为即将到来的时代轮抽卡牌
+行动阶段：玩家消耗怒气来执行各种行动</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="745252520">
+        <source>tutorial.chapter01.step04.imageHeadline01</source>
+        <target xml:lang="fr-FR">三个时代</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="745252519">
+        <source>tutorial.chapter01.step04.imageHeadline02</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">诸神馈赠（轮抽）</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="745252518">
+        <source>tutorial.chapter01.step04.imageHeadline03</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">行动阶段</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="745252525">
+        <source>tutorial.chapter01.step04.imageHeadline04</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">弃牌阶段</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="745252524">
+        <source>tutorial.chapter01.step04.imageHeadline05</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">任务阶段</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="745252523">
+        <source>tutorial.chapter01.step04.imageHeadline06</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">诸神黄昏</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="745252522">
+        <source>tutorial.chapter01.step04.imageHeadline07</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">释放瓦尔哈拉</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1922141977">
+        <source>tutorial.chapter02.headline</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">入侵</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1121902914">
+        <source>tutorial.chapter02.quest01</source>
+        <target xml:lang="fr-FR">用你的首领入侵埃尔瓦加</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="444181027">
+        <source>tutorial.chapter02.quest02</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">用一名战士入侵埃尔瓦加</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-945430862">
+        <source>tutorial.chapter02.step01.headline</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">入侵</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="472326">
+        <source>tutorial.chapter02.step01.text01</source>
+        <target xml:lang="fr-FR">把单位放上棋盘的唯一方式就是让他们入侵。入侵是指把一个单位从你的后备区放到棋盘上除世界树以外的任意区域。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-944312653">
+        <source>tutorial.chapter02.step02.headline</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">村庄</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="506021">
+        <source>tutorial.chapter02.step02.text01</source>
+        <target xml:lang="fr-FR">棋盘上每个区域由三到五个村庄组成。区域中只有村庄可以被占领，且每个村庄只能容纳一个单位。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-943198540">
+        <source>tutorial.chapter02.step03.headline</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">放置单位与怒气</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="539844">
+        <source>tutorial.chapter02.step03.text01</source>
+        <target xml:lang="fr-FR">放置单位需要消耗与其战力等量的怒气。怒气是你在《血怒》中的“货币”；一旦怒气耗尽，你在本时代剩余的时间里都无法再行动。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="403824371">
+        <source>tutorial.chapter02.step03.text02</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">这条规则有一个例外——你的首领。你随时都可以免费使用首领入侵。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-951288403">
+        <source>tutorial.chapter02.step04.headline</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">单位上限</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="303467">
+        <source>tutorial.chapter02.step04.text01</source>
+        <target xml:lang="fr-FR">你的氏族三项属性之一是“角”。“角”决定了你能在棋盘上同时拥有多少单位。提升它来壮大你的军队吧！</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="403587994">
+        <source>tutorial.chapter02.step04.text02</source>
+        <target xml:lang="fr-FR">只要你的“角”足够，一个时代内你最多可以放置 1 名首领、8 名战士和 1 艘长船。如果单位死亡，你必须等到下一个时代才能重新使用它。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-950174290">
+        <source>tutorial.chapter02.step05.headline</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">怒气 &amp; 玩家回合</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="337290">
+        <source>tutorial.chapter02.step05.text01</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">一旦怒气耗尽，你就无法再执行任何行动，即使是消耗 0 怒气的行动（如掠夺）也不行。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2065468921">
+        <source>tutorial.chapter02.task01</source>
+        <target xml:lang="fr-FR">点击高亮的村庄</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2065468918">
+        <source>tutorial.chapter02.task02</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">选择首领</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2065468919">
+        <source>tutorial.chapter02.task03</source>
+        <target xml:lang="fr-FR">点击埃尔瓦加中剩余的任意一个村庄</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2065468916">
+        <source>tutorial.chapter02.task04</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">选择战士</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-746323020">
+        <source>tutorial.chapter03.headline</source>
+        <target xml:lang="fr-FR">掠夺</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2033239027">
+        <source>tutorial.chapter03.step01.headline</source>
+        <target xml:lang="fr-FR">掠夺 &amp; 战斗</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="495441419">
+        <source>tutorial.chapter03.step01.text01</source>
+        <target xml:lang="fr-FR">掠夺既能赢得荣耀，也能提升你的氏族属性。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2032120818">
+        <source>tutorial.chapter03.step02.headline</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">属性提升</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="495475114">
+        <source>tutorial.chapter03.step02.text01</source>
+        <target xml:lang="fr-FR">每次成功掠夺，你都会获得该地区的掠夺奖励，使三项属性（怒气、斧、角）之一得到提升。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2061559055">
+        <source>tutorial.chapter03.step02.text02</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">游戏中有一个区域不会给你属性提升，而是立即让你的荣耀增加 5 点。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-667324300">
+        <source>tutorial.chapter03.step02.text03</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">掠夺世界树会给你丰厚得多的奖励：你可以将全部三项属性各提升 1 点。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2031006705">
+        <source>tutorial.chapter03.step03.headline</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">玩家战力</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="495508937">
+        <source>tutorial.chapter03.step03.text01</source>
+        <target xml:lang="fr-FR">判断战斗胜算的一个快捷方法，是评估区域内所有参战方的战力。只需将鼠标悬停在该区域上即可查看。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="42160313">
+        <source>tutorial.chapter03.step04.quest01</source>
+        <target xml:lang="fr-FR">在埃尔瓦加发起掠夺</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1028855214">
+        <source>tutorial.chapter03.step04.task01</source>
+        <target xml:lang="fr-FR">查看埃尔瓦加的玩家战力
+</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2037982455">
+        <source>tutorial.chapter03.step05.headline</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">战斗号召</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="495306383">
+        <source>tutorial.chapter03.step05.text01</source>
+        <target xml:lang="fr-FR">当一名玩家宣布要掠夺某个区域后，其他玩家如果愿意，可以加入战斗。他们可以把一个单位从相邻区域移动到被掠夺区域的一个空村庄中。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2061390324">
+        <source>tutorial.chapter03.step05.text02</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">一旦该区域的所有村庄都被占领，或者没有其他人想加入，战斗就会开始。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-667493031">
+        <source>tutorial.chapter03.step05.text03</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">注意：世界树没有村庄，因此任意数量的单位都可以在那里加入战斗。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2036864246">
+        <source>tutorial.chapter03.step06.headline</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">战力 &amp; 卡牌</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="495340078">
+        <source>tutorial.chapter03.step06.text01</source>
+        <target xml:lang="fr-FR">每名参战玩家必须从手牌中选择一张卡牌，然后所有卡牌同时翻开。翻开战斗卡的玩家会触发其效果，并为其参战单位的总战力加上“+战力”加成。如果玩家翻开的是升级卡、怪物卡或任务卡，则不产生任何效果。
+某些特殊的战斗卡甚至可以在所有玩家翻开卡牌之后使用。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2061424019">
+        <source>tutorial.chapter03.step06.text02</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">某些特殊的战斗卡可以在玩家翻开卡牌之后继续增加你部队的战力。这些特殊卡牌的战力加成标注在白色实心圆盘上，卡牌文字中会说明它们可以在卡牌翻开之后、胜负判定之前使用（它们也可以正常使用）。掠夺玩家优先有机会使用这类特殊卡牌增加战力，然后沿桌面顺时针方向依次进行，直到没有人再想出牌为止。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="45705208">
+        <source>tutorial.chapter03.step07.quest01</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">赢得战斗！</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1028753803">
+        <source>tutorial.chapter03.step07.task01</source>
+        <target xml:lang="fr-FR">双击“提尔的打击”将其打出</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2043266028">
+        <source>tutorial.chapter03.step08.headline</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">卡牌的损失</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="495120628">
+        <source>tutorial.chapter03.step08.text01</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">战斗的胜者（如果有）必须弃掉自己打出的所有卡牌。战斗的败者则把自己打出的所有卡牌收回手牌。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2042151915">
+        <source>tutorial.chapter03.step09.headline</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">斧 &amp; 荣耀</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="495154451">
+        <source>tutorial.chapter03.step09.text01</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">战斗的胜者会获得荣耀，无论他是否是发起掠夺的玩家。获得的荣耀点数等于其当前的“斧”属性值，如玩家栏中所示。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1930396049">
+        <source>tutorial.chapter03.step10.headline</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">属性提升</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="131410183">
+        <source>tutorial.chapter03.step10.text01</source>
+        <target xml:lang="fr-FR">在前面讲掠夺时，我们也提到了属性提升：
+
+更多的怒气让你能执行更多行动
+更多的斧让你每赢得一场战斗就能获得更多荣耀
+更多的角让你能部署更多单位
+
+游戏结束时，根据你的属性提升幅度，你还会额外获得 +10 或 +20 荣耀。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="534694710">
+        <source>tutorial.chapter03.step10.text02</source>
+        <target xml:lang="fr-FR">游戏中，你随时可以将鼠标悬停在自己的玩家属性上显示轨道，查看你目前的进度。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1918804492">
+        <source>tutorial.chapter03.step11.description</source>
+        <target xml:lang="fr-FR">点击战斗总结按钮</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1931510162">
+        <source>tutorial.chapter03.step11.headline</source>
+        <target xml:lang="fr-FR">打开战斗总结</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1163039665">
+        <source>tutorial.chapter03.step12.description</source>
+        <target xml:lang="fr-FR">点击返回按钮</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1932628371">
+        <source>tutorial.chapter03.step12.headline</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">关闭总览</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="50227342">
+        <source>tutorial.chapter03.step13.description</source>
+        <target xml:lang="fr-FR">点击继续按钮</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1933742484">
+        <source>tutorial.chapter03.step13.headline</source>
+        <target xml:lang="fr-FR">关闭战斗护盾</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-703124906">
+        <source>tutorial.chapter05.headline</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">行军</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1947211371">
+        <source>tutorial.chapter05.step01.headline</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">行军</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="914094337">
+        <source>tutorial.chapter05.step01.text01</source>
+        <target xml:lang="fr-FR">当你命令部队行军时，需要支付 1 点怒气。选择一个区域，把任意数量的单位从该区域移动到另一个区域。两个区域不必相邻，目标区域可以是棋盘上的任何地方。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1033743366">
+        <source>tutorial.chapter05.step03.quest01</source>
+        <target xml:lang="fr-FR">将你的巨魔从安格尔波达行军到穆斯贝尔海姆</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1342489555">
+        <source>tutorial.chapter05.step03.task01</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">选择你的巨魔</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1745774082">
+        <source>tutorial.chapter05.step03.task02</source>
+        <target xml:lang="fr-FR">选择穆斯贝尔海姆中的一个村庄</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1965340091">
+        <source>tutorial.chapter04.headline</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">升级 &amp; 怪物</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1259947760">
+        <source>tutorial.chapter04.step01.headline</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">氏族升级</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="419125244">
+        <source>tutorial.chapter04.step01.text01</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">在本章中，我们将了解如何打出氏族升级卡。升级卡会赋予你的氏族特定的能力。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1982577664">
+        <source>tutorial.chapter04.step02.quest01</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">在升级槽中打出弗丽嘉的护符</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1129811703">
+        <source>tutorial.chapter04.step02.task01</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">把卡牌拖 &amp; 放到空的升级槽中</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1265805301">
+        <source>tutorial.chapter04.step04.headline</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">怪物卡</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="418956385">
+        <source>tutorial.chapter04.step04.text01</source>
+        <target xml:lang="fr-FR">怪物是拥有强大能力的独特单位，能够极大地改变游戏的走向。打出怪物卡后，该怪物在接下来的游戏中就归你所有，算作你的单位之一，但你同时最多只能拥有 2 个怪物。
+
+怪物被视为普通单位，因此它们可以入侵、死亡、在下一个时代回到你的后备区，或在诸神黄昏阶段为你赢得荣耀。如果你为了在升级槽中放置新怪物而弃掉一张怪物卡，旧怪物将从游戏中移除。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1976939583">
+        <source>tutorial.chapter04.step05.quest01</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">打出巨魔</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1129642778">
+        <source>tutorial.chapter04.step05.task01</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">从手牌中选择巨魔卡并放入怪物槽</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1129710428">
+        <source>tutorial.chapter04.step07.task01</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">把巨魔放置到安格尔波达</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1269974761">
+        <source>tutorial.chapter04.step08.headline</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">无抵抗掠夺</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="418804453">
+        <source>tutorial.chapter04.step08.text01</source>
+        <target xml:lang="fr-FR">当你占领了某个区域的所有村庄，或者没有人响应你的战斗号召来阻拦你时，你就会进行一次无抵抗掠夺。这是一种轻松获得属性提升的方式：既没有战败的风险，也不需要打出卡牌来取胜，但作为奖励，你也不会获得任何荣耀。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1972187451">
+        <source>tutorial.chapter04.step09.quest01</source>
+        <target xml:lang="fr-FR">掠夺穆斯贝尔海姆</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1129490318">
+        <source>tutorial.chapter04.step09.task01</source>
+        <target xml:lang="fr-FR">点击穆斯贝尔海姆横幅</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="873906442">
+        <source>tutorial.chapter04.step10.headline</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">获得怒气</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="882794306">
+        <source>tutorial.chapter04.step10.text01</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">虽然你获得了怒气，但这只是提升了你的怒气属性——也就是说，你并不会立即获得更多可在这个回合使用的怒气。这次提升要到新的一回合开始时才会生效。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1005984901">
+        <source>tutorial.chapter06.headline</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">任务</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="911918918">
+        <source>tutorial.chapter06.step01.headline</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">任务卡</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2145008398">
+        <source>tutorial.chapter06.step01.text01</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">打出任务卡不需要消耗怒气。只需把卡牌放到任务卡槽中，然后在当前时代努力完成任务，即可收获奖励。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1741723871">
+        <source>tutorial.chapter06.step01.text02</source>
+        <target xml:lang="fr-FR">你可以打出的任务卡数量没有上限，也可以打出多张同名卡牌。任务失败不会受到任何惩罚。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-16905974">
+        <source>tutorial.chapter06.step02.quest01</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">放置你的任务卡</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-869671935">
+        <source>tutorial.chapter06.step02.task01</source>
+        <target xml:lang="fr-FR">把任务卡拖 &amp; 放到任务卡槽中</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="914151240">
+        <source>tutorial.chapter06.step03.headline</source>
+        <target xml:lang="fr-FR">完成任务</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2144940880">
+        <source>tutorial.chapter06.step03.text01</source>
+        <target xml:lang="fr-FR">完成任务既是获得额外荣耀、也是提升氏族属性的好方法。为此你需要达成特定的目标（例如：在属于特定地区的区域中拥有最高战力）。当心！如果某些区域已经被摧毁，诸神黄昏可能会提高或降低特定区域的重要性。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1662480096">
+        <source>tutorial.chapter07.headline</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">长船 &amp; 峡湾</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-175889247">
+        <source>tutorial.chapter07.step01.headline</source>
+        <target xml:lang="fr-FR">长船 &amp; 峡湾</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1650039305">
+        <source>tutorial.chapter07.step01.text01</source>
+        <target xml:lang="fr-FR">长船只能放置在峡湾中。长船不能行军，每条峡湾被视为支援着与它相连的两个区域。任何作用于区域的效果也会作用于其支援的峡湾。每条峡湾可容纳的长船数量没有上限。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-967061297">
+        <source>tutorial.chapter07.step02.quest01</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">放置你的长船以掌控曼海姆</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-657027844">
+        <source>tutorial.chapter07.step02.task01</source>
+        <target xml:lang="fr-FR">点击埃尔瓦加 &amp; 安格尔波达之间的峡湾来放置你的长船</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1998814345">
+        <source>tutorial.chapter08.headline</source>
+        <target xml:lang="fr-FR">跳过</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="499952468">
+        <source>tutorial.chapter08.step01.headline</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">跳过</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1311006264">
+        <source>tutorial.chapter08.step01.text01</source>
+        <target xml:lang="fr-FR">如果你在某个时代中不想再做任何事情，即使你还有怒气，也可以选择跳过，不再参与当前时代的任何行动。跳过后你的怒气将降为 0，你也将无法再执行任何行动。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1745158676">
+        <source>tutorial.chapter08.step02.quest01</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">跳过你的回合</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1540954595">
+        <source>tutorial.chapter08.step02.task01</source>
+        <target xml:lang="fr-FR">点击时代横幅并跳过你的回合</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1187928760">
+        <source>tutorial.chapter08.step02.task02</source>
+        <target xml:lang="fr-FR">点击跳过回合</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-372312046">
+        <source>tutorial.chapter09.headline</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">时代结束</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-587855697">
+        <source>tutorial.chapter09.step01.headline</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">时代结束</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1805975357">
+        <source>tutorial.chapter09.step01.text01</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">每个时代结束时，游戏会依次进行若干特殊阶段。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-586737488">
+        <source>tutorial.chapter09.step02.headline</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">弃牌阶段</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1806009052">
+        <source>tutorial.chapter09.step02.text01</source>
+        <target xml:lang="fr-FR">首先，玩家必须将手牌弃至只剩一张。保留的卡牌不必属于当前时代，也可以是第一时代的卡牌。
+任何玩家都不能保留超过一张卡牌。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="796324378">
+        <source>tutorial.chapter09.step03.quest01</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">选择一张要保留的卡牌</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1753632447">
+        <source>tutorial.chapter09.step03.task01</source>
+        <target xml:lang="fr-FR">选择一张卡牌</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-593713238">
+        <source>tutorial.chapter09.step04.headline</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">任务阶段</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1805806498">
+        <source>tutorial.chapter09.step04.text01</source>
+        <target xml:lang="fr-FR">在这个阶段，游戏会检查是否有任务被完成，并为成功的任务发放奖励。
+你可以选择三项氏族属性之一进行提升。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="789365272">
+        <source>tutorial.chapter09.step05.quest01</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">选择角</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1753429761">
+        <source>tutorial.chapter09.step05.task01</source>
+        <target xml:lang="fr-FR">点击“角”的“+”
+然后点击确认</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-591480916">
+        <source>tutorial.chapter09.step06.headline</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">诸神黄昏阶段</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1805874016">
+        <source>tutorial.chapter09.step06.text01</source>
+        <target xml:lang="fr-FR">在这个阶段，注定毁灭的区域会被摧毁，其中以及相邻峡湾中的所有单位都会被送往瓦尔哈拉。玩家每有一个单位被消灭，就会获得一定数量的荣耀，具体数值取决于当前时代。
+注定毁灭的区域中的村庄会泛起金色的光芒作为标记。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-590366803">
+        <source>tutorial.chapter09.step07.headline</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">释放瓦尔哈拉</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1805907839">
+        <source>tutorial.chapter09.step07.text01</source>
+        <target xml:lang="fr-FR">现在，所有单位将从瓦尔哈拉释放，归还给它们的主人，在下一个时代再度降临米德加尔特，继续奋战！
+如果游戏中你想查看哪些单位已经进入了瓦尔哈拉，可以打开瓦尔哈拉菜单</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="783292115">
+        <source>tutorial.chapter09.step08.quest01</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">打开瓦尔哈拉菜单</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1753243540">
+        <source>tutorial.chapter09.step08.task01</source>
+        <target xml:lang="fr-FR">点击右上角的瓦尔哈拉横幅</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="784613140">
+        <source>tutorial.chapter09.step09.quest01</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">关闭瓦尔哈拉菜单</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1753277301">
+        <source>tutorial.chapter09.step09.task01</source>
+        <target xml:lang="fr-FR">浏览一下条目，然后再次点击瓦尔哈拉横幅</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1376704400">
+        <source>tutorial.chapter10.headline</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">诸神的馈赠</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2004211835">
+        <source>tutorial.chapter10.step01.headline</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">诸神馈赠阶段</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-273658895">
+        <source>tutorial.chapter10.step01.text01</source>
+        <target xml:lang="fr-FR">在这个阶段，玩家轮抽将在下一个时代使用的卡牌。每名玩家会收到若干张卡牌，选择一张保留，其余的传给下一位玩家。如此反复，直到每名玩家都选够六张卡牌。
+
+在第一和第二时代结束时，每名玩家可以从手牌中保留一张卡牌，其余的将被弃掉。
+请注意，游戏中可用的卡牌会根据玩家人数而有所不同。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-467231699">
+        <source>tutorial.chapter10.step02.quest01</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">选择你的第一张卡牌</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2080010260">
+        <source>tutorial.chapter10.step02.task01</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">选择弗丽嘉的护符</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2006444157">
+        <source>tutorial.chapter10.step03.headline</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">轮抽策略</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-273591377">
+        <source>tutorial.chapter10.step03.text01</source>
+        <target xml:lang="fr-FR">在游戏指南中，你可以找到轮抽策略的各种流派概览。这些流派能帮助你在对抗 AI 或其他玩家时发现并尝试高阶策略。有些卡牌简单易用，有些则更为复杂；不过，把它们运用得淋漓尽致正是《血怒》一半的乐趣所在。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-474190805">
+        <source>tutorial.chapter10.step04.quest01</source>
+        <target xml:lang="fr-FR">选择你的第二张卡牌</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2080212946">
+        <source>tutorial.chapter10.step04.task01</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">选择提尔的猛击</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1999468407">
+        <source>tutorial.chapter10.step05.headline</source>
+        <target xml:lang="fr-FR">结束教程</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-273793931">
+        <source>tutorial.chapter10.step05.text01</source>
+        <target xml:lang="fr-FR">虽然诸神馈赠阶段还没有结束，但我们的教程就到此为止了。我们建议你现在就开启一局属于自己的游戏，试着轮抽一手强力卡牌，与其他氏族一较高下！</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1612273416">
+        <source>tutorial.chapter10.step06.quest</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">选择你的卡牌</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2080145296">
+        <source>tutorial.chapter10.step06.task01</source>
+        <target xml:lang="fr-FR">选择任意一张卡牌</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="249797899">
+        <source>tutorial.chapter11.headline</source>
+        <target xml:lang="fr-FR">教程结束</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="916403670">
+        <source>tutorial.chapter11.step01.headline</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">教程结束</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="221310198">
+        <source>tutorial.chapter11.step01.text01</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">现在，你已经掌握了游玩《血怒》所需的全部知识。在游戏指南中，你不仅能找到游戏的全部规则，还能查看所有卡牌以及一些策略技巧。
+如果你想深入了解，不妨去看一看。最后，祝你游戏愉快！</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1958888332">
+        <source>tutorial.description</source>
+        <target xml:lang="fr-FR">在本教程中，你将学习游戏的玩法和操作方式。如果你无法一次学完，随时可以回来继续。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1365443498">
+        <source>tutorial.headline</source>
+        <target xml:lang="fr-FR">《血怒》游玩教程</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-81825658">
+        <source>tutorial.startButton</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">开始章节</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1700028141">
+        <source>tutorial.chapter03.step04.task02</source>
+        <target xml:lang="fr-FR">点击横幅以掠夺埃尔瓦加</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-83955364">
+        <source>tutorial.chapter07.step01.text02</source>
+        <target xml:lang="fr-FR">由于长船一旦放置就无法移动，你需要谨慎使用它们。
+长船比普通战士更强大（但也更昂贵），并且能同时影响两个相邻区域，因此长船可以成为掌控这些区域的重要手段。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1482128577">
+        <source>tutorial.chapter07.step01.text03</source>
+        <target xml:lang="fr-FR">但由于长船在两个相邻区域都可能被卷入战斗，稍不留神就很容易失去它。所以，好好考虑把这 2 点怒气花在哪里放置你的长船吧！</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

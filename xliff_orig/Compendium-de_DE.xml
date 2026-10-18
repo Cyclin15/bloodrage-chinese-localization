@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en-US" target-language="de-DE" datatype="plaintext" original="not.available">
+    <body>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="876823822">
+        <source>Compendium.Header</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Kompendium</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1318841199">
+        <source>Compendium.Tabnavigation.Cards</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Karten</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1469683901">
+        <source>Compendium.Tabnavigation.Rules</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Regeln</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-486571707">
+        <source>Compendium.Tabnavigation.Tactics</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Taktiken</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-131242434">
+        <source>Compendium.Rules.Objective.Header</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Ziel des Spiel</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="156764168">
+        <source>Compendium.Rules.Objective.Content</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Ziel des Spiels ist es, mit seinem Clan den meisten Ruhm gesammelt zu haben, wenn das Ende der Welt gekommen ist. Erringe mit deinem Clan Ruhm durch siegreiche Schlachten und Plünderungen sowie das Erfüllen von den Göttern gestellter Aufgaben und tapfere Tode im Kampf. Das Spiel verläuft über drei Zeitalter, während Ragnarök allmählich die Welt verschlingt. Wer nach Ablauf des letzten Zeitalters den meisten Ruhm gesammelt hat, gewinnt.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-301386039">
+        <source>Compendium.Rules.BaseConcepts.Header</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Grundlegendes</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1887547015">
+        <source>Compendium.Rules.BaseConcepts.GameBoard.Header</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Spielbrett</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1694132351">
+        <source>Compendium.Rules.BaseConcepts.GameBoard.Content</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Das Spielbrett von Blood Rage zeigt eine Karte des mythischen Landes, das Yggdrasil umgibt, den großen Baum, der die neun Welten miteinander verbindet. Dieses Land ist in neun Gebiete unterteilt. Das zentrale Gebiet ist Yggdrasil. Darum herum liegen acht Gebiete, die zu drei Regionen zusammengefasst sind: Manheim, Alfheim und Jotunheim. Gebiete mit einer gemeinsamen Grenze gelten als benachbart. (Yggdrasil ist zu allen anderen Ge-bieten benachbart.)
+In jedem Gebiet gibt es drei bis fünf Dörfer. Jedes Dorf bietet Platz für genau eine Spielfigur. In einem Gebiet können sich also maximal so viele Spielfiguren aufhalten, wie es dort Dörfer gibt. In Yggdrasil gibt es keine Dörfer, dort können sich beliebig viele Spielfiguren aufhalten.Außerdem zeigt die Landkarte vier Fjorde, die sich immer zwischen genau zwei Gebieten befinden. Von jedem Fjord aus können die beiden angrenzenden Gebiete unterstütztwerden. Jeder Effekt, der sich auf ein Gebiet bezieht, betrifft immer auch den angrenzenden Fjord. In einem Fjord können sich beliebig viele Schiffe aufhalten.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1375515412">
+        <source>Compendium.Rules.Glory.Header</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Ruhm</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="603095098">
+        <source>Compendium.Rules.Glory.Content</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Indem sie Ruhm sammeln, gewinnen Spieler in Blood Rage
+Wer am Ende des Spiels den meisten Ruhm besitzt, gewinnt das Spiel.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1900399408">
+        <source>Compendium.Rules.Rage.Header</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Wut</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-350052746">
+        <source>Compendium.Rules.Rage.Content</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Wut ist quasi die 'Währung' im Spiel. Wenn du Aktionen durchführst, 'bezahlst' du normalerweise in Wut. Deine Wut-Anzeige reduziert sich dann entsprechend und zeigt dir, wie viel Wut du noch übrig hast.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1966188874">
+        <source>Compendium.Rules.ClanStats.Header</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Clan-Werte</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1103332416">
+        <source>Compendium.Rules.ClanStats.Content</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Dein Wut-Wert sagt aus, wie viel Wut du am Anfang eines Zeitalters jeweils zur Verfügung hast. Mit mehr Wut kannst du mehr Aktionen durchführen.
+Der Äxte-Wert besagt, wie viel Ruhm du bekommst, wenn du Kämpfe gewinnst.
+Der Hörner-Wert entscheidet darüber, wie viele Figuren du gleichzeitig auf dem Brett haben kannst. Mit mehr Kriegern kannst du mehr kämpfen, mehr plündern und mehr Blut vergießen.
+Während des Spiels wirst du viele Gelegenheiten bekommen, deine Werte zu verbessern. Wenn du es schaffst, deine Werte in legendäre Höhen zu steigern, bekommst du mächtige Bonusse zu deinem Ruhm.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-983140160">
+        <source>Compendium.Rules.Figures.Header</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Figuren</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="25047570">
+        <source>Compendium.Rules.Figures.Content</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Jede deiner Figuren - Anführer, Schiff, Krieger und später Monster - hat eine Stärke (ST). Zu Beginn des Spieles sind diese Werte alle an der Spielerleiste erkennbar: Anführer haben ST 3, Schiffe ST 2 und Krieger ST 1. Eine starke Armee auf dem Brett zu haben ist sinnvoll, um Schlachten zu gewinnen und Aufgaben erfüllen zu können. Zusätzlich besitzen Anführer und Schiffe spezielle Fähigkeiten - diese werden bei einem Mouseover angezeigt.
+Im Spiel selbst hast du die Möglichkeit, deine Figuren durch Aufrüstungen zu verstärken, indem du entsprechende Karten auf deine Spielerleiste spielst. Auf den Karten siehst du dann die neuen ST-Werte und entsprechende Fähigkeiten. Bitte beachte, dass Anführer und Schiffe ihre Grundfähigkeiten immer behalten, selbst wenn du sie aufrüstest.
+Jede Figur, die zerstört wird - durch Kampf, Sonderfähigkeiten oder durch Ragnarök - wird in Walhall platziert. Dort wartet sie auf den Beginn des nächsten Zeitalters, um erneut in den Kampf einzugreifen.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-469649066">
+        <source>Compendium.Rules.Cards.Header</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Karten</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="609016160">
+        <source>Compendium.Rules.Cards.Content</source>
+        <target xml:lang="de-DE" state="translated">In jedem Zeitalter repräsentiert ein anderes Kartenset die Gaben der nordischen Götter. Die Karten werden von den Spielern in der Göttergaben-Phase gedraftet. Sie können auf unterschiedliche Arten nützlich sein.
+Manche Karten werden nur bei bestimmten Spielerzahlen genutzt. Dies wird durch eine 3+, 4+ oder 5+ auf den Karten dargestellt.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1535082612">
+        <source>Compendium.Rules.BattleCards.Header</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Kampfkarten</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="428394270">
+        <source>Compendium.Rules.BattleCards.Content</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Kampfkarten (rot) werden zu deiner Armeestärke im Kampf hinzuaddiert.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2042701728">
+        <source>Compendium.Rules.QuestCards.Header</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Aufgabenkarten</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2099654650">
+        <source>Compendium.Rules.QuestCards.Content</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Aufgabenkarten (grün) repräsentieren göttliche Prüfungen deines Clans. Falls sie erfüllt werden, können sie dir eine Menge Ruhm einbringen.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-522805466">
+        <source>Compendium.Rules.UpgradeCards.Header</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Aufrüstungen</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1120814240">
+        <source>Compendium.Rules.UpgradeCards.Content</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Aufrüstungen verstärken unterschiedliche Aspekte deines Clans: 
+• Einheiten-Aufrüstungen machen deine Krieger, deinen Anführer oder dein Schiff stärker. 
+• Monster-Aufrüstungen stellen einzigarte Spielfiguren dar, die den Spielverlauf dramatisch beeinflussen können. Jedes Monster hat eine mächtige und einzigartige Sonderfähigkeit.. 
+• Clan-Aufrüstungen verstärken deinen gesamten Clan mit einer Reihe unterschiedlicher Effekte.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="760564453">
+        <source>Compendium.Rules.TheEnd.Header</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Das Ende ist nah!</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-92387753">
+        <source>Compendium.Rules.TheEnd.Content</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Am Ende jedes Zeitalters wird eine Provinz durch Ragnarök zerstört. Je nach Spieleranzahl sind potentiell einige Provinzen bereits vor Spielbeginn zerstört.
+In einer 4-Spieler Partie ist 1 Provinz bereits zerstört.
+In einer 3-Spieler Partie sind 2 Provinz bereits zerstört.
+In einer 2-Spieler Partie sind 3 Provinzen bereits zerstört.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-9594724">
+        <source>Compendium.Rules.Ragnarok.Header</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Ragnarök</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1521563253">
+        <source>Compendium.Rules.Ragnarok.Content</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Durch Ragnarök zerstörte Provinzen gelten nicht als im Spiel befindlich. Sie können nicht betreten oder geplündert werden.
+Destroyed provinces are not considered part of the game. They can't be moved into and can't be pillaged.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="956504088">
+        <source>Compendium.Rules.Doom.Header</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Untergang</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-284238702">
+        <source>Compendium.Rules.Doom.Content</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">In jedem Zeitalter ist eine Provinz durch Ragnarök dem Untergang geweiht. Diese Provinz wird am Ende des Zeitalters zerstört.
+Alle Figuren, die sich in der Provinz und in angrenzenden Fjorden befinden, werden getötet und gehen nach Walhall ein. Je nach Zeitalter bekommt der Spieler der Figur eine bestimmte Menge Ruhm.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="546778639">
+        <source>Compendium.Rules.Phases.Header</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Spielphasen</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1768359477">
+        <source>Compendium.Rules.Phases.Content</source>
+        <target xml:lang="de-DE">Das Spiel wird in drei Zeitaltern gespielt, und jedes Zeitalter besteht aus den gleichen Phasen.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2036322678">
+        <source>Compendium.Rules.Phases.GodsGift.Header</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Gaben der Götter-Phase</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-270951648">
+        <source>Compendium.Rules.Phases.GodsGift.Content</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">In dieser Phase draften (selektieren) die Spieler Karten. Diese Karten bestehen aus Aufrüstungen für Truppen und den Clan, Monster, die an ihrer Seite kämpfen können, Aufgaben, um Ruhm zu erhalten und Karten, um Kämpfe für sich zu entscheiden.
+Im Zweiten und Dritten Zeitlalter, falls ein Spieler noch ungespielte Karten auf der Hand hat, kann er eine davon für das nächste Zeitalter behalten.
+In jeder Drafting-Runde (insgesamt gibt es davon sechs) wählt jeder Spieler genau eine Karte aus, um sie zu behalten. Die anderen Karten passt er zum Spieler zu seiner Linken weiter, bis jeder Spieler genau sechs Karten gedraftet hat. Die übrigen Karten werden aus dem Spiel genommen.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-537411189">
+        <source>Compendium.Rules.Phases.Action.Header</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Aktions-Phase</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1065961407">
+        <source>Compendium.Rules.Phases.Action.Content</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Dies ist der Hauptteil des Spiel, wo invadiert und geplündert wird, Schlachten ausgetragen werden und Blut vergossen wird. Alle Spieler beginnen die Aktionsphase mit der Menge an Wut, die ihr Wut-Wert vorgibt. Im Ersten Zeitalter beginnt jeder Spieler mit 6 Wut. In weiteren Zeitalter, falls ein Spieler seinen Wut-Wert verbessert hat, beginnt er mit entsprechend mehr Wut.
+Der Startspieler beginnt und danach sind weitere Spieler im Uhrzeigersinn dran. In deinem Zug musst du genau eine Aktion durchführen. Falls diese Aktion Wut kostet (was es normalerweise tut), werden diese Kosten bezahlt und dann die Aktion durchgeführt. Falls du nicht genug Wut hast, um eine bestimmte Aktion durchzuführen, musst du eine andere Aktion wählen.
+Sobald deine Aktion durchgeführt wurde, endet dein Zug. Der Spieler zu deiner Linken wird dann mit seinem Zug fortfahren.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1831766001">
+        <source>Compendium.Rules.Phases.TakingAction.Header</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Aktionen durchführen</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-179044473">
+        <source>Compendium.Rules.Phases.TakingAction.Content</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Ein Spieler, der keine Wut mehr besitzt, kann in seinem Zug keinerlei Aktionen mehr durchführen, auch keine, die 0 Wut kosten. Dieser Spieler kann nur noch auf die Züge seiner Gegner reagieren, zum Beispiel an Kämpfen, die jemand anderes beginnt, teilnehmen.
+Spieler haben fünf verschiedene Aktionen, die sie in ihrem Zug durchführen können, und Spieler können die gleiche Aktion auch mehrmals in einer Runde durchführen - jeweils eine Aktion, wenn sie an der Reihe sind.
+Wenn du keine Aktion durchführen möchtest, kannst du auch Passen. Allerdings verlierst du alle Wut wenn du passt, und kannst dann keine weiteren Aktionen mehr durchführen.
+Ende der Aktionsphase: Die Phase endet, wenn entweder kein Spieler mehr Wut übrig hat, oder alle verbleibenden Provinzen bereits geplündert sind.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="995087302">
+        <source>Compendium.Rules.Phases.Invade.Header</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Invasionen</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2097411004">
+        <source>Compendium.Rules.Phases.Invade.Content</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Wähle ein leeres Dorf in einer der äußeren Provinzen und dann eine deiner Figuren aus der Reserve. Bezahle Wut gleich ihrer ST; dann wird die Figur platziert. Falls es sich um Schiff handelt, muss es stattdessen in einem Fjord platziert werden.
+Figuren können auf diese Weise nicht in Yggdrasil platziert werden, stattdessen müssen sie dorthin marschiert werden. Das Invadieren mit einem Anführer kostet keine Wut.
+Wichtig: Achte gut auf deinen Hörner-Wert. Falls die Anzahl deiner Figuren auf dem Brett bereits gleich deinem Hörner-Wert ist, kannst du keine weiteren Figuren platzieren. Walhall zählt nicht als Teil des Brettes.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1219643436">
+        <source>Compendium.Rules.Phases.March.Header</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Marschieren</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="994775714">
+        <source>Compendium.Rules.Phases.March.Content</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Wenn du deinen Truppen den Marsch befiehlst, zahlst du 1 Wut. Wähle eine deiner Figuren in einer der Provinzen (nicht in einem Fjord!) und dann beliebige, andere Figuren in der gleichen Provinz. Dann wähle eine Zielprovinz mit genügend freien Dörfern für die Zahl deiner Figuren. Die Zielprovinz muss nicht benachbart sein, sondern kann sich irgendwo auf dem Brett befinden.
+Du kannst nicht Truppen aus verschiedenen Provinzen auf einmal bewegen, und du kannst sie nicht in unterschiedliche Zielprovinzen bewegen, sondern dich nur von einer Provinz zur nächsten bewegen.
+Wichtig: Normalerweise ist ein Marsch die einzige Möglichkeit, deine Truppen nach Yggdrasil zu bewegen, außer du folgst einem Schlachtruf. In Yggdrasil gibt es keine Dörfer, deswegen gibt es kein Limit für die Figuren, die sich dort befinden können.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1467273268">
+        <source>Compendium.Rules.Phases.MarchExample.Header</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Beispiel:</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1192276294">
+        <source>Compendium.Rules.Phases.MarchExample.Content</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Das Beispiel zeigt fünf verschiedene legale und illegale Marschier-Aktionen:
+1. Der blaue Spieler kann seine beiden Figuren bewegen, obwohl die Provinzen nicht benachbart sind. Er kann dagegen nicht alle drei Figuren aus Gimle bewegen, weil Elvagar nur zwei leere Dörfer hat.
+2. Der gelbe Spieler kann alle seine Figuren aus Angerboda nach Yggdrasil bewegen. Es gibt keine Begrenzung für die Anzahl an Figuren in Yggdrasil.
+3. Der braune Spieler kann seine Figuren nicht in zwei verschiedene Provinzen bewegen.
+4. Der rote Spieler kann nicht Figuren aus zwei verschiedenen Provinzen mit einer einzigen Aktion bewegen.
+5. Schiffe dürfen sich niemals bewegen.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1723866263">
+        <source>Compendium.Rules.Phases.Upgrade.Header</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Aufrüstungen</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1082624751">
+        <source>Compendium.Rules.Phases.Upgrade.Content</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Jeder Clan hat acht Slots für Aufrüstungen: jeweils einen für Anführer, Krieger und das Schiff, zwei für Monster und drei für den Clan. Wenn du eine Aufrüstung spielst, wählst du eine Aufrüstung aus deiner Hand und zahlst Wut entsprechend der ST der Karte. Dann wird die Karte in einem entsprechenden Slot in deiner Spielerleiste platziert. Wenn es mehr als einen potentiellen Slot gibt, musst du dir einen aussuchen. Falls sich dort bereits eine Karte befindet, wird sie abgeworfen und mit der neuen ersetzt. Gespielte Aufrüstungen haben einen permanten Effekt und geben dir alle Boni, die auf der Karte gelistet sind, z.B. höhere Kampfkraft deiner Krieger bis hin zu speziellen Fähigkeiten. Falls du zwei Aufrüstungen mit gleichen Fähigkeiten in unterschiedlichen Slots besitzt, haben beide einen Effekt.
+Einheiten-Aufrüstungen
+Wenn die eine Aufrüstung für deinen Anführer, deine Krieger oder dein Schiff spielst und die entsprechende Figur in deiner Reserve hast, darfst du mit ihr sofort invadieren, ohne weitere Wut zu bezahlen.
+Monster-Aufrüstungen
+Monster sind einzigartige Figuren, die den Verlauf des Spiels dramatisch verändern können. Jedes von ihnen besitzt eine mächtige und besondere Spezialfähigkeit. Wenn du eine Monster-Aufrüstung spielst, ist die entsprechende Figur Teil deiner Armee für den Rest des Spiels. Du darfst sofort mit ihr invadieren, ohne zusätzliche Wut zu bezahlen. Dein Monster kann sterben und nach Walhall geschickt werden, und kommt von dort zurück in deine Reserve genau wie andere Figuren auch. Du kannst nur 2 Monster gleichzeitig in deinem Clan haben. Wenn du eine Monster-Aufrüstung ablegst, wird das entsprechende Monster ebenfalls permanent aus dem Spiel genommen.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-580980201">
+        <source>Compendium.Rules.Phases.Quest.Header</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Aufgaben</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1033038275">
+        <source>Compendium.Rules.Phases.Quest.Content</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Nimm eine Aufgabe von deiner Hand und spiele sie in den Aufgaben-Slot. Es kostet keine Wut, eine Aufgabe zu spielen, und es gibt keine Begrenzung der Anzahl an Aufgaben, die du spielen kannst. Du kannst sogar mehrere der gleichen Aufgaben spielen, um Belohnungen mehrfach zu bekommen.
+Während der Aktionsphase solltest du versuchen, deine Aufgaben zu erfüllen, um ihre Belohnungen zu bekommen, aber es gibt keine Strafe für das Nicht-Erfüllen von Aufgaben.
+Wichtig: Obwohl es keine Wut kostet, eine Aufgabe zu spielen, denk daran, dass du keine Aktionen, auch keine, die umsonst sind, mehr durchführen darfst, wenn du keine Wut mehr hast.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1226876331">
+        <source>Compendium.Rules.Phases.Pillage.Header</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Plündern</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1064495065">
+        <source>Compendium.Rules.Phases.Pillage.Content</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Wenn du erfolgreich eine Provinz plünderst, bekommst du eine Belohnung dafür - entweder, indem du deine Clan-Werte erhöhen darfst, oder durch zusätzlichen Ruhm. Aber zuerst musst du die anderen Clan in der Provinz im Kampf besiegen.
+Um zu plündern, wähle eine Provinz, in der (oder in einem angrenzenden Fjord) sich mindestens eine deiner Figuren befindet, und die in diesem Zeitalter noch nicht geplündert wurde. Es kostet keine Wut, eine Provinz zu plündern, aber wenn du keine Wut mehr hast, darfst du auch keine Aktionen, die umsonst sind, mehr ausführen.
+Eine Plünderung wird in drei Schritten ausgeführt:
+1. Schlachtruf: Alle Spieler dürfen Figuren aus angrenzenden Provinzen in die umkämpfte Provinz ziehen.
+2. Karten spielen: Alle am Kampf beteiligten Spieler spielen eine Karte im Kampf.
+3. Ergebnis: Der Clan mit dem höchsten ST-Wert entscheidet den Kampf für sich. Die Verlierer werden zerstört, der Gewinner heimst seine Belohnung ein.
+
+1. Schlachtruf
+Sobald du dich entschieden hast, eine Provinz zu plündern, können andere Spieler dazustoßen, egal, ob sie bereits Truppen dort haben oder nicht. Beginnend mit dem Spieler zu deiner Linken und im Uhrzeigersinn, können alle Spieler (du inklusive) entscheiden, ob sie eine ihrer Figuren aus angrenzenden Provinzen in ein leeres Dorf der umkämpften Provinz ziehen möchten. Eine Figur auf diese Weise zu bewegen kostet keine Wut (Schiffe können nicht bewegt werden).
+Wenn alle Dörfer besetzt sind, oder kein Spieler mehr Figuren bewegen möchte, beginnt die Schlacht.
+Wichtig: Es gibt keine Dörfer in Yggdrasil, d.h. es können dort beliebig viele Figuren an Kämpfen teilnehmen oder sich aufhalten.
+Falls sich kein Gegner in der Provinz oder einem angrenzenden Fjord befindet, findet keine Schlacht statt und die Provinz wird automatisch geplündert. Andernfalls folgt jetzt der Kampf.
+
+2. Karten spielen
+Alle Spieler, die Figuren in der Provinz oder im angrenzenden Fjord haben, müssen nun eine Karte aus ihrer Hand spielen, sofern sie noch welche haben. Falls du eine Kampfkarte gespielt hast, wird ihre ST zu der ST deiner Truppen hinzugezählt. Alle speziellen Fähigkeiten von Karten werden jetzt durchgeführt. Falls du eine Aufrüstung oder Aufgabe gespielt hast, trägt diese nicht zur Erhöhung deiner Stärke bei und hat keinen Effekt.
+Wichtig: Falls eine gespielte Karte dazu führt, dass ein Clan alle am Kampf beteiligten Figuren verliert, bedeutet das nicht, dass er aus dem Kampf ausscheidet. Stattdessen kann der Spieler den Kampf immer noch potentiell gewinnen.
+Manche Kampfkarten können auch nachdem alle Karten aufgedeckt wurden, noch gespielt werden, um die Kampfkraft zu erhöhen. Diese Karten haben ihren ST-Bonus auf einem gefüllten weißen Kreis, und auf ihren steht, dass sie auch nachträglich noch gespielt werden können. Der plündernde Spieler hat als Erstes die Wahl, ob er eine solche Karte spielen möchte. Danach geht es im Uhrzeigersinn weiter, bis kein Spieler mehr eine solche Karte spielen möchte.
+3. Ergebnis
+Der Clan mit dem höchsten ST-Wert gewinnt den Kampf! Im Falle eines Gleichstandes verlieren alle Spieler den Kampf. Falls es einen Sieger gibt, wird dessen gespielte Karte(n) abgelegt, während die Verlierer ihre gespielten Karten wieder auf die Hand bekommen.
+Alle Figuren von Spielern, die den Kampf verloren haben, werden zerstört und nach Walhall befördert. Falls der Spieler, der die Plünderung initiiert hat, den Kampf gewinnt, plündern sie nun die Provinz und bekommen die Belohnung. Falls der plündernde Spieler unterliegt, bleibt die Provinz ungeplündert, und es kann später ein weiterer Versuch unternommen werden, sie zu plündern.
+Zu guter Letzt bekommt der Sieger der Schlacht so viel Ruhm, wie der Wert seiner Äxte beträgt, egal, ob er die Plünderung begonnen hat oder nicht.
+
+Belohnungen:
+Wenn du diese Provinz plünderst, erhöhe deinen Wut-Wert um eins. Du bekommst allerdings nicht sofort mehr Wut, sondern erst im nächsten Zeitalter. Wenn du diese Provinz plünderst, erhöhe deinen Äxte-Wert um eins. Der erhöhte Ruhm, den du für gewonnene Kämpfe bekommst, greift sofort und beinhaltet diesen Kampf. Wenn du diese Provinz plünderst, erhöhe deinen Hörner-Wert um eins. Du kannst sofort eine Figur mehr auf dem Brett haben. Wenn du diese Provinz plünderst, erhältst du sofort 5 Ruhm. Wenn du Yggdrasil plünderst, erhöhe alle deine Clan-Werte um +1.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1896596771">
+        <source>Compendium.Rules.Phases.Discard.Header</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Abwerfen-Phase</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1597813123">
+        <source>Compendium.Rules.Phases.Discard.Content</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Alle Spieler werfen alle Karten bis auf eine, die sie noch auf der Hand haben, ab. Die eine Karte kann mit ins das nächste Zeitalter genommen und dort (oder noch später) gespielt werden. Am Ende des Dritten Zeitalters legen alle Spieler ihre kompletten Handkarten ab.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2016595841">
+        <source>Compendium.Rules.Phases.QuestResolve.Header</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Aufgaben-Phase</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-204187607">
+        <source>Compendium.Rules.Phases.QuestResolve.Content</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Alle Aufgaben, die Spieler ausgespielt haben, werden enthüllt. Wenn du eine Aufgabe erfüllt hast, bekommst du die Menge an Ruhmpunkten, die auf der Karte angegeben sind und kannst einen deiner Clan-Werte anheben. Falls du eine Aufgabe nicht erfüllt hast, passiert nichts. Danach werden alle Aufgaben abgelegt.
+Die meisten Aufgaben drehen sich darum, die meiste Kampfstärke in einer Provinz zu haben. Dabei werden die ST-Werte aller Figuren zusammengezählt (inklusive angrenzenden Fjorden) und miteinander verglichen. Bei einem Gleichstand gilt die Aufgabe als nicht erfüllt.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="32669426">
+        <source>Compendium.Rules.Phases.Ragnarok.Header</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Ragnarök</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-222729784">
+        <source>Compendium.Rules.Phases.Ragnarok.Content</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Zeit für Ragnarök! Die Provinz, die dem Untergang geweiht ist, wird nun zerstört und ist damit permanent aus dem Spiel. Es gibt für einen Wikinger keinen glorreicheren Tod als durch Ragnarök zerstört zu werden. Wird eine Provinz zerstört, sterben alle sich in ihr befindlichen (und angrenzenden Fjorden) Figuren und gehen nach Walhall ein. Jede dieser Figuren bringt ihrem Besitzer eine bestimmte Menge an Ruhm ein: 2 Ruhm im Ersten Zeitalter, 3 im Zweiten Zeitalter und 4 im Dritten Zeitalter.
+Im nächsten Zeitalter wird eine weitere Provinz zerstört, markiert durch die goldenen Effekte der Dörfer.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-404128072">
+        <source>Compendium.Rules.Phases.Valhalla.Header</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Walhall-Phase</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-566656922">
+        <source>Compendium.Rules.Phases.Valhalla.Content</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Am Ende jeden Zeitalters erhalten alle Clans ein letztes Geschenk der Götter: alle Figuren werden aus Walhall entlassen und kehren zu ihren Besitzern zurück, um im nächsten Zeitalter erneut zu kämpfen. Und zu sterben.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1879043328">
+        <source>Compendium.Rules.Phases.EndOfAge.Header</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Ende des Zeitalters</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="883080658">
+        <source>Compendium.Rules.Phases.EndOfAge.Content</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Nach jedem Zeitalter werden alle geplünderten Provinzen 'zurückgesetzt' und können im nächsten Zeitalter erneut geplündert werden.
+Der Startspieler wechselt auf den nächsten Spieler im Uhrzeigersinn.
+Dann beginnt das nächste Zeitalter mit der Göttergaben-Phase. Mit jedem neuen Zeitalter werden diese Geschenke der Götter mächtiger, versprechen mehr Ruhm und führen zu immer heftigeren Auseinandersetzungen um eine stetig kleiner werdende Zahl von Provinzen, während Ragnarök das Land zerstört.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-650977165">
+        <source>Compendium.Rules.EndOfGame.Header</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Ende des Spiels</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1810280855">
+        <source>Compendium.Rules.EndOfGame.Content</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Sobald die Walhall-Phase des Dritten Zeitalters beendet ist, ist das Ende der Welt und damit des Spiels gekommen. Nun ist es Zeit zu sehen, welcher Clan den meisten Ruhm gesammelt hat und seinen Platz in Walhall neben Odins Thron einnehmen wird.
+
+Davor gibt es aber noch einen letzten Bonus zu addieren: Spieler bekommen einen Ruhm-Bonus basierend auf den Clan-Werten, die sie angesammelt haben. Jeder Wert, der auf den 4. oder 5. Schritt angehoben wurde, gibt +10 Ruhm. Jeder Wert, der sogar auf den 6. Schritt angehoben wurde, sogar +20.
+
+Der Spieler mit dem meisten Ruhm hat das Spiel gewonnen!</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2014985655">
+        <source>Compendium.CardsFilter.All</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Alle</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1791092904">
+        <source>Compendium.CardsFilter.AgeI</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">1. Zeitalter</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-564283989">
+        <source>Compendium.CardsFilter.AgeII</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">2. Zeitalter</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1258747074">
+        <source>Compendium.CardsFilter.AgeIII</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">3. Zeitalter</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="10201492">
+        <source>Compendium.CardsFilter.Players</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Spieler</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1996841525">
+        <source>Compendium.CardsFilter.Players2+</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">2+</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1996841526">
+        <source>Compendium.CardsFilter.Players3+</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">3+</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1996841531">
+        <source>Compendium.CardsFilter.Players4+</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">4+</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1996841532">
+        <source>Compendium.CardsFilter.Players5+</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">5+</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1625359167">
+        <source>Compendium.Tactics.AIOpponents.Header</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">KI-Gegner</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1345291569">
+        <source>Compendium.Tactics.AIOpponents.Content</source>
+        <target xml:lang="de-DE" state="translated">Die KI-Gegner benutzen eine Reihe von 'Archetypen' um verschiedene Strategien im Spiel zu repräsentieren. In höheren Schwierigkeiten geht die KI dabei in den Draft und sucht sich erst eine Strategie (und damit einen Archetyp) aus, wenn sie bereits einige der Karten gesehen hat. In niedrigeren Stufen sind die Archetypen fest und variieren nicht während des Drafts.
+Für die Spieler ist es wichtig, zumindest die Grundzüge von dem, was die KI erreichen möchte, zu kennen und zu verstehen, welche Karten sie dazu bevorzugt draften könnte, besonders, wenn Spieler selber das sogenannte 'Hate-Draften' betreiben möchten (mehr dazu später).
+
+&lt;b&gt;&lt;indent=5%&gt;•&lt;indent=7%&gt;Der Opportunist:&lt;/b&gt; Der ausgeglichenste KI-Charakter; versucht, sich nicht zu sehr zu spezialisieren und verschiedene Strategien zu verfolgen, um Ruhm zu gewinnen
+&lt;indent=11%&gt;·&lt;indent=13%&gt;Bevorzugte Karten: Frigga’s Grace, Thor’s Hammer, Frigga’s Charm
+&lt;indent=11%&gt;·&lt;indent=13%&gt;Präferenz: Alle
+&lt;b&gt;&lt;indent=5%&gt;•&lt;indent=7%&gt;Der Ruhmesjäger:&lt;/b&gt; Versucht immer, möglichst Yggdrasil zu plündern und unternimmt große Anstrengungen, um bei Kämpfen dort involviert möglichst siegreich zu sein
+&lt;indent=11%&gt;·&lt;indent=13%&gt;Bevorzugte Karten: Yggdrasil, Tyrs Auslöschung, Tyrs Vernichtung
+&lt;indent=11%&gt;·&lt;indent=13%&gt;Präferenz: Wut
+&lt;b&gt;&lt;indent=5%&gt;•&lt;indent=7%&gt;The Taschenspieler:&lt;/b&gt; Verfolgt immer eine Loki-Strategy, indem er Ruhm durch das Verlieren von Kämpfen gewinnt und von diesen Niederlagen zu profitieren
+&lt;indent=11%&gt;·&lt;indent=13%&gt;Bevorzugte Karten: Lokis Reich, Lokis Segen, Lokis Betrügerei, Ruhmreicher Tod
+&lt;indent=11%&gt;·&lt;indent=13%&gt;Präferenz: Hörner
+&lt;b&gt;&lt;indent=5%&gt;•&lt;indent=7%&gt;Der Krieger: Bevorzugt hohe Kampfkarten und versucht, Kämpfe zu gewinnen und auf diese Weise Ruhm zu bekommen
+&lt;/b&gt;
+&lt;indent=11%&gt;·&lt;indent=13%&gt;Bevorzugte Karten: Tyrs Auslöschung, Tyrs Vernichtung, Heimdalls Sicht, Thors Hammer, Thors Ruhm
+&lt;indent=11%&gt;·&lt;indent=13%&gt;Präferenz: Äxte
+&lt;b&gt;&lt;indent=5%&gt;•&lt;indent=7%&gt;Der Kriegsherr:&lt;/b&gt; Versucht möglichst, Aufrüstungen zu draften, die seine Kampfstärke erhöhen und mit diesen Kämpfe zu gewinnen
+&lt;indent=11%&gt;·&lt;indent=13%&gt;Bevorzugte Karten: Waffenbrüder, Zwergenhäuptling, Thors Hammer, Friggas Beistand
+&lt;indent=11%&gt;·&lt;indent=13%&gt;Präferenz: Äxte &amp; Hörner
+&lt;b&gt;&lt;indent=5%&gt;•&lt;indent=7%&gt;Der Held:&lt;/b&gt; Versucht, mächtige Anführer-Aufrüstungen zu bekommen und damit seine Strategie zu unterstützen
+&lt;indent=11%&gt;·&lt;indent=13%&gt;Bevorzugte Karten: Herr der Hämmer, Thors Ruhm, Tyrs Auslöschung
+&lt;indent=11%&gt;·&lt;indent=13%&gt;Präferenz: Wut, Äxte
+&lt;b&gt;&lt;indent=5%&gt;•&lt;indent=7%&gt;Der Monsterjäger:&lt;/b&gt; Hat eine starke Vorliebe für die verschiedenen Monster und versucht, sein Spiel darauf aufzubauen
+&lt;indent=11%&gt;·&lt;indent=13%&gt;Bevorzugte Karten: Zwergenhäuptling, Troll, Seeschlange
+&lt;indent=11%&gt;·&lt;indent=13%&gt;Präferenz: Wut
+&lt;b&gt;&lt;indent=5%&gt;•&lt;indent=7%&gt;Der Bootsbauer:&lt;/b&gt; Versucht nach Möglichkeit, sich auf die Seeschlange und sein Schiff sowie die Dominanz von Fjorden zu konzentrieren; möglicherweise in Kombination mit einer 'Lokis Drachen'-Strategie
+&lt;indent=11%&gt;·&lt;indent=13%&gt;Bevorzugte Karten: Seeschalnge, Lokis Drachen, Aufträge von Regionen, wo Schiff und Seeschlange potentiell zerstört werden (Ragnarök)
+&lt;indent=11%&gt;·&lt;indent=13%&gt;Präferenz: Wut
+&lt;b&gt;&lt;indent=5%&gt;•&lt;indent=7%&gt;Der Eroberer:&lt;/b&gt; Versucht, möglichst viele Aufträge zu erfüllen und auf diese Weise Ruhm zu erringen und seine Clanwerte zu erhöhen
+&lt;indent=11%&gt;·&lt;indent=13%&gt;Bevorzugte Karten: Tyrs Reich, Alfheim, Jotunheim, Manheim
+&lt;indent=11%&gt;·&lt;indent=13%&gt;Präferenz: Alle</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1333556489">
+        <source>Compendium.Tactics.Yggdrasil.Header</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Yggdrasil</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1108539347">
+        <source>Compendium.Tactics.Yggdrasil.Content</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Yggdrasil ist der Baum des Lebens, und ähnlich wie seine Rolle in der nordischen Mythologie, spielt die Provinz Yggdrasil auch eine wichtige Rolle in Blood Rage. Wenn sie geplündert wird, belohnt die Provinz ihre Plünderer mit einer Aufwertung aller drei Clan-Werte, und wenn du es schaffen solltest, sie sogar mehrfach zu plündern, sind dir vermutlich jede Menge zusätzliche Ruhmpunkte am Ende des Spiels sicher. Aber natürlich ist Yggdrasil schwierig zu plündern - da Figuren aus allen anderen Provinzen dem Schlachtruf folgen können, werden andere Spieler dir Yggdrasil nicht einfach so überlassen.
+Aber wenn es dir gelingt, einen Kampf in Yggdrasil zu gewinnen, kannst du die Kräfte deiner Gegner entscheidend schwächen und es dir deutlich leichter machen, Yggdrasil auch in der Folge zu kontrollieren, und sie so möglicherweise ein weiteres Mal im nächsten Zeitalter zu plündern. Stelle deswegen sicher, dass du einige mächtige Kampfkarten auf der Hand hast und halte Ausschau nach Aufrüstungen, die dich stärken. Sei auf der Hut vor Karten wie Heimdalls Wache oder Odins Strömung, die deine Pläne vereiteln könnten.
+Eine mächtige Aufrüstung für den Kampf um Yggdrasil kann auch Tyrs Herausforderung sein - es ist günstig, eine Provinz noch einmal zu plündern, aber wenn die Belohnung die Erhöhung aller Clan-Werte ist, kann es sehr dominant sein und dir im besten Fall 60 Ruhmpunkte am Ende des Spiels einbringen.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1648310259">
+        <source>Compendium.Tactics.LokiStrategy.Header</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Loki-Strategie</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1479667655">
+        <source>Compendium.Tactics.LokiStrategy.Content</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Eine sehr mächtige Strategie in Blood Rage ist die sogenannte 'Loki-Strategie'. Im Spiel gibt es eine Reihe von Karten, mit denen du davon profitierst, wenn du Kämpfe verlierst (und denke daran, dass nur der Gewinner eines Kampfes seine gespielten Karten abgeben muss, und du deine Karten immer wieder benutzen kannst) und du Ruhm, Wut oder sogar die Karten des Siegers bekommen kannst. Außerdem gibt es mehrere Aufrüstungen und Aufgaben, die dir Ruhm geben, wenn deine Figuren aus Walhall wiederkehren. Wenn du einige dieser Karten miteinander kombinierst, ist es durchaus möglich, jede Menge Ruhm zu sammeln, und die Loki-Strategie ist in Blood Rage nicht nur eine Nische, sondern eine sehr mächtige Strategie.
+
+Wichtige Karten des Ersten Zeitalters:
+Lokis Betrügerei
+Lokis Segen
+Lokis Reich
+Ruhmreicher Tod!</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1953856071">
+        <source>Compendium.Tactics.DragonTactics.Header</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Drachen-Taktiken</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="649411517">
+        <source>Compendium.Tactics.DragonTactics.Content</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">In jedem Zeitalter gibt es eine Karte, die dir zusätzlichen Ruhm gibt, wenn ein Schiff von dir zerstört wird. Während die 4 Ruhm im Ersten Zeitalter jetzt nicht unbedingt beeindruckend klingen, sind die 8 Punkte (Zweites Zeitalter) oder 12 (Drittes Zeitalter) durchaus beachtlich. Wenn man das mit dem Umstand kombiniert, dass du mit Schiffen umsonst invadierst, wenn du die Aufrüstung spielst, bedeutet das, dass du nur 1 Wut für 4/8/12 Ruhm bezahlst!
+Wenn du sichergehen willst, dass dein Schiff am Ende des Zeitalters auch wirklich stirbst, kannst du es in den Fjord neben einer Provinz, die während Ragnarök zerstört wird, platzieren.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1686454077">
+        <source>Compendium.Tactics.SeaSerpent.Header</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Seeschlange</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1322226443">
+        <source>Compendium.Tactics.SeaSerpent.Content</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Falls du zusätzlich zu den Drachen-Karten noch die Seeschlange draften kannst, wird es sogar noch besser, da die Seeschlange ebenfalls als Schiff zählt und du somit deine Punkte verdoppelst.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2067636078">
+        <source>Compendium.Tactics.FriggasDomain.Header</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Friggas Reich</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-649966296">
+        <source>Compendium.Tactics.FriggasDomain.Content</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Friggas Reich ist eine Karte des Dritten Zeitalters, welche dir erlaubt, mit einer Figur aus Walhall erneut zu invadieren. Stell dir vor, du hast Ewige Drachen gespielt und bekommst 12 Ruhm jedes Mal, wenn dein Schiff stirbt, und du kannst es immer und immer wieder nach Walhall schicken!
+Stell aber sicher, dass du es in Fjorden platzierst, wo du die Kämpfe auch verlierst, und nur neben Provinzen, die noch geplündert werden können, damit es auch zu einem Kampf kommt.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="43874628">
+        <source>Compendium.Tactics.FriggasChosen.Header</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Friggas Auserwählter</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-507034726">
+        <source>Compendium.Tactics.FriggasChosen.Content</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Wenn du Friggas Reich auch noch mit Friggas Auserwählter kombinieren kannst, bist du in der Lage, dein Schiff (oder die Seeschlange) zu opfern, um deine Clan-Werte zu erhöhen, Ruhm zu sammeln und wieder aus Walhall zurückzukehren - wieder und wieder.
+Allerdings ist diese Kombination sehr kostspielig, also stell sicher, dass du genügend Wut hast und die Erhöhungen deiner Werte für maximale Punkte brauchst.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1424551850">
+        <source>Compendium.Tactics.HateDrafting.Header</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Hate-Drafting</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="545762628">
+        <source>Compendium.Tactics.HateDrafting.Content</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Wie im Kapitel über die KI-Archetypen beschrieben, ist es in Blood Rage durchaus sinnvoll, 'Hate-Drafting' zu betreiben. Der beschreibt die Tatsache, dass Spieler Karten draften, die sie selbst nicht unbedingt brauchen können, aber von denen sie wissen, dass sie in den Händen ihrer Gegner zu mächtigen Waffen werden können. Zum Beispiel, wenn eine KI die Strategie des Bootsbauers oder des Taschenspielers verfolgt und ein anderer Spieler die Karte Ewige Drachen zur Auswahl hat, könnte es durchaus sinnvoll sein, die Karte zu draften, um sie dem Gegner vorzuenthalten. 
+Offensichtlich ist es nicht sinnvoll, zu viele dieser Karten zu draften, damit die eigene Hand am Ende nicht zu sehr geschwächt wird. Deswegen ist es wichtig, ein Gespür dafür zu entwickeln, welche Karten die Gegner wirklich als Motor für ihre Strategie benötigen, und ihnen extreme Punktgewinne ermöglichen würden.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1511387450">
+        <source>Compendium.Tabnavigation.GodsOfAsgard</source>
+        <target xml:lang="de-DE">Götter von Asgard</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-175138063">
+        <source>Compendium.GodsOfAsgard.Rule</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2">Regeln</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="169395690">
+        <source>Compendium.GodsOfAsgard.Rule.Content</source>
+        <target xml:lang="de-DE">In jedem Spiel werden nur zwei Götter (zufällig ausgewählt) benutzt. 
+Die Götter starten in (ebenfalls zufällig ausgewählten) Provinzen, und nehmen keinen Platz in Dörfern ein.
+
+Jeder Gott besitzt eigene Regeln, mit denen er das Spiel modifiziert und nur in seiner Provinz (und angrenzenden Fjorden) verändert.
+
+Wenn ein Spieler eine Plündern-Aktion beendet, egal ob erfolgreich oder nicht, bewegt dieser Spieler den Gott in eine andere Provinz, die:
+
+&lt;indent=5%&gt;•&lt;indent=7%&gt; noch keinen Gott enthält
+&lt;indent=5%&gt;•&lt;indent=7%&gt; noch nicht geplündert wurde
+&lt;indent=5%&gt;•&lt;indent=7%&gt; noch nicht durch Ragnarök zerstört wurde
+&lt;indent=0%&gt;Wenn keine entsprechende Provinz vorhanden ist, bewegt sich der Gott nicht.
+
+Zu Beginn des Zweiten und Dritten Zeitalters werden die Götter erneut zufällig platziert.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1242877015">
+        <source>Compendium.GodsOfAsgard.Odin</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2">Odin</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1728336788">
+        <source>Compendium.GodsOfAsgard.Frigg</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2">Frigg</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="611227954">
+        <source>Compendium.GodsOfAsgard.Thor</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2">Thor</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="798249494">
+        <source>Compendium.GodsOfAsgard.Tyr</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2">Tyr</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-309652134">
+        <source>Compendium.GodsOfAsgard.Loki</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2">Loki</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-102427512">
+        <source>Compendium.GodsOfAsgard.Hel</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2">Hel</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="402711203">
+        <source>Compendium.GodsOfAsgard.Heimdall</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2">Heimdall</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="422666661">
+        <source>Compendium.Tabnavigation.MysticsOfMidgard</source>
+        <target xml:lang="de-DE">Mystiker von Midgard</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-144620974">
+        <source>Compendium.MysticsOfMidgard.Rule</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2">Regeln</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1187853751">
+        <source>Compendium.MysticsOfMidgard.Content</source>
+        <target xml:lang="de-DE" xmlns="urn:oasis:names:tc:xliff:document:1.2">Die Mystiker von Midgard sind eine Erweiterung für das Spiel mit folgenden Regeln:
+Jedem Clan stehen zwei Mystiker-Spielfiguren zur Verfügung. Diese können erst benutzt werden, wenn ihr die dafür benötigte Clan-Aufrüstung besitzt.
+Die entsprechenden Clan-Upgrades werden in die Göttergaben-Karten gemischt.
+
+Anfangs hast du noch keinen Zugriff auf deine Mystiker. Sobald du eine Clan-Aufrüstung dieser Erweiterung auslegst, wird eine Mystilerfigur deiner Reserve hinzugefügt. Anders als bei Monster- oder Einheiten-Aufrüstungen darfst du mit diesem Mystiker aber nicht sofort invadieren. Er wird lediglich in deinen Vorrat gestellt und du musst in einem späteren Zug eine weitere Aktion nutzen, um mit ihm zu invadieren.
+Mystiker haben eine Stärke von 2 und es kostet keine Wut, um mit einem Mystiker zu invadieren.
+
+Legst du eine zweite Mystiker-Aufrüstung aus, stellst du deine zweite Mystikerfigur in deinen Vorrat und kannst dann später auch mit dieser invadieren. Du kannst auch eine dritte Mystiker-Aufrüstung auslegen, allerdings erhältst du dafür keine weitere Figur, da jeder Clan nur zwei Mystikerfiguren hat. Aber deine beiden Mystiker erhalten dadurch die Vorteile von drei Mystiker-Aufrüstungen.
+
+Jede Mystiker-Aufwertung verleiht allen deinen Mystikern die darauf beschriebenen Sonderfähigkeiten. Hast du allerdings dieselbe Mystiker-Aufwertung mehrfach ausgelegt, so addieren sich deren Sonderfähigkeiten nicht. Wenn du im Spielverlauf eine Mystiker-Aufwertung durch eine andere Clan-Aufwertung ersetzt, verlierst du nur die Sonderfähigkeit der Aufwertung, aber behältst die Mystikerfigur.
+
+Ansonsten funktionieren Mystiker genauso wie die übrigen Figuren deines Clans (Anführer, Krieger usw.). Sie werden auf deinen aktuellen Hörner-Wert angerechnet, bringen ST in der Schlacht und für Aufgaben, lassen dich Ruhm gewinnen, wenn sie von Ragnarök verschlungen werden, und werden in deinen Vorrat gestellt, wenn sie aus Walhall zurückkehren.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

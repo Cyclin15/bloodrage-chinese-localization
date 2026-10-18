@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en-US" target-language="es-ES" datatype="plaintext" original="not.available">
+    <body>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-986377663">
+        <source>tutorial.buttonContinue</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Continuar</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2124388975">
+        <source>tutorial.buttonNext</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Continuar</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1264117737">
+        <source>tutorial.buttonSkip</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Saltar</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1828392709">
+        <source>tutorial.chapter</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Capítulo</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="213032170">
+        <source>tutorial.chapter01.headline</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Objetivo del juego</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="89861591">
+        <source>tutorial.chapter01.step01.headline</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Aprender a jugar</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1235392235">
+        <source>tutorial.chapter01.step01.text01</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">En este tutorial vas a aprender a jugar a Blood Rage y a saber cómo interactuar con la versión digital.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1638676762">
+        <source>tutorial.chapter01.step01.text02</source>
+        <target xml:lang="es-ES" state="needs-translation">El orden presentado en este tutorial no es el mismo orden que se sigue en el juego. Aquí introducimos conceptos paso a paso para hacer el juego lo más accesible posible.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="90979800">
+        <source>tutorial.chapter01.step02.headline</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Cómo ganar</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1235358540">
+        <source>tutorial.chapter01.step02.text01</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">La Gloria es lo que determina la victoria en Blood Rage. Al final de la partida, el jugador que tenga más Gloria gana.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1638643067">
+        <source>tutorial.chapter01.step02.text02</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Consigues Gloria ganando batallas, saqueando, completando misiones para los dioses y muriendo con valentía en la batalla.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="92093913">
+        <source>tutorial.chapter01.step03.headline</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Las tres Edades</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1235324717">
+        <source>tutorial.chapter01.step03.text01</source>
+        <target xml:lang="es-ES" state="needs-translation">El juego transcurre durante tres Edades y cada una consta de dos fases:
+
+Fase Dones divinos: los jugadores reciben cartas para la Edad actual.
+Fase de Acción: los jugadores gastan los puntos de Ira en varias acciones.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="745252520">
+        <source>tutorial.chapter01.step04.imageHeadline01</source>
+        <target xml:lang="es-ES" state="needs-translation">Las tres Edades</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="745252519">
+        <source>tutorial.chapter01.step04.imageHeadline02</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Dones divinos (repartir cartas)</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="745252518">
+        <source>tutorial.chapter01.step04.imageHeadline03</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Fase de Acción</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="745252525">
+        <source>tutorial.chapter01.step04.imageHeadline04</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Fase de Descartes</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="745252524">
+        <source>tutorial.chapter01.step04.imageHeadline05</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Fase de Misiones</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="745252523">
+        <source>tutorial.chapter01.step04.imageHeadline06</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Ragnarök</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="745252522">
+        <source>tutorial.chapter01.step04.imageHeadline07</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Liberación del Valhalla</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1922141977">
+        <source>tutorial.chapter02.headline</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Invadir</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1121902914">
+        <source>tutorial.chapter02.quest01</source>
+        <target xml:lang="es-ES" state="needs-translation">Invade Élivágar con tu líder</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="444181027">
+        <source>tutorial.chapter02.quest02</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Invade Élivágar con un guerrero</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-945430862">
+        <source>tutorial.chapter02.step01.headline</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Invadir</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="472326">
+        <source>tutorial.chapter02.step01.text01</source>
+        <target xml:lang="es-ES" state="needs-translation">La única forma de poner figuras en el tablero es invadiendo. Al invadir, pones las figuras de tu reserva en cualquiera de las provincias, salvo en Yggdrasil.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-944312653">
+        <source>tutorial.chapter02.step02.headline</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Poblados</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="506021">
+        <source>tutorial.chapter02.step02.text01</source>
+        <target xml:lang="es-ES" state="needs-translation">Cada provincia del tablero tiene entre tres y cinco poblados. De las provincias, solo se pueden ocupar los poblados poniendo una figura por cada uno.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-943198540">
+        <source>tutorial.chapter02.step03.headline</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Poner figuras e Ira</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="539844">
+        <source>tutorial.chapter02.step03.text01</source>
+        <target xml:lang="es-ES" state="needs-translation">Al poner las figuras gastas su fuerza en Ira. La Ira es la "moneda" de Blood Rage, cuando se te haya acabado ya no podrás hacer nada durante esa Edad.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="403824371">
+        <source>tutorial.chapter02.step03.text02</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Una excepción a esto es tu líder. Siempre puedes invadir con tu líder sin coste.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-951288403">
+        <source>tutorial.chapter02.step04.headline</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Límite de figuras</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="303467">
+        <source>tutorial.chapter02.step04.text01</source>
+        <target xml:lang="es-ES" state="needs-translation">Uno de los tres medidores de tu clan es el de "Yelmos". Los yelmos determinan cuántas figuras puedes tener en el tablero a la vez. ¡Auméntalo para tener más!</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="403587994">
+        <source>tutorial.chapter02.step04.text02</source>
+        <target xml:lang="es-ES" state="needs-translation">Puedes poner 1 líder, 8 guerreros y 1 barco durante una Edad si tienes los yelmos suficientes. Si una figura muere, debes esperar a la próxima Edad para recuperarla.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-950174290">
+        <source>tutorial.chapter02.step05.headline</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Ira y turnos</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="337290">
+        <source>tutorial.chapter02.step05.text01</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Cuando te quedes sin Ira, ya no podrás emprender ninguna acción. Ni siquiera aquellas que tengan coste 0 (como saquear).</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2065468921">
+        <source>tutorial.chapter02.task01</source>
+        <target xml:lang="es-ES" state="needs-translation">Haz clic en el poblado señalado</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2065468918">
+        <source>tutorial.chapter02.task02</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Elige al líder</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2065468919">
+        <source>tutorial.chapter02.task03</source>
+        <target xml:lang="es-ES" state="needs-translation">Haz clic en los poblados restantes de Élivágar</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2065468916">
+        <source>tutorial.chapter02.task04</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Elige un guerrero</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-746323020">
+        <source>tutorial.chapter03.headline</source>
+        <target xml:lang="es-ES" state="needs-translation">Saquear</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2033239027">
+        <source>tutorial.chapter03.step01.headline</source>
+        <target xml:lang="es-ES" state="needs-translation">Saquear y batalla</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="495441419">
+        <source>tutorial.chapter03.step01.text01</source>
+        <target xml:lang="es-ES" state="needs-translation">Saquear es una forma de ganar Gloria y mejorar los medidores de tu clan.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2032120818">
+        <source>tutorial.chapter03.step02.headline</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Aumento del medidor</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="495475114">
+        <source>tutorial.chapter03.step02.text01</source>
+        <target xml:lang="es-ES" state="needs-translation">Cada vez que saquees con éxito un poblado, recogerás las recompensas de la región, que incrementará uno de los tres medidores (Ira, Hachas, Yelmos).</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2061559055">
+        <source>tutorial.chapter03.step02.text02</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Una de las provincias no te dará como recompensa aumentar los medidores, sino que te dará 5 de Gloria al instante.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-667324300">
+        <source>tutorial.chapter03.step02.text03</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Si saqueas Yggdrasil, obtendrás una gran recompensa: aumentar todos los medidores en 1.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2031006705">
+        <source>tutorial.chapter03.step03.headline</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Fuerza del jugador</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="495508937">
+        <source>tutorial.chapter03.step03.text01</source>
+        <target xml:lang="es-ES" state="needs-translation">Una forma rápida de valorar tus opciones en la batalla es evaluar la fuerza de todos los presentes en las provincias. Pon el ratón sobre ella para verlo.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="42160313">
+        <source>tutorial.chapter03.step04.quest01</source>
+        <target xml:lang="es-ES" state="needs-translation">Comenzar saqueo en Élivágar</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1028855214">
+        <source>tutorial.chapter03.step04.task01</source>
+        <target xml:lang="es-ES" state="needs-translation">Comprueba la fuerza del jugador en Élivágar
+</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2037982455">
+        <source>tutorial.chapter03.step05.headline</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Llamada a la batalla</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="495306383">
+        <source>tutorial.chapter03.step05.text01</source>
+        <target xml:lang="es-ES" state="needs-translation">Cuando un jugador declara su intención de saquear una provincia, los demás tienen la oportunidad de unirse a la batalla, si quieren. Podrán mover una de sus figuras desde una provincia adyacente hacia un poblado vacío en la provincia que se está saqueando.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2061390324">
+        <source>tutorial.chapter03.step05.text02</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Cuando todos los poblados de esa provincia estén ocupados, o cuando ya no se quiera unir nadie más, comienza la batalla.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-667493031">
+        <source>tutorial.chapter03.step05.text03</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Nota: no hay poblados en Yggdrasil, por lo que se pueden unir a la batalla un número indeterminado de figuras.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2036864246">
+        <source>tutorial.chapter03.step06.headline</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Fuerza de combate y cartas de combate</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="495340078">
+        <source>tutorial.chapter03.step06.text01</source>
+        <target xml:lang="es-ES" state="needs-translation">Cada jugador que participe en la batalla debe elegir una carta de su mano, luego se mostrarán todas las cartas al mismo tiempo. Los jugadores que muestren cartas de combate aplican sus efectos y añaden una bonificación de fuerza al total de la fuerza de las figuras en la batalla. Si un jugador muestra una carta de mejora, de monstruo o una misión, no ocurre ningún efecto.
+Algunas cartas especiales de combate se pueden usar incluso cuando los jugadores han mostrado sus cartas.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2061424019">
+        <source>tutorial.chapter03.step06.text02</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Algunas cartas especiales de combate se pueden usar para aumentar la fuerza de tus tropas incluso cuando los jugadores han mostrado sus cartas. Estas cartas especiales tienen una bonificación de fuerza dentro de un disco blanco, e indican en su texto que se pueden jugar después de que se hayan mostrado las cartas, pero antes de que se erija a un vencedor (también se pueden jugar de forma normal). El jugador que saquea tiene la primera oportunidad de añadir la fuerza de una de estas cartas especiales y se continúa en el sentido de las agujas del reloj hasta que ya nadie quiera jugar ninguna.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="45705208">
+        <source>tutorial.chapter03.step07.quest01</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">¡Gana la batalla!</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1028753803">
+        <source>tutorial.chapter03.step07.task01</source>
+        <target xml:lang="es-ES" state="needs-translation">Juega el Azote de Tyr haciendo doble clic sobre ella.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2043266028">
+        <source>tutorial.chapter03.step08.headline</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Pérdida de cartas</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="495120628">
+        <source>tutorial.chapter03.step08.text01</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">El vencedor (si lo hay) debe descartar todas las cartas que ha jugado. Los derrotados deberán coger las descartadas y unirlas a su mano.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2042151915">
+        <source>tutorial.chapter03.step09.headline</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Hachas y Gloria</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="495154451">
+        <source>tutorial.chapter03.step09.text01</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">El vencedor obtiene Gloria, ya sea el que saquea o no. El número de puntos de Gloria que consigue es igual al número de Hachas que tiene. Lo puedes ver en la barra del jugador.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1930396049">
+        <source>tutorial.chapter03.step10.headline</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Aumento del medidor</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="131410183">
+        <source>tutorial.chapter03.step10.text01</source>
+        <target xml:lang="es-ES" state="needs-translation">Antes hablábamos de aumentar el medidor:
+
+Aumentar la Ira te permitirá realizar más acciones.
+Aumentar las Hachas te dará más Gloria por cada batalla que ganes.
+Aumentar los Yelmos te dejará desplegar más figuras.
+
+Al final de la partida también recibirás +10 o +20 de Gloria dependiendo de la posición de tus medidores.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="534694710">
+        <source>tutorial.chapter03.step10.text02</source>
+        <target xml:lang="es-ES" state="needs-translation">Siempre puedes comprobar en qué posición están tus medidores durante la partida si pones el ratón sobre las estadísticas del jugador.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1918804492">
+        <source>tutorial.chapter03.step11.description</source>
+        <target xml:lang="es-ES" state="needs-translation">Haz clic en el botón de Resumen de la batalla</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1931510162">
+        <source>tutorial.chapter03.step11.headline</source>
+        <target xml:lang="es-ES" state="needs-translation">Abre el Resumen de la batalla</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1163039665">
+        <source>tutorial.chapter03.step12.description</source>
+        <target xml:lang="es-ES" state="needs-translation">Haz clic en el botón Atrás</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1932628371">
+        <source>tutorial.chapter03.step12.headline</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Cierra la vista</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="50227342">
+        <source>tutorial.chapter03.step13.description</source>
+        <target xml:lang="es-ES" state="needs-translation">Haz clic en Continuar</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1933742484">
+        <source>tutorial.chapter03.step13.headline</source>
+        <target xml:lang="es-ES" state="needs-translation">Cierra el Escudo de batalla</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-703124906">
+        <source>tutorial.chapter05.headline</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Avanzar</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1947211371">
+        <source>tutorial.chapter05.step01.headline</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Avanzar</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="914094337">
+        <source>tutorial.chapter05.step01.text01</source>
+        <target xml:lang="es-ES" state="needs-translation">Debes pagar 1 de Ira cuando quieras que tus tropas avancen. Elige una provincia y mueve las figuras que quieras desde esta provincia a otra distinta. Las dos provincias no tienen por qué estar adyacentes, aquella que elijas puede estar en cualquier lugar del tablero.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1033743366">
+        <source>tutorial.chapter05.step03.quest01</source>
+        <target xml:lang="es-ES" state="needs-translation">Avanza tu Trol desde Angerboda hacia Muspelheim</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1342489555">
+        <source>tutorial.chapter05.step03.task01</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Elige a tu Trol</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1745774082">
+        <source>tutorial.chapter05.step03.task02</source>
+        <target xml:lang="es-ES" state="needs-translation">Elige un poblado en Muspelheim</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1965340091">
+        <source>tutorial.chapter04.headline</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Mejoras y monstruos</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1259947760">
+        <source>tutorial.chapter04.step01.headline</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Mejoras de clan</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="419125244">
+        <source>tutorial.chapter04.step01.text01</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">En este capítulo veremos cómo jugar las cartas de mejoras de clan. Las cartas de mejoras otorgan ciertas habilidades a tu clan.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1982577664">
+        <source>tutorial.chapter04.step02.quest01</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Usa Embrujo de Frigga en un hueco de mejora</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1129811703">
+        <source>tutorial.chapter04.step02.task01</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Arrastra y suelta la carta en un hueco de mejora vacío</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1265805301">
+        <source>tutorial.chapter04.step04.headline</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Cartas de monstruos</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="418956385">
+        <source>tutorial.chapter04.step04.text01</source>
+        <target xml:lang="es-ES" state="needs-translation">Los monstruos son figuras únicas con habilidades poderosas que pueden cambiar por completo el curso de la partida. Cuando juegas como un monstruo, pasa a ser tuyo para toda la partida y cuenta como una de tus figuras, pero solo puedes tener 2 monstruos a la vez.
+
+Los monstruos se consideran figuras normales, pueden invadir, morir y volver a tu reserva durante la próxima Edad o darte Gloria durante el Ragnarök. Si descartas una carta de monstruo para poner una nueva en el hueco de mejora, la que había desaparecerá de la partida.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1976939583">
+        <source>tutorial.chapter04.step05.quest01</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Juega el Trol</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1129642778">
+        <source>tutorial.chapter04.step05.task01</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Elige la carta de Trol de tu mano y ponla en un hueco de monstruo</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1129710428">
+        <source>tutorial.chapter04.step07.task01</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Pon el monstruo en Angerboda</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1269974761">
+        <source>tutorial.chapter04.step08.headline</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Saqueos sin resistencia</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="418804453">
+        <source>tutorial.chapter04.step08.text01</source>
+        <target xml:lang="es-ES" state="needs-translation">Cuando tengas el control de todos los poblados de una provincia o cuando nadie se una a la Llamada a la batalla, podrás realizar saqueos sin resistencia. Es una manera fácil de aumentar tu medidor, sin el riesgo de perder una batalla y sin necesidad de usar una carta para ganar, pero no conseguirás Gloria.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1972187451">
+        <source>tutorial.chapter04.step09.quest01</source>
+        <target xml:lang="es-ES" state="needs-translation">Saquea Muspelheim</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1129490318">
+        <source>tutorial.chapter04.step09.task01</source>
+        <target xml:lang="es-ES" state="needs-translation">Haz clic en el escudo de armas de Muspelheim</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="873906442">
+        <source>tutorial.chapter04.step10.headline</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Obtener Ira</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="882794306">
+        <source>tutorial.chapter04.step10.text01</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Aunque hayas ganado Ira, esto solo aumenta tu medidor, por lo que no la puedes gastar en esta ronda. El aumento solo tiene efecto al comenzar una nueva ronda.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1005984901">
+        <source>tutorial.chapter06.headline</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Misiones</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="911918918">
+        <source>tutorial.chapter06.step01.headline</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Cartas de misión</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2145008398">
+        <source>tutorial.chapter06.step01.text01</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Jugar una carta de misión no cuesta Ira. Pon la carta en el hueco de misión e intenta completarla durante la Edad actual para obtener los beneficios.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1741723871">
+        <source>tutorial.chapter06.step01.text02</source>
+        <target xml:lang="es-ES" state="needs-translation">No hay límite respecto al número de cartas de misión que puedes usar, y es posible jugar múltiples versiones de la misma carta. No hay penalización si no la completas.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-16905974">
+        <source>tutorial.chapter06.step02.quest01</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Pon tu carta de misión</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-869671935">
+        <source>tutorial.chapter06.step02.task01</source>
+        <target xml:lang="es-ES" state="needs-translation">Arrastra y suelta una carta de misión en su hueco</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="914151240">
+        <source>tutorial.chapter06.step03.headline</source>
+        <target xml:lang="es-ES" state="needs-translation">Completar misiones</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2144940880">
+        <source>tutorial.chapter06.step03.text01</source>
+        <target xml:lang="es-ES" state="needs-translation">Completar misiones es una buena manera de ganar más Gloria y aumentar los medidores de clan. Para conseguirlo, tienes que completar objetivos específicos (ej.: ser el que tenga mayor fuerza en la provincia de una región en concreto). ¡Ten cuidado! Ragnarök puede aumentar o disminuir el interés de ciertas provincias si estas están destruidas.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1662480096">
+        <source>tutorial.chapter07.headline</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Barcos y fiordos</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-175889247">
+        <source>tutorial.chapter07.step01.headline</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Barcos y fiordos</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1650039305">
+        <source>tutorial.chapter07.step01.text01</source>
+        <target xml:lang="es-ES" state="needs-translation">Los barcos solo se pueden poner en los fiordos y no pueden Avanzar. Cada fiordo apoya a las dos provincias a las que está conectado. Todo lo que afecte a la provincia, afectará al fiordo. No hay límite para el número de barcos que pueden ocupar cada fiordo.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-967061297">
+        <source>tutorial.chapter07.step02.quest01</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Pon tu barco en Manheim para asegurarlo.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-657027844">
+        <source>tutorial.chapter07.step02.task01</source>
+        <target xml:lang="es-ES" state="needs-translation">Haz clic en el fiordo entre Élivágar y Angerboda para poner tu barco.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1998814345">
+        <source>tutorial.chapter08.headline</source>
+        <target xml:lang="es-ES" state="needs-translation">Pasar</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="499952468">
+        <source>tutorial.chapter08.step01.headline</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Pasar</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1311006264">
+        <source>tutorial.chapter08.step01.text01</source>
+        <target xml:lang="es-ES" state="needs-translation">Si durante una Edad decides no hacer nada más, aunque todavía te quede Ira, puedes Pasar y rechazar realizar más acciones durante la Edad actual. Pasar reducirá tu Ira a 0 y no podrás realizar más acciones.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1745158676">
+        <source>tutorial.chapter08.step02.quest01</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Pasa el turno</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1540954595">
+        <source>tutorial.chapter08.step02.task01</source>
+        <target xml:lang="es-ES" state="needs-translation">Haz clic en el icono de Edad y pasa el turno</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1187928760">
+        <source>tutorial.chapter08.step02.task02</source>
+        <target xml:lang="es-ES" state="needs-translation">Haz clic en Pasar turno</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-372312046">
+        <source>tutorial.chapter09.headline</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Fin de la Edad</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-587855697">
+        <source>tutorial.chapter09.step01.headline</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Fin de la Edad</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1805975357">
+        <source>tutorial.chapter09.step01.text01</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Al final de cada Edad, hay un número de fases especiales por las que pasa el juego.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-586737488">
+        <source>tutorial.chapter09.step02.headline</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Fase de Descartes</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1806009052">
+        <source>tutorial.chapter09.step02.text01</source>
+        <target xml:lang="es-ES" state="needs-translation">Al principio, los jugadores deben descartarse de todas sus cartas menos una. La carta con la que te quedes no tiene por qué ser de esta Edad, puede ser de la primera.
+Ningún jugador se puede quedar con más de una carta.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="796324378">
+        <source>tutorial.chapter09.step03.quest01</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Elige una carta para quedártela</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1753632447">
+        <source>tutorial.chapter09.step03.task01</source>
+        <target xml:lang="es-ES" state="needs-translation">Selecciona una carta</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-593713238">
+        <source>tutorial.chapter09.step04.headline</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Fase de Misiones</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1805806498">
+        <source>tutorial.chapter09.step04.text01</source>
+        <target xml:lang="es-ES" state="needs-translation">En esta fase, el juego comprueba si se ha completado alguna misión y da las recompensas.
+Puedes elegir uno de los tres medidores para aumentarlo.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="789365272">
+        <source>tutorial.chapter09.step05.quest01</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Elige Yelmos</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1753429761">
+        <source>tutorial.chapter09.step05.task01</source>
+        <target xml:lang="es-ES" state="needs-translation">Haz clic en el "+" de Yelmos
+y confirma</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-591480916">
+        <source>tutorial.chapter09.step06.headline</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Fase de Ragnarök</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1805874016">
+        <source>tutorial.chapter09.step06.text01</source>
+        <target xml:lang="es-ES" state="needs-translation">En esta fase, la provincia condenada se destruye y todas las figuras en ella y en los fiordos adyacentes se envían al Valhalla. Los jugadores reciben una cierta cantidad de Gloria por cada figura destruida, dependiendo de la Edad.
+Los poblados de la provincia condenada se muestran con un dorado brillante.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-590366803">
+        <source>tutorial.chapter09.step07.headline</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Liberación del Valhalla</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1805907839">
+        <source>tutorial.chapter09.step07.text01</source>
+        <target xml:lang="es-ES" state="needs-translation">¡Todas las figuras que estaban en el Valhalla vuelven a sus respectivos dueños para volver a Midgard y luchar una vez más!
+Si durante el juego quieres comprobar quién está en el Valhalla, hazlo desde su menú.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="783292115">
+        <source>tutorial.chapter09.step08.quest01</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Abre el menú del Valhalla</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1753243540">
+        <source>tutorial.chapter09.step08.task01</source>
+        <target xml:lang="es-ES" state="needs-translation">Haz clic en el icono del Valhalla en la esquina superior derecha</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="784613140">
+        <source>tutorial.chapter09.step09.quest01</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Cierra el menú del Valhalla</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1753277301">
+        <source>tutorial.chapter09.step09.task01</source>
+        <target xml:lang="es-ES" state="needs-translation">Mira las entradas y haz clic otra vez en el icono del Valhalla</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1376704400">
+        <source>tutorial.chapter10.headline</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Dones divinos</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2004211835">
+        <source>tutorial.chapter10.step01.headline</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Fase Dones divinos</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-273658895">
+        <source>tutorial.chapter10.step01.text01</source>
+        <target xml:lang="es-ES" state="needs-translation">En esta fase los jugadores sacan las cartas que van a usar en la Edad que comienza. A cada jugador se le reparte un conjunto de cartas y elige una, después pasa el resto a los demás jugadores. Se hará lo mismo hasta que cada jugador haya elegido seis cartas.
+
+Al final de la primera y segunda Edad, cada jugador se puede quedar con una carta de su mano y descarta el resto. 
+Ten en cuenta que las cartas en juego varían según el número de jugadores.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-467231699">
+        <source>tutorial.chapter10.step02.quest01</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Elige tu primera carta</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2080010260">
+        <source>tutorial.chapter10.step02.task01</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Elige Embrujo de Frigga</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2006444157">
+        <source>tutorial.chapter10.step03.headline</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Planea la estrategia</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-273591377">
+        <source>tutorial.chapter10.step03.text01</source>
+        <target xml:lang="es-ES" state="needs-translation">En el Compendio encontrarás una descripción general de los diferentes arquetipos para planear tu estrategia. Estos arquetipos te permitirán descubrir y probar estrategias avanzadas contra la IA u otros jugadores. Algunas cartas son más fáciles de usar y dominar, pero otras son más complejas; sin embargo, aprovechar lo mejor de ellas es lo divertido de Blood Rage.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-474190805">
+        <source>tutorial.chapter10.step04.quest01</source>
+        <target xml:lang="es-ES" state="needs-translation">Elige tu segunda carta</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2080212946">
+        <source>tutorial.chapter10.step04.task01</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Elige la Destrucción de Tyr</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1999468407">
+        <source>tutorial.chapter10.step05.headline</source>
+        <target xml:lang="es-ES" state="needs-translation">Finalizar tutorial</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-273793931">
+        <source>tutorial.chapter10.step05.text01</source>
+        <target xml:lang="es-ES" state="needs-translation">Aunque la fase Dones divinos no se ha acabado, vamos a finalizar el tutorial aquí. ¡Te sugerimos que empieces tu propio juego e intentes sacar una mano poderosa para competir contra los otros clanes!</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1612273416">
+        <source>tutorial.chapter10.step06.quest</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Selecciona una carta</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2080145296">
+        <source>tutorial.chapter10.step06.task01</source>
+        <target xml:lang="es-ES" state="needs-translation">Elige cualquier carta</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="249797899">
+        <source>tutorial.chapter11.headline</source>
+        <target xml:lang="es-ES" state="needs-translation">Fin del tutorial</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="916403670">
+        <source>tutorial.chapter11.step01.headline</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Fin del tutorial</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="221310198">
+        <source>tutorial.chapter11.step01.text01</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Ya sabes todo lo que hay que saber para jugar a Blood Rage. En el Compendio encontrarás no solo todas las reglas, sino también todas las cartas y consejos estratégicos para jugar al juego.
+Si quieres saber más, léelo; si no, esperemos que disfrutes con nuestros juegos.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1958888332">
+        <source>tutorial.description</source>
+        <target xml:lang="es-ES" state="needs-translation">En este tutorial aprenderás a jugar y a usar los controles. Puedes volver más tarde y continuarlo si no puedes completarlo entero.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1365443498">
+        <source>tutorial.headline</source>
+        <target xml:lang="es-ES" state="needs-translation">Tutorial para jugar a Blood Rage</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-81825658">
+        <source>tutorial.startButton</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Comenzar capítulo</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1700028141">
+        <source>tutorial.chapter03.step04.task02</source>
+        <target xml:lang="es-ES" state="needs-translation">Saquea Élivágar haciendo clic en su icono</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-83955364">
+        <source>tutorial.chapter07.step01.text02</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">Como no es posible mover los barcos una vez los pones, debes hacerlo con cuidado.
+Son más poderosos que tus guerreros básicos (y más caros), y pueden influenciar a las dos provincias adyacentes, actuando como una gran medida de control sobre ellas.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1482128577">
+        <source>tutorial.chapter07.step01.text03</source>
+        <target xml:lang="es-ES" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="needs-translation">También son fáciles de arrastrar a las batallas en ambas provincias, y, por lo tanto, son fáciles de perder si no tienes cuidado. ¡Así que sopesa bien dónde quieres gastar esos 2 puntos de Ira para poner un barco!</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

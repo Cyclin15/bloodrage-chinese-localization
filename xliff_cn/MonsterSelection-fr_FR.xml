@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en-US" target-language="fr-FR" datatype="plaintext" original="not.available">
+    <body>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1190794356">
+        <source>SelectAllButton.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">全选</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1315209724">
+        <source>OriginalKickstartMonster.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">原版KS独占怪物</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1518648477">
+        <source>DigitalKickstarterMonsters.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">数字版KS独占怪物</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1294795293">
+        <source>MysticMonsterDLC.Header</source>
+        <target xml:lang="fr-FR">神秘怪物</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="551881377">
+        <source>MysticMonsterDLC.Text</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">准备在米德加尔特放出神秘怪物了吗？它们会听你号令，还是为对手效力？</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-224257421">
+        <source>MysticMonsterDLC.InfoText</source>
+        <target xml:lang="fr-FR">你可以使用 Kickstarter 独占神秘怪物中的部分或全部，也可以将新旧怪物混搭使用。</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1342615287">
+        <source>MysticMonsterDLC.ChooseButton</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">选择</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,16 @@
+{
+"warning.yes": "Confirm",
+"warning.no": "Cancel",
+"warning.repillage": "Do you really want to pay 2 Rage to re-pillage this province?",
+"warning.headline": "Warning",
+"warning.outOfRage": "Do you really want to do this? You will not be able to do any further actions when your Rage is 0.",
+"hint.headline": "Hint",
+"hint.invadeFigurelimit": "You can't place any more figures because you've reached your figure limit.",
+"warning.outOfHornsPlayUpgrade": "Do you really want to play this card? You won't be able to invade with the figure for free because of your figure limit.",
+"warning.rageOutAfterInvade": "Note: When you do this, you will have 0 Rage and will not be able to do any further actions.\nAre you sure?",
+"warning.lastVillage": "Do you really want to do this? The Age will end immediately, and you still have cards to play.",
+"warning.outOfRageCardsLeft": "Do you really want to do this? You will not be able to do any further actions when your Rage is 0, and you still have cards to play.",
+"warning.confirmationHeadline": "Attention!",
+"warning.pillage": "Do you want to pillage this region?",
+"warning.playCard": "Do you want to play this card?"
+}

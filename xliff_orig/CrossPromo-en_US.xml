@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en-US" target-language="en-US" datatype="plaintext" original="not.available">
+    <body>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1172901029">
+        <source>CrossPromo.button.boardgame</source>
+        <target xml:lang="en-US">Board Game</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1868587943">
+        <source>CrossPromo.button.comingsoon</source>
+        <target xml:lang="en-US">Coming Soon</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1988584220">
+        <source>CrossPromo.button.learnmore</source>
+        <target xml:lang="en-US">Learn More</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2041946097">
+        <source>CrossPromo.button.moregames</source>
+        <target xml:lang="en-US">More games</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="780632933">
+        <source>CrossPromo.button.playnow</source>
+        <target xml:lang="en-US">Play Now</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1368983527">
+        <source>CrossPromo.close</source>
+        <target xml:lang="en-US">Close</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1872027130">
+        <source>CrossPromo.ourothergamestitle</source>
+        <target xml:lang="en-US">Check out our other games</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-268175122">
+        <source>CrossPromo.tab.board</source>
+        <target xml:lang="en-US">TableTop</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="378442332">
+        <source>CrossPromo.tab.family</source>
+        <target xml:lang="en-US">Family</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1827749158">
+        <source>CrossPromo.tab.featured</source>
+        <target xml:lang="en-US">Featured</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-263963448">
+        <source>CrossPromo.tab.gamer</source>
+        <target xml:lang="en-US">Advanced</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,788 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en-US" target-language="fr-FR" datatype="plaintext" original="not.available">
+    <body>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="707666803">
+        <source>ActionPhasePannel.begins</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">commence !</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1277144644">
+        <source>ActionPhasePannel.QuestPhase</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Commencer la phase de quête</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-986080342">
+        <source>ActionPhasePannel.StartAge</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Commencer l'Âge</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1918903720">
+        <source>battle.battleSummary</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Résumé de la bataille</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1210543414">
+        <source>battle.battleSummary.cardDiscard</source>
+        <target xml:lang="fr-FR" state="translated">Carte défaussée</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1069622435">
+        <source>battle.battleSummary.cardKeep</source>
+        <target xml:lang="fr-FR" state="translated">Carte rendue au joueur</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="628143723">
+        <source>battle.battleSummary.cardPower</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Puissance de bataille :</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1271937410">
+        <source>battle.battleSummary.figuresDestroyed</source>
+        <target xml:lang="fr-FR" state="translated">(Détruite)</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="727113579">
+        <source>battle.battleSummary.figuresHeadline</source>
+        <target xml:lang="fr-FR" state="translated">Figurines au combat</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1970287160">
+        <source>battle.battleSummary.figuresRemains</source>
+        <target xml:lang="fr-FR" state="translated">(Restante)</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1572726541">
+        <source>battle.battleSummary.glory</source>
+        <target xml:lang="fr-FR" state="translated">Gloire obtenue</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="967473368">
+        <source>battle.battleSummary.pillaged</source>
+        <target xml:lang="fr-FR" state="translated">Caractéristiques des clans</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1086944991">
+        <source>battle.battleSummary.rageChange</source>
+        <target xml:lang="fr-FR" state="translated">La Rage change</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="26924777">
+        <source>battle.rageLost</source>
+        <target xml:lang="fr-FR" state="translated">{0} point(s) de &lt;#A32C2B&gt;Rage&lt;/color&gt;</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1698520981">
+        <source>bear_clan</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Clan de l'ours</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-135465529">
+        <source>ClanStat.gain10glory</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">+10 Points de Gloire</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="758730892">
+        <source>ClanStat.gain20glory</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">+20 Points de Gloire</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1692369536">
+        <source>clanstatselection.AxesHint</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Augmenter le niveau de &lt;color=#1C6EA8&gt;Haches&lt;/color&gt; de 1 rang ?</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="189938298">
+        <source>clanstatselection.description</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Choisissez une caractéristique du clan à améliorer</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-750740512">
+        <source>clanstatselection.headline</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Améliorer une caractéristique de clan</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1666270557">
+        <source>clanstatselection.HornsHint</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Augmenter le niveau de &lt;color=#6D6D6D&gt;Cornes&lt;/color&gt; de 1 rang ?</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-103819052">
+        <source>clanstatselection.RageHint</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Augmenter le niveau de &lt;color=#A71C1C&gt;Rage&lt;/color&gt; de 1 rang ?</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1432677995">
+        <source>Confirmation.ForfeitLastHumanPlayer.Content</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">Vos adversaires se sont retirés du combat. Vous pouvez terminer le jeu maintenant ou jouer jusqu'à la fin. Le jeu est considéré comme une victoire pour vous.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1440214520">
+        <source>Confirmation.ForfeitLastHumanPlayer.Headline</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">A gagné</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="754911875">
+        <source>Confirmation.GameAborted.Content</source>
+        <target xml:lang="fr-FR" state="translated">La partie a été annulée. Le compte à rebours de tous les joueurs est écoulé.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1353131854">
+        <source>Confirmation.GameAborted.Headline</source>
+        <target xml:lang="fr-FR" state="translated">Partie annulée</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1690511338">
+        <source>Confirmation.LastHumanPlayer.Content</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">Vos adversaires se sont retirés du combat. Vous pouvez terminer le jeu maintenant ou jouer jusqu'à la fin. Le jeu est considéré comme une victoire tant que vous êtes le dernier joueur humain dans le jeu.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="242155823">
+        <source>Confirmation.LastHumanPlayer.Headline</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">Dernier acteur humain</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1236281026">
+        <source>Confirmation.PlayerBecomeRobot.Content</source>
+        <target xml:lang="fr-FR" state="translated">Un joueur a été remplacé par une IA.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="120754621">
+        <source>Confirmation.PlayerBecomeRobot.Headline</source>
+        <target xml:lang="fr-FR" state="translated">Joueur remplacé !</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-731467090">
+        <source>Confirmation.PlayerForfeit.Content</source>
+        <target xml:lang="fr-FR">Un joueur a déclaré forfait et ne reviendra pas. Il est remplacé par une IA.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2113281191">
+        <source>Confirmation.PlayerForfeit.Headline</source>
+        <target xml:lang="fr-FR" state="translated">Un joueur a déclaré forfait !</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2060689092">
+        <source>Confirmation.PlayerLeft.Content</source>
+        <target xml:lang="fr-FR">Un joueur a quitté la partie et reviendra peut-être plus tard. Il est provisoirement remplacé par une IA.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="642723165">
+        <source>Confirmation.PlayerLeft.Headline</source>
+        <target xml:lang="fr-FR" state="translated">Joueur parti !</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1621727777">
+        <source>Confirmation.PlayerLeftInvite.Content</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">Un joueur a quitté la partie et reviendra peut-être plus tard.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-303776650">
+        <source>Confirmation.PlayerTimeout.Content</source>
+        <target xml:lang="fr-FR">Un joueur a dépassé sa limite de temps et ne reviendra pas. Il est remplacé par une IA.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1248191037">
+        <source>Confirmation.PlayerTimeout.Headline</source>
+        <target xml:lang="fr-FR" state="translated">Le temps d'un joueur est écoulé !</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-215545165">
+        <source>Confirmation.StatusGameAborted.Content</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">Le jeu était terminé.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2072461960">
+        <source>Confirmation.StatusGameAborted.Headline</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">Jeu terminé</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1818362727">
+        <source>Confirmation.Timeout.Content</source>
+        <target xml:lang="fr-FR" state="translated">Votre compte à rebours est écoulé. Vous n'avez plus de temps et vous ne pourrez pas poursuivre la partie.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-906755272">
+        <source>Confirmation.Timeout.Headline</source>
+        <target xml:lang="fr-FR" state="translated">Temps écoulé !</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-466288011">
+        <source>Confirmation.UpgradeFailed.Content</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Comme vos emplacements d'amélioration sont pleins, vous devez choisir manuellement quelle amélioration remplacer par celle-ci.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1202166975">
+        <source>Confirmation.UpgradeFailed.Header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Choisir un emplacement</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="797339190">
+        <source>Confirmation.WannaForfeit.Content</source>
+        <target xml:lang="fr-FR" state="translated">Voulez-vous vraiment déclarer forfait ?</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="240103">
+        <source>Confirmation.WannaForfeit.Headline</source>
+        <target xml:lang="fr-FR" state="translated">Déclarer forfait ?</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1406313268">
+        <source>DiscardMenu.KeepNone</source>
+        <target xml:lang="fr-FR">N’en garder aucune</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2082909178">
+        <source>endOfGame.battleLost</source>
+        <target xml:lang="fr-FR" state="translated">Batailles perdues</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1620770304">
+        <source>endOfGame.battleWon</source>
+        <target xml:lang="fr-FR" state="translated">Batailles gagnées</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2132814515">
+        <source>endOfGame.glory</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Gloire totale</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="677655803">
+        <source>endOfGame.gloryClanStat</source>
+        <target xml:lang="fr-FR" state="translated">Gloire supplémentaire pour les caractéristiques de clan</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1775885067">
+        <source>endOfGame.questFailed</source>
+        <target xml:lang="fr-FR" state="translated">Quêtes échouées</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1528846365">
+        <source>endOfGame.questFulfilled</source>
+        <target xml:lang="fr-FR" state="translated">Quêtes accomplies</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="761370408">
+        <source>endOfGame.ranking</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Classement</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1458353591">
+        <source>endOfGame.statistics</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Statistiques</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1230658997">
+        <source>figureAmount.text</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">&lt;size=18&gt;x&lt;/size&gt;{0}</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="627597057">
+        <source>godsgift_button_hide</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Voir la carte</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1219097308">
+        <source>godsgift_button_show</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Voir cartes</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1420511183">
+        <source>godsgift_text</source>
+        <target xml:lang="fr-FR" state="translated">Sélectionnez une carte à conserver et passez les autres.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1308361421">
+        <source>godsgift_text_two_players</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Sélectionnez deux cartes à conserver et passez les autres.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-82591902">
+        <source>godsgift_title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Cadeau des Dieux</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1831121570">
+        <source>Hildisvini.CancelInvade</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Non</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="859215958">
+        <source>Hildisvini.ConfirmInvade</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Oui</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1738923065">
+        <source>Hildisvini.ConfirmInvadeOverlayContent</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Êtes-vous sûr de vouloir envahir avec Hildisvini ?</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1425377881">
+        <source>Hildisvini.ConfirmInvadeOverlayHeader</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Envahir avec Hildisvini</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1023112613">
+        <source>ingame.ageflag.firstage</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">PREMIER ÂGE</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2061637295">
+        <source>ingame.ageflag.secondage</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">DEUXIÈME ÂGE</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-749785394">
+        <source>ingame.ageflag.thirdage</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">TROISIÈME ÂGE</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-433247283">
+        <source>ingame.agetrack.actonphase</source>
+        <target xml:lang="fr-FR" state="translated">Action</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-344723814">
+        <source>ingame.agetrack.actonphase.content</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Lors de cette phase, les joueurs jouent leurs Cartes d'Amélioration, envahissent des provinces avec leurs figurines et tentent de piller Midgard. La phase prend fin quand toutes les provinces ont été pillées ou que tous les joueurs ont épuisé leur Rage.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-851306598">
+        <source>ingame.agetrack.completed</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Terminé !</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1216161328">
+        <source>ingame.agetrack.discardphase</source>
+        <target xml:lang="fr-FR" state="translated">Défausse</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1235882007">
+        <source>ingame.agetrack.discardphase.content</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Pendant la phase de défausse, tous les joueurs doivent défausser leurs cartes restantes, mais chaque joueur peut conserver une carte de sa main pour l'Âge suivant.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-675488452">
+        <source>ingame.agetrack.godsgift</source>
+        <target xml:lang="fr-FR" state="translated">Cadeau des Dieux</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2129183541">
+        <source>ingame.agetrack.godsgift.content</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Pendant cette phase, tous les joueurs sélectionnent leur Cadeau des Dieux pour l'Âge en cours. Chaque joueur reçoit 8 cartes et en choisit une à garder. Les cartes restantes sont transmises au joueur à sa gauche. Tous les joueurs choisissent une autre carte, et continuent jusqu'à ce que tous les joueurs aient sélectionné six cartes.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1681457605">
+        <source>Ingame.AgeTrack.PassTurn</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">Passer tour</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="690601483">
+        <source>ingame.agetrack.quest</source>
+        <target xml:lang="fr-FR" state="translated">Quête</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1809708358">
+        <source>ingame.agetrack.quest.content</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Pendant la phase de quête, toutes les Cartes de Quête jouées sont révélées et les récompenses (points de Gloire et amélioration des caractéristiques) sont accordées en cas de quête réussie. Les Cartes de Quête sont ensuite défaussées.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1724232317">
+        <source>ingame.agetrack.ragnarök</source>
+        <target xml:lang="fr-FR" state="translated">Ragnarök (&lt;color=#{1}&gt;{0}&lt;/color&gt;)</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2139445698">
+        <source>ingame.agetrack.ragnarök.content</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Pendant la phase du Ragnarök, la province condamnée est détruite, toutes les figurines qui se trouvent dans la province et le fjord adjacent sont envoyées au Valhalla, et les joueurs gagnent des points pour chaque figurine détruite (selon l'Âge en cours).</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1744062497">
+        <source>ingame.agetrack.ragnarök.upcoming</source>
+        <target xml:lang="fr-FR" state="translated">Le Ragnarök frappera &lt;color=#{1}&gt;{0}&lt;/color&gt; à la fin de l'Âge {2}.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-935608225">
+        <source>ingame.agetrack.releasevalhalla</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Libération du Valhalla</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1624171946">
+        <source>ingame.agetrack.releasevalhalla.content</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Pendant la phase du Valhalla, tous les joueurs récupèrent leurs figurines au Valhalla, l'Âge prend fin et le suivant commence (ou la partie prend fin et le score final est calculé). </target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="771882153">
+        <source>ingame.battle.battlesummary</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Résumé de la bataille</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-451805568">
+        <source>ingame.battle.continue</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Continuer</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1403755379">
+        <source>ingame.battle.draw</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Égalité !</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="435674853">
+        <source>ingame.battle.draw.helpText</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Toutes les figurines détruites vont au Valhalla</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-655067333">
+        <source>ingame.battle.win</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Victoire !</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2063431424">
+        <source>ingame.battleticker.autoSkipAdditionalCard</source>
+        <target xml:lang="fr-FR">Vous n'avez pas de carte supplémentaire que vous pouvez jouer à ce stade</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="805190749">
+        <source>ingame.battleticker.calltobattle.desc</source>
+        <target xml:lang="fr-FR" state="translated">Vous pouvez maintenant envoyer une figurine au combat !</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-352920249">
+        <source>ingame.battleticker.calltobattle.header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Appel au Combat</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="557859357">
+        <source>ingame.battleticker.calltobattle.opponent</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Un adversaire envisage de rejoindre le combat.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1040747382">
+        <source>ingame.battleticker.friggasprotection.desc</source>
+        <target xml:lang="fr-FR" state="translated">Vous pouvez dépenser 1 point de Rage pour empêcher l'une de vos figurines d'être détruite.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-525574641">
+        <source>ingame.battleticker.generic.opponent</source>
+        <target xml:lang="fr-FR" state="translated">L'adversaire réfléchit à son prochain coup.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1612456325">
+        <source>ingame.battleticker.heimdallsaddstrength.desc</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Vous pouvez jouer une Carte de Bataille supplémentaire.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1004821239">
+        <source>ingame.battleticker.heimdallsaddstrength.header</source>
+        <target xml:lang="fr-FR" state="translated">Carte supplémentaire</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="346914829">
+        <source>ingame.battleticker.invadeafterbattle.desc</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Vous pouvez envahir cette province avec un Guerrier gratuitement.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-60023626">
+        <source>ingame.battleticker.moveleader.desc</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Vous pouvez déplacer votre Chef.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1972259612">
+        <source>ingame.battleticker.no</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Non</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1384617848">
+        <source>ingame.battleticker.odingstide.desc</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Vous devez sélectionner l'une de vos figurines. Toutes vos autres figurines seront détruites.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-666705294">
+        <source>ingame.battleticker.pass</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Passer</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-371361739">
+        <source>ingame.battleticker.pillageafterinvade.desc</source>
+        <target xml:lang="fr-FR" state="translated">Vous pouvez piller cette province contre 2 points de Rage. Le pillage commencera juste après cette bataille.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="872249586">
+        <source>ingame.battleticker.pillageafterinvade.head</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Domaine de Thor</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2106468880">
+        <source>ingame.battleticker.playbattlecard.desc</source>
+        <target xml:lang="fr-FR" state="translated">Vous devez jouer une carte.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="154958632">
+        <source>ingame.battleticker.playbattlecard.header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Jouer une carte</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1951414938">
+        <source>ingame.battleticker.questasbattlecard.desc</source>
+        <target xml:lang="fr-FR" state="translated">Voulez-vous que votre Carte de Quête soit traitée comme une Carte de Bataille +{0} ?</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1233491259">
+        <source>ingame.battleticker.retreat.desc</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Vous pouvez battre en retraite avec l'une de vos figurines.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-812895555">
+        <source>ingame.battleticker.retreat.header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Retraite</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-512246452">
+        <source>ingame.battleticker.skip</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Passer</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1644379297">
+        <source>ingame.battleticker.tyrsprowess.desc</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Vous pouvez choisir une carte à protéger en dépensant 1 point de Rage.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1534186626">
+        <source>ingame.battleticker.yes</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Oui</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1667682480">
+        <source>ingame.clanstat.axes</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Haches</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1518099891">
+        <source>ingame.clanstat.horns</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Cornes</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-847558296">
+        <source>ingame.clanstat.rage</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Rage</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1409035731">
+        <source>ingame.CouldNotReconnect.Content</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">La reconnexion au serveur a échoué. Veuillez essayer de vous reconnecter à partir du menu principal.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1893583546">
+        <source>ingame.CouldNotReconnect.Title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">Impossible de se reconnecter</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="982908201">
+        <source>ingame.discardphase.Content</source>
+        <target xml:lang="fr-FR" state="translated">Vous pouvez choisir une carte à conserver à l'Âge suivant et défausser le reste.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="117322895">
+        <source>ingame.discardphase.Header</source>
+        <target xml:lang="fr-FR" state="translated">Défausse</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1054305105">
+        <source>ingame.drafttimer</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Reste {0} secondes.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1621161433">
+        <source>ingame.endgame.continue</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Continuer</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-165496059">
+        <source>ingame.endofAge.firstage</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">PREMIER ÂGE</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="526624543">
+        <source>ingame.endofAge.secondage</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">DEUXIÈME ÂGE</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1687146578">
+        <source>ingame.endofAge.thirdage</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">TROISIÈME ÂGE</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-332317892">
+        <source>ingame.endOfAge.Title</source>
+        <target xml:lang="fr-FR">FIN DU</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-993021057">
+        <source>ingame.nextplayer</source>
+        <target xml:lang="fr-FR">TOUR DE &lt;#{0}&gt;{1}&lt;/color&gt;</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-943340206">
+        <source>ingame.nextplayer.alternative</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">TOUR DE &lt;#{0}&gt;{1}&lt;/color&gt;</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1931914063">
+        <source>ingame.nextplayer.confirm</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">OK</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1142048142">
+        <source>ingame.provinceinfo.ragnarok.age1</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Le Ragnarök frappera ici au premier Âge.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1142048141">
+        <source>ingame.provinceinfo.ragnarok.age2</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Le Ragnarök frappera ici au deuxième Âge.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1142048140">
+        <source>ingame.provinceinfo.ragnarok.age3</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Le Ragnarök frappera ici au troisième Âge.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-950604892">
+        <source>ingame.provinceinfo.ragnarok.doomed</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Le Ragnarök frappera ici à la fin de cet Âge.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1485238340">
+        <source>ingame.valhalla.playername</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">{0} ({1})</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1977235864">
+        <source>OpponentPlayerBoard.HandCards</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Cartes à main</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1224422326">
+        <source>OpponentPlayerBoard.PlayedCards</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Cartes jouées</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="913293057">
+        <source>pause.continue</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Continuer</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-373166211">
+        <source>pause.forfeit</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Déclarer forfait</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1613165099">
+        <source>pause.quit</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Quitter</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1252087413">
+        <source>pause.settings</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Paramètres</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2084090304">
+        <source>pillageTokenAll.gainToolTip</source>
+        <target xml:lang="fr-FR">&lt;#EED468&gt;Caractéristiques du clan +1&lt;/color&gt;</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="931088756">
+        <source>pillageTokenAxes.gainToolTip</source>
+        <target xml:lang="fr-FR">&lt;#1C6FA8&gt;Haches +1&lt;/color&gt;</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2061460326">
+        <source>pillageTokenGlory.gainToolTip</source>
+        <target xml:lang="fr-FR">&lt;#EED468&gt;Gloire +5&lt;/color&gt;</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="589230468">
+        <source>pillageTokenHorn.gainToolTip</source>
+        <target xml:lang="fr-FR">&lt;#6C6C6C&gt;Cornes +1&lt;/color&gt;</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1807865752">
+        <source>pillageTokenRage.gainToolTip</source>
+        <target xml:lang="fr-FR">&lt;#A81C1C&gt;Rage +1&lt;/color&gt;</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-319511643">
+        <source>PlayerFrame.Menu.ChatButton</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Discussion</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-497281907">
+        <source>PlayerFrame.Menu.EmoteButton</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Emote</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="235363629">
+        <source>PlayerFrame.Menu.GameLogButton</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Journal de la partie</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1891664441">
+        <source>PlayerFrame.Menu.InfoButton</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Info</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1957803676">
+        <source>PlayerFrame.Menu.SettingsButton</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Paramètres</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1520049249">
+        <source>province.Andlang</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Andlang</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1152412451">
+        <source>province.Angerboda</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Angerboda</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1464175378">
+        <source>province.Elvagar</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Elvagar</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="574492372">
+        <source>province.Gimle</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Gimle</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1698367360">
+        <source>province.Horgr</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Horgr</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-891628081">
+        <source>province.Muspelheim</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Muspelheim</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-7105603">
+        <source>province.Myrkulor</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Myrkulor</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-551232991">
+        <source>province.Utgard</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Utgard</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1815675506">
+        <source>province.Yggdrasil</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Yggdrasil</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1100425813">
+        <source>ram_clan</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Clan du Bélier</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1892376103">
+        <source>ranking.fifth</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">5e</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1489092224">
+        <source>ranking.first</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">1er</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1716485454">
+        <source>ranking.fourth</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">4e</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="796353582">
+        <source>ranking.second</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">2e</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-64181193">
+        <source>ranking.third</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">3e</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-34159495">
+        <source>raven_clan</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Clan du Corbeau</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-501656922">
+        <source>serpent_clan</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Clan du Serpent</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1405413390">
+        <source>stag_clan</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Clan du Cerf</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="415722596">
+        <source>tooltip.figuresLost</source>
+        <target xml:lang="fr-FR" state="translated">Figurines perdues :</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1018415894">
+        <source>tooltip.glory.Battle</source>
+        <target xml:lang="fr-FR" state="translated">Gloire obtenue au combat :</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-356215535">
+        <source>tooltip.glory.ClanStatBonus</source>
+        <target xml:lang="fr-FR" state="translated">Bonus de caractéristique de clan :</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1580599624">
+        <source>tooltip.glory.ClanUpgrade</source>
+        <target xml:lang="fr-FR" state="translated">Améliorations de clan :</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="315319166">
+        <source>tooltip.glory.Quest</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Quêtes :</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-350547962">
+        <source>tooltip.glory.Ragnarock</source>
+        <target xml:lang="fr-FR" state="translated">Ragnarök :</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1478387954">
+        <source>tooltip.glory.Title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Gloire totale :</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="321903764">
+        <source>tooltip.QuestFailed</source>
+        <target xml:lang="fr-FR" state="translated">Quêtes échouées</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1721118716">
+        <source>tooltip.QuestFulfilled</source>
+        <target xml:lang="fr-FR" state="translated">Quêtes accomplies</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1980024806">
+        <source>TyrsProwess.CardSelection.Skip</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Passer</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1133049754">
+        <source>TyrsProwess.CardSelection.Text</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Sélectionnez une carte et dépensez 1 point de Rage pour la conserver.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1618908273">
+        <source>TyrsProwess.CardSelection.Title</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Prouesse de Tyr</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="270131598">
+        <source>UpgradeQuest.Stack</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">Vous pouvez empiler plusieurs quêtes.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1673254409">
+        <source>valhalla</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Valhalla</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-650126029">
+        <source>wildboar_clan</source>
+        <target xml:lang="fr-FR" state="translated">Clan du Sanglier</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1875888623">
+        <source>winLose.elo</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Elo</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2090042774">
+        <source>winLose.glory</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Gloire obtenue</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="462438365">
+        <source>winLose.rank</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Rang global</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-532253043">
+        <source>winlose_defeat</source>
+        <target xml:lang="fr-FR" state="translated">Défaite</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1881221092">
+        <source>winlose_victory</source>
+        <target xml:lang="fr-FR" state="translated">Victoire</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1993519209">
+        <source>wolf_clan</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2" state="translated">Clan du Loup</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="190639752">
+        <source>battle.description</source>
+        <target xml:lang="fr-FR">&lt;#{0}&gt;{1}&lt;/color&gt; tente de piller {2}</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="532719447">
+        <source>battleWinIndicator.winning</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">Gagner</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1945813649">
+        <source>battleWinIndicator.won</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">A gagné</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="103009010">
+        <source>ingame.battleticker.discard.header</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">Jeter</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1244123775">
+        <source>ingame.battleticker.discard.description</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">Le gagnant se défait des cartes qu'il a jouées
+Le(s) perdant(s) récupère(nt) les cartes jouées</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1828997515">
+        <source>ingame.battletoken.text</source>
+        <target xml:lang="fr-FR">BATAILLE!</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="867712636">
+        <source>Battleshield.BattleForTitlePart1</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">BATAILLE</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1270997163">
+        <source>Battleshield.BattleForTitlePart2</source>
+        <target xml:lang="fr-FR" xmlns="urn:oasis:names:tc:xliff:document:1.2">POUR</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1643350910">
+        <source>ingame.battleticker.skipandremember</source>
+        <target xml:lang="fr-FR">Passer pour cette bataille</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

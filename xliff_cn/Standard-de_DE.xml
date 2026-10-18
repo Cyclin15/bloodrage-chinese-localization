@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en-US" target-language="de-DE" datatype="plaintext" original="not.available">
+    <body>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-881680854">
+        <source>Standard.Alert.Back</source>
+        <target xml:lang="de-DE">返回</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1157790979">
+        <source>Standard.Alert.Cancel</source>
+        <target xml:lang="de-DE">取消</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-684626838">
+        <source>Standard.Alert.Continue</source>
+        <target xml:lang="de-DE">继续</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1326455748">
+        <source>Standard.Alert.No</source>
+        <target xml:lang="de-DE">否</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1326455775">
+        <source>Standard.Alert.Ok</source>
+        <target xml:lang="de-DE">确定</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-881164606">
+        <source>Standard.Alert.Skip</source>
+        <target xml:lang="de-DE">跳过</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1829534396">
+        <source>Standard.Alert.Yes</source>
+        <target xml:lang="de-DE">是</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1810607961">
+        <source>Standard.Error.MessageFormat</source>
+        <target xml:lang="de-DE">刚刚发生了一个错误：{0}</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1757951711">
+        <source>Standard.Error.Title</source>
+        <target xml:lang="de-DE">错误</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1781842377">
+        <source>Standard.NbDays.Format</source>
+        <target xml:lang="de-DE">{0} 天</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1438033153">
+        <source>Standard.NbDays.ShortFormat</source>
+        <target xml:lang="de-DE">{0}天</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="2118034171">
+        <source>Standard.NbHours.Format</source>
+        <target xml:lang="de-DE">{0} 小时</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1492929777">
+        <source>Standard.NbHours.ShortFormat</source>
+        <target xml:lang="de-DE">{0}时</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1671238165">
+        <source>Standard.NbMinutes.Format</source>
+        <target xml:lang="de-DE">{0} 分钟</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1618428385">
+        <source>Standard.NbMinutes.ShortFormat</source>
+        <target xml:lang="de-DE">{0}分</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="227421259">
+        <source>Standard.NbSeconds.Format</source>
+        <target xml:lang="de-DE">{0} 秒</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1585087553">
+        <source>Standard.NbSeconds.ShortFormat</source>
+        <target xml:lang="de-DE">{0}秒</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

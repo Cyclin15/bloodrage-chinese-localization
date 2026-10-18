@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:jms="urn:jms:translation" version="1.2">
+  <file source-language="en-US" target-language="en-US" datatype="plaintext" original="not.available">
+    <body>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="695828496">
+        <source>SSO.AccountCreationSuccess.LoginErrorMessage</source>
+        <target xml:lang="en-US">Thank you.
+A confirmation e-mail was sent to you.
+Your account was created but we failed to log you in.
+Please try again.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="326694703">
+        <source>SSO.AccountCreationSuccess.Message</source>
+        <target xml:lang="en-US">An activation e-mail was sent to your address, make sure you check it. Non-activated accounts will be deleted after 7 days.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="923124608">
+        <source>SSO.AccountCreationSuccess.Title</source>
+        <target xml:lang="en-US">Account Created</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="99998193">
+        <source>SSO.AlreadyPlayedPanel.Message</source>
+        <target xml:lang="en-US">Do you already have an &lt;color=white&gt;Asmodee.net&lt;/color&gt; account?</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-497010819">
+        <source>SSO.AlreadyPlayedPanel.SubMessage</source>
+        <target xml:lang="en-US">We'll help you find your account</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-578785598">
+        <source>SSO.AlreadyPlayedPanel.Title</source>
+        <target xml:lang="en-US">Played Online before?</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="371857150">
+        <source>SSO.ChooseALoginPanel.LoginNameAvailable</source>
+        <target xml:lang="en-US">excelent choice</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="371857150">
+        <source>SSO.ChooseALoginPanel.LoginNameUnAvailable</source>
+        <target xml:lang="en-US">login already taken</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1468342546">
+        <source>SSO.ChooseALoginPanel.LoginPLaceholder</source>
+        <target xml:lang="en-US">login</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-616673185">
+        <source>SSO.ChooseALoginPanel.Message</source>
+        <target xml:lang="en-US">Please choose a login name and a password for your account:</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="371857150">
+        <source>SSO.ChooseALoginPanel.PasswordLevel0</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">password too weak</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="371857150">
+        <source>SSO.ChooseALoginPanel.PasswordLevel1</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">weak password</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="371857150">
+        <source>SSO.ChooseALoginPanel.PasswordLevel2</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">average password</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="371857150">
+        <source>SSO.ChooseALoginPanel.PasswordLevel3</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">good password</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="371857150">
+        <source>SSO.ChooseALoginPanel.PasswordLevel4</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">awesome password</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1655260080">
+        <source>SSO.ChooseALoginPanel.PasswordPLaceholder</source>
+        <target xml:lang="en-US">password</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1802985667">
+        <source>SSO.ChooseALoginPanel.PasswordStrengthMessage</source>
+        <target xml:lang="en-US">Password Strength</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="28289200">
+        <source>SSO.ChooseALoginPanel.Title</source>
+        <target xml:lang="en-US">Create your account</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="66225355">
+        <source>SSO.Error.BadLoginPasswordCombination</source>
+        <target xml:lang="en-US">Bad Login and/or Password. Please check your credentials and retry.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1177354776">
+        <source>SSO.Error.InvalidEmailOrPassword</source>
+        <target xml:lang="en-US">Invalid e-mail or password.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1275326337">
+        <source>SSO.Error.LoginOrEmailBadlyFormatted</source>
+        <target xml:lang="en-US">Login or e-mail seems to be badly formatted.
+Login must be 4 characters long minimum and must not use special characters.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1715321820">
+        <source>SSO.Error.LoginOrEmailNotFound</source>
+        <target xml:lang="en-US">Login or e-mail not found.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="621656279">
+        <source>SSO.Error.UnableToConnect</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">Unable to establish a connection with the server. Please check your internet connection or try again later.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="871762810">
+        <source>SSO.Error.UnexpectedSignUpError</source>
+        <target xml:lang="en-US">An error just occurred during account creation. Please try again.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="277583448">
+        <source>SSO.Error.WarningChooseALoginSlowResponse</source>
+        <target xml:lang="en-US">The connection seems to be abnormaly slow...</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-2089547625">
+        <source>SSO.LoginPanel.LoginEmailInvalidMessage</source>
+        <target xml:lang="en-US">Invalid login or e-mail</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1016311917">
+        <source>SSO.LoginPanel.Message</source>
+        <target xml:lang="en-US">Please enter your login or e-mail address</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-425775361">
+        <source>SSO.LoginPanel.Placeholder</source>
+        <target xml:lang="en-US">login or e-mail</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1274799332">
+        <source>SSO.LoginPanel.Title</source>
+        <target xml:lang="en-US">Login</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="994520919">
+        <source>SSO.PasswordPanel.EmailSentMessage</source>
+        <target xml:lang="en-US">We sent you an e-mail. Please follow the instructions.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-3706503">
+        <source>SSO.PasswordPanel.ForgotButton</source>
+        <target xml:lang="en-US">Forgot your password?</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="876061763">
+        <source>SSO.PasswordPanel.Message</source>
+        <target xml:lang="en-US">We found your account.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1248327217">
+        <source>SSO.PasswordPanel.PasswordInvalidMessage</source>
+        <target xml:lang="en-US">Invalid password</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1554994257">
+        <source>SSO.PasswordPanel.Placeholder</source>
+        <target xml:lang="en-US">password</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-671832684">
+        <source>SSO.PasswordPanel.Title</source>
+        <target xml:lang="en-US">Password</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1163969394">
+        <source>SSO.PasswordReset.Message</source>
+        <target xml:lang="en-US">We sent you an e-mail. Please follow the instructions.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1600902303">
+        <source>SSO.PasswordReset.Title</source>
+        <target xml:lang="en-US">Password Reset</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1408236666">
+        <source>SSO.WelcomePanel.Message</source>
+        <target xml:lang="en-US">Welcome to &lt;color=white&gt;Asmodee.net&lt;/color&gt;
+Please enter your e-mail address,
+we'll keep it confidential.</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="35917926">
+        <source>SSO.WelcomePanel.Placeholder</source>
+        <target xml:lang="en-US">e-mail</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="702094420">
+        <source>SSO.WelcomePanel.SubMessage</source>
+        <target xml:lang="en-US">We'll keep your e-mail confidential</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="371857150">
+        <source>SSO.WelcomePanel.SubscribedNewsletterMessage</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">Thank you for subscribing</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="982436289">
+        <source>SSO.WelcomePanel.SubscribeNewsletterMessage</source>
+        <target xml:lang="en-US">Subscribe to our Newsletter</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1618763893">
+        <source>SSO.WelcomePanel.Title</source>
+        <target xml:lang="en-US">Welcome!</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="371857150">
+        <source>SSO.UpdateEmailPopUp.Title</source>
+        <target xml:lang="en-US" xmlns="urn:oasis:names:tc:xliff:document:1.2">e-mail</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="1277087745">
+        <source>SSO.LoginPanel.LoginSuccessful</source>
+        <target xml:lang="en-US">Successful!</target>
+      </trans-unit>
+      <trans-unit xmlns="urn:oasis:names:tc:xliff:document:1.2" id="-1075577990">
+        <source>SSO.LoginPanel.LoginFailed</source>
+        <target xml:lang="en-US">Failed!</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
